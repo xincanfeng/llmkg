@@ -1,0 +1,46 @@
+adjacent to
+affects
+analyzes
+assesses effect of
+associated with
+carries out
+causes
+co-occurs with
+complicates
+conceptual part of
+conceptually related to
+connected to
+consists of
+contains
+degree of
+derivative of
+developmental form of
+diagnoses
+disrupts
+evaluation of
+exhibits
+indicates
+ingredient of
+interacts with
+interconnects
+isa
+issue in
+location of
+manages
+manifestation of
+measurement of
+measures
+method of
+occurs in
+part of
+performs
+practices
+precedes
+prevents
+process of
+produces
+property of
+result of
+surrounds
+treats
+uses

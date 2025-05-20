@@ -1,0 +1,5 @@
+<'experimental model of disease', 'precedes', 'pathologic function'>
+<'experimental model of disease', 'precedes', 'mental or behavioral dysfunction'>
+<'self help or relief organization', 'location of', 'research activity'>
+<'element ion or isotope', 'affects', 'biologic function'>
+<'biologically active substance', 'disrupts', 'tissue'>

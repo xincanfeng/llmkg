@@ -1,0 +1,13 @@
+Based on the provided document segments, the key purposes and motivations for creating and extending the Unified Medical Language System (UMLS) knowledge graph are:
+
+1. **Fostering interoperability**: To enable the creation of more effective and interoperable biomedical information systems and services, including electronic health records.
+2. **Integration of vocabularies**: To bring together various health and biomedical vocabularies and standards, harmonizing terminology and enabling interoperability between different computer systems.
+3. **Improving entity and relation definitions**: To provide hierarchies, definitions, relationships, and other attributes for terms and codes from multiple vocabularies.
+4. **Supporting clinical practice**: To link terms and codes across healthcare entities, facilitating communication and coordination among healthcare professionals.
+5. **Enhancing patient care coordination**: To facilitate communication among hospital departments and improve patient care.
+6. **Advancing text processing**: To extract concepts, relationships, or knowledge from medical texts and improve natural language processing.
+7. **Terminology mapping**: To map between different terminologies and facilitate the exchange of information between systems.
+8. **Local terminology development**: To create and maintain local terminologies, allowing for customization and adaptation to specific contexts.
+9. **Supporting research**: To investigate terminologies or ontologies, enabling researchers to better understand and analyze biomedical data.
+
+These purposes and motivations highlight the importance of creating and extending the UMLS knowledge graph to improve the integration, sharing, and reuse of biomedical information, ultimately enhancing healthcare

@@ -1,0 +1,24 @@
+# data/*/metadata/
+# data/*/gt/
+# data/sources/
+# data/
+data_all/
+output*/
+output_anno
+output_mask
+output_mask_bk
+output_mask_bk1
+output_merge
+output_baselines*/
+graphusion_conf/
+merged_output/
+test/
+test*/
+test_keywords*/
+test_models*/
+test_dbs*/
+bk/
+*.log
+__pycache__
+wandb
+baselines/

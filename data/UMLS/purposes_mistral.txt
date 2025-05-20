@@ -1,0 +1,12 @@
+* Fostering creation of effective and interoperable biomedical information systems and services, including electronic health records
+* Enabling interoperability between different computer systems by harmonizing terminology
+* Providing hierarchies, definitions, relationships, and attributes for integrated vocabularies and standards
+* Facilitating communication among hospital departments
+* Linking terms and codes across healthcare entities
+* Extracting concepts, relationships, or knowledge from medical texts
+* Investigating terminologies or ontologies
+* Creating and maintaining local terminologies
+* Mapping between different terminologies
+* Assisting in normalizing strings, generating lexical variants, and creating indexes
+* Supporting clinical practice, patient care coordination, and research
+* Providing a large syntactic lexicon for biomedical and general English.</s>

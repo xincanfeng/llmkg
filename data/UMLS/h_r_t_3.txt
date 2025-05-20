@@ -1,0 +1,18 @@
+chemical
+chemical viewed functionally
+chemical viewed structurally
+classification
+clinical attribute
+clinical drug
+co-occurs with
+complicates
+conceptual entity
+conceptual part of
+conceptually related to
+congenital abnormality
+connected to
+consists of
+contains
+daily or recreational activity
+degree of
+derivative of

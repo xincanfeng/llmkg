@@ -1,0 +1,135 @@
+organism
+conceptual entity
+organism function
+mental process
+family group
+occupational activity
+research device
+classification
+organization
+human caused phenomenon or process
+element ion or isotope
+organ or tissue function
+biologically active substance
+acquired abnormality
+genetic function
+intellectual product
+mental or behavioral dysfunction
+natural phenomenon or process
+health care related organization
+anatomical structure
+group attribute
+machine activity
+congenital abnormality
+plant
+reptile
+organophosphorus compound
+diagnostic procedure
+regulation or law
+organic chemical
+gene or genome
+functional concept
+experimental model of disease
+chemical viewed structurally
+neuroreactive substance or biogenic amine
+invertebrate
+mammal
+qualitative concept
+entity
+event
+research activity
+human
+amphibian
+population group
+phenomenon or process
+pathologic function
+virus
+biomedical occupation or discipline
+fungus
+environmental effect of humans
+temporal concept
+steroid
+language
+laboratory or test result
+biomedical or dental material
+self help or relief organization
+injury or poisoning
+inorganic chemical
+cell
+immunologic factor
+governmental or regulatory activity
+physical object
+social behavior
+chemical viewed functionally
+enzyme
+neoplastic process
+group
+fish
+body part organ or organ component
+cell function
+professional or occupational group
+archaeon
+biologic function
+food
+bacterium
+body substance
+sign or symptom
+professional society
+eicosanoid
+health care activity
+molecular function
+body location or region
+anatomical abnormality
+individual behavior
+activity
+manufactured object
+amino acid peptide or protein
+carbohydrate
+carbohydrate sequence
+daily or recreational activity
+amino acid sequence
+embryonic structure
+medical device
+clinical drug
+vitamin
+geographic area
+hazardous or poisonous substance
+rickettsia or chlamydia
+cell component
+physiologic function
+receptor
+occupation or discipline
+animal
+cell or molecular dysfunction
+therapeutic or preventive procedure
+educational activity
+bird
+antibiotic
+body system
+alga
+tissue
+vertebrate
+idea or concept
+organism attribute
+chemical
+nucleic acid nucleoside or nucleotide
+spatial concept
+drug delivery device
+behavior
+finding
+hormone
+molecular biology research technique
+patient or disabled group
+pharmacologic substance
+indicator reagent or diagnostic aid
+disease or syndrome
+molecular sequence
+substance
+lipid
+age group
+laboratory procedure
+clinical attribute
+body space or junction
+fully formed anatomical structure
+quantitative concept
+nucleotide sequence

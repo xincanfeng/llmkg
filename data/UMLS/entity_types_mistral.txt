@@ -1,0 +1,115 @@
+A biological catalyst that accelerates a chemical reaction without being consumed in the reaction
+A chemical messenger produced by glands in the body
+A large complex molecular structure
+A protein molecule on the surface of a cell that binds with
+A segment of DNA or RNA that contains instructions for the synthesis of a protein or RNA molecule
+Action
+Activity
+Amino Acid Sequence
+Article
+Bacteria
+Based on the provided description
+Behavior
+Blooded Animal
+Broad Categories
+CM
+Calibrator
+Carbohydrate
+Chemical Compound
+Class Mammalia
+Cognitive Process
+Collection
+Computer Systems
+Control Material
+Detection
+Discovery
+Eicosanoid
+Emotion
+English Language
+Enzyme
+Essential Nutrient
+Family
+Fats and Proteins
+Finding
+Food
+Gene
+Gene or Genome
+Genome
+Group
+Healthcare Entities
+Hormone
+ICD
+II
+Indicator Reagent or Diagnostic Aid
+Institution
+LOINC
+Laboratory Reagent
+Laboratory or Test Result
+Language
+Lipid
+Machine
+Made Thing
+Mammal
+Man
+Manufactured Object
+MeSH
+Medical Diagnosis
+Medical Laboratory
+Mental Process
+Microorganism
+Molecular Sequence
+Natural Language
+Nucleotide Sequence
+Observation
+Organic Compound
+Organic Micronutrient
+Organization
+Pathogen
+Pattern
+Perception
+Product
+Programming Language
+Protein or Peptide
+Quantitative or Qualitative Measurement
+Receptor
+Relationships
+Response
+Result
+Rickettsia or Chlamydia
+RxNorm
+SNOMED CT
+Signal Molecule
+Sociological Association
+Standards
+Starches
+Sugars
+Syntactic Lexicon
+System of Communication
+Terminologies
+The complete set of genetic material in an organism
+The sequence of amino acids in a protein
+The sequence of any repeating unit in a molecule
+The sequence of nucleotides in DNA or RNA
+Thought
+Vertebrate
+Vitamin
+Vocabularies
+Warm
+amino acid
+coding regions
+doctors
+hospitals
+including CPT
+including all of its genes and non
+insurance companies
+or carbohydrate sequence
+or chain of amino acids
+pharmacies
+semantic relations
+semantic types
+specific names can be added as type qualifiers
+such as a nucleotide
+the following entity types can be identified from the UMLS knowledge graph
+triggering specific responses
+which plays a crucial role in the structure and function of the cell
+which travels in the bloodstream to target cells

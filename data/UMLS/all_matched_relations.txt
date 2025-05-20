@@ -1,0 +1,7 @@
+affects
+disrupts
+isa
+location of
+part of
+precedes
+result of

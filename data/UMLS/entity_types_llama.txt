@@ -1,0 +1,137 @@
+Acquired Anomaly
+Acquired abnormality
+Activity
+Age Group
+Anatomical Structure
+Anatomical abnormality
+Antibiotic
+Attributes
+Bacterium
+Based on the description
+Based on the given entities
+Behavior
+Biochemical Compound
+Biological Substance
+Biologically Active Substance
+Body Part
+Body location or region
+Carbohydrate Sequence
+Cell Component
+Chemical Compound
+Chemical viewed functionally
+Clinical Sign or Symptom
+Clinical attribute
+Clinical drug
+Codes
+Computer systems
+Conceptual Entity
+Congenital Anomaly
+Congenital abnormality
+Definitions
+Disease
+Drug delivery device
+Eicosanoid
+Electronic health records
+Element or Isotope
+Embryonic Structure
+Embryonic structure
+Entity
+Environmental effect of humans
+Enzyme
+Experimental model of disease
+Family Group
+Fish
+Fungus
+Gene or Genome
+Group
+Hazardous or poisonous substance
+Healthcare Organization
+Healthcare entities
+Hierarchies
+Hormone
+Hospital departments
+Human
+Human Caused Phenomenon
+Indexes
+Injury or poisoning
+Inorganic Chemical
+Intellectual Product
+Lexical variants
+Lexicon
+Local terminologies
+Machine Activity
+Machine activity
+Medical
+Medical Procedure
+Medical texts
+Molecular biology research technique
+Natural Phenomenon or Process
+Neoplastic process
+Note that some of these entity types may be subtypes or categories of others
+Ontologies
+Organ Function
+Organic chemical
+Organism
+Organism Attribute
+Organophosphorus Compound
+Patient or disabled group
+Pharmaceutical
+Physiological Function
+Population Group
+Profession or Field
+Protein or Peptide
+Qualitative concept
+Receptor
+Relationships
+Research
+Research Equipment
+Research Model
+Research Technique
+Research device
+Semantic relations
+Semantic types
+Spatial Concept
+Terminologies
+Terms
+Vertebrate
+Virus
+Vitamin
+Vocabularies
+activity
+age group
+amino acid peptide or protein
+and
+behavior
+biologically active substance
+body part organ or organ component
+body substance
+carbohydrate sequence
+cell component
+chemical
+doctors
+element ion or isotope
+enzyme
+family group
+gene or genome
+health care related organization
+hormone
+human
+inorganic chemical
+insurance companies
+intellectual product
+is a category that includes specific types of entities like
+natural phenomenon or process
+occupation or discipline
+organ or tissue function
+organism attribute
+organophosphorus compound
+pharmacies
+physiologic function
+receptor
+rickettsia or chlamy
+spatial concept
+the following distinct entity types are included in this knowledge graph
+therapeutic or preventive procedure
+ve classified the entity types as follows
+virus
+vitamin

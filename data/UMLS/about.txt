@@ -1,0 +1,17 @@
+The Unified Medical Language System (UMLS) is a comprehensive resource that integrates and disseminates essential terminology, classification standards, and coding systems. Its purpose is to foster the creation of more effective and interoperable biomedical information systems and services, including electronic health records. Here are the key aspects of the UMLS:
+
+Integration of Vocabularies: The UMLS brings together various health and biomedical vocabularies and standards. It acts as a bridge, enabling interoperability between different computer systems by harmonizing terminology.
+
+Components:
+
+Metathesaurus: This component contains terms and codes from multiple vocabularies, including CPT, ICD-10-CM, LOINC, MeSH, RxNorm, and SNOMED CT. It provides hierarchies, definitions, relationships, and other attributes.
+Semantic Network: The Semantic Network defines broad categories (semantic types) and their relationships (semantic relations).
+SPECIALIST Lexicon and Lexical Tools: These tools include a large syntactic lexicon for biomedical and general English. They assist in normalizing strings, generating lexical variants, and creating indexes.
+Use Cases:
+
+Clinical Practice: Link terms and codes across healthcare entities (doctors, pharmacies, insurance companies).
+Patient Care Coordination: Facilitate communication among hospital departments.
+Text Processing: Extract concepts, relationships, or knowledge from medical texts.
+Terminology Mapping: Map between different terminologies.
+Local Terminology Development: Create and maintain local terminologies.
+Research: Investigate terminologies or ontologies.

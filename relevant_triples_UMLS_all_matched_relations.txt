@@ -1,0 +1,2854 @@
+mental or behavioral dysfunction, result of, health care activity
+physical object, isa, entity
+anatomical abnormality, affects, organism
+steroid, affects, genetic function
+organophosphorus compound, affects, mental or behavioral dysfunction
+anatomical structure, part of, archaeon
+amino acid peptide or protein, isa, substance
+hormone, isa, chemical
+human caused phenomenon or process, result of, neoplastic process
+clinical attribute, result of, molecular function
+indicator reagent or diagnostic aid, affects, physiologic function
+gene or genome, location of, injury or poisoning
+anatomical abnormality, isa, physical object
+physiologic function, affects, fish
+antibiotic, disrupts, mental process
+cell function, result of, organ or tissue function
+hormone, disrupts, genetic function
+quantitative concept, isa, conceptual entity
+disease or syndrome, result of, laboratory procedure
+pathologic function, isa, event
+biologic function, result of, environmental effect of humans
+injury or poisoning, disrupts, physiologic function
+acquired abnormality, affects, genetic function
+pathologic function, affects, animal
+molecular function, affects, organism function
+indicator reagent or diagnostic aid, isa, physical object
+neoplastic process, result of, anatomical abnormality
+receptor, affects, molecular function
+element ion or isotope, affects, biologic function
+experimental model of disease, affects, biologic function
+organophosphorus compound, affects, genetic function
+experimental model of disease, result of, physiologic function
+cell function, affects, molecular function
+embryonic structure, location of, physiologic function
+human caused phenomenon or process, result of, mental or behavioral dysfunction
+mental process, affects, organ or tissue function
+congenital abnormality, location of, bacterium
+pathologic function, affects, organism
+tissue, location of, rickettsia or chlamydia
+biologic function, result of, injury or poisoning
+congenital abnormality, affects, genetic function
+acquired abnormality, affects, alga
+cell component, isa, physical object
+disease or syndrome, affects, biologic function
+disease or syndrome, result of, physiologic function
+congenital abnormality, part of, vertebrate
+population group, isa, group
+acquired abnormality, part of, archaeon
+chemical, affects, biologic function
+lipid, isa, chemical viewed structurally
+congenital abnormality, result of, organ or tissue function
+human caused phenomenon or process, result of, genetic function
+anatomical abnormality, affects, molecular function
+occupation or discipline, isa, entity
+chemical, isa, entity
+congenital abnormality, affects, alga
+health care related organization, location of, governmental or regulatory activity
+anatomical structure, location of, virus
+cell function, affects, invertebrate
+molecular function, result of, pathologic function
+enzyme, isa, physical object
+cell component, part of, animal
+mental or behavioral dysfunction, result of, organism function
+archaeon, isa, entity
+environmental effect of humans, result of, congenital abnormality
+fully formed anatomical structure, isa, entity
+neoplastic process, result of, mental or behavioral dysfunction
+anatomical abnormality, result of, diagnostic procedure
+biologic function, isa, natural phenomenon or process
+mental process, result of, biologic function
+anatomical abnormality, part of, amphibian
+physiologic function, precedes, mental process
+cell, part of, archaeon
+nucleic acid nucleoside or nucleotide, affects, neoplastic process
+gene or genome, part of, cell
+cell or molecular dysfunction, affects, fish
+tissue, part of, invertebrate
+vitamin, disrupts, embryonic structure
+neoplastic process, result of, genetic function
+body substance, part of, body part organ or organ component
+fully formed anatomical structure, part of, bacterium
+tissue, location of, physiologic function
+steroid, isa, lipid
+neuroreactive substance or biogenic amine, affects, experimental model of disease
+chemical viewed functionally, isa, substance
+congenital abnormality, result of, therapeutic or preventive procedure
+plant, isa, physical object
+inorganic chemical, isa, chemical viewed structurally
+body system, isa, idea or concept
+genetic function, affects, experimental model of disease
+cell function, isa, biologic function
+physiologic function, affects, rickettsia or chlamydia
+mental process, isa, phenomenon or process
+enzyme, affects, molecular function
+cell or molecular dysfunction, result of, congenital abnormality
+nucleic acid nucleoside or nucleotide, affects, mental or behavioral dysfunction
+organism function, affects, archaeon
+body part organ or organ component, part of, plant
+molecular function, result of, human caused phenomenon or process
+receptor, disrupts, tissue
+anatomical abnormality, part of, fish
+steroid, affects, natural phenomenon or process
+biomedical or dental material, affects, experimental model of disease
+self help or relief organization, isa, conceptual entity
+pathologic function, result of, therapeutic or preventive procedure
+gene or genome, affects, genetic function
+lipid, affects, cell function
+disease or syndrome, result of, social behavior
+pharmacologic substance, disrupts, molecular function
+genetic function, affects, amphibian
+neoplastic process, affects, cell or molecular dysfunction
+natural phenomenon or process, result of, cell or molecular dysfunction
+environmental effect of humans, result of, acquired abnormality
+hazardous or poisonous substance, disrupts, organ or tissue function
+embryonic structure, part of, mammal
+health care related organization, location of, diagnostic procedure
+physiologic function, result of, organ or tissue function
+gene or genome, part of, vertebrate
+nucleic acid nucleoside or nucleotide, affects, genetic function
+cell or molecular dysfunction, precedes, disease or syndrome
+food, affects, pathologic function
+element ion or isotope, affects, physiologic function
+experimental model of disease, affects, physiologic function
+cell, location of, organ or tissue function
+neoplastic process, affects, disease or syndrome
+organophosphorus compound, affects, natural phenomenon or process
+diagnostic procedure, affects, organ or tissue function
+natural phenomenon or process, result of, disease or syndrome
+organism function, result of, phenomenon or process
+receptor, disrupts, genetic function
+mental or behavioral dysfunction, result of, behavior
+cell, location of, virus
+clinical drug, isa, manufactured object
+cell component, part of, archaeon
+body part organ or organ component, part of, organism
+cell function, result of, cell or molecular dysfunction
+cell or molecular dysfunction, precedes, neoplastic process
+alga, location of, neuroreactive substance or biogenic amine
+biologic function, affects, plant
+chemical, affects, physiologic function
+amino acid peptide or protein, affects, organism function
+fungus, location of, vitamin
+immunologic factor, disrupts, cell
+fish, isa, animal
+body space or junction, location of, molecular function
+biologically active substance, disrupts, cell
+biologically active substance, affects, organism function
+mental or behavioral dysfunction, affects, archaeon
+mental process, precedes, molecular function
+embryonic structure, part of, bird
+cell or molecular dysfunction, result of, acquired abnormality
+intellectual product, isa, conceptual entity
+human caused phenomenon or process, result of, natural phenomenon or process
+mental process, affects, cell or molecular dysfunction
+cell function, result of, disease or syndrome
+neoplastic process, affects, mental process
+acquired abnormality, result of, health care activity
+organ or tissue function, result of, biologic function
+natural phenomenon or process, result of, mental process
+indicator reagent or diagnostic aid, isa, chemical viewed functionally
+fish, isa, organism
+cell or molecular dysfunction, precedes, mental or behavioral dysfunction
+indicator reagent or diagnostic aid, affects, pathologic function
+classification, isa, intellectual product
+physiologic function, affects, human
+cell, location of, body space or junction
+self help or relief organization, location of, research activity
+laboratory procedure, affects, organ or tissue function
+experimental model of disease, result of, individual behavior
+neoplastic process, affects, mental or behavioral dysfunction
+archaeon, isa, physical object
+mental process, affects, disease or syndrome
+antibiotic, disrupts, cell component
+cell function, result of, neoplastic process
+cell function, affects, bacterium
+mental process, result of, physiologic function
+mental or behavioral dysfunction, result of, phenomenon or process
+cell, location of, therapeutic or preventive procedure
+biologic function, affects, organism
+experimental model of disease, result of, pathologic function
+disease or syndrome, result of, individual behavior
+congenital abnormality, result of, human caused phenomenon or process
+cell function, result of, mental process
+natural phenomenon or process, affects, pathologic function
+cell component, location of, organ or tissue function
+biologically active substance, isa, entity
+carbohydrate sequence, isa, spatial concept
+biomedical or dental material, isa, chemical viewed functionally
+congenital abnormality, result of, disease or syndrome
+enzyme, disrupts, tissue
+cell or molecular dysfunction, result of, health care activity
+regulation or law, affects, organization
+cell function, precedes, physiologic function
+molecular function, result of, cell function
+mental process, affects, vertebrate
+neoplastic process, result of, natural phenomenon or process
+cell function, result of, mental or behavioral dysfunction
+genetic function, affects, biologic function
+anatomical abnormality, part of, rickettsia or chlamydia
+anatomical abnormality, affects, bacterium
+cell or molecular dysfunction, affects, mammal
+disease or syndrome, result of, anatomical abnormality
+pathologic function, result of, human caused phenomenon or process
+tissue, part of, bacterium
+cell function, isa, physiologic function
+human caused phenomenon or process, result of, congenital abnormality
+nucleotide sequence, isa, idea or concept
+plant, location of, immunologic factor
+organic chemical, affects, organ or tissue function
+acquired abnormality, location of, cell or molecular dysfunction
+congenital abnormality, result of, mental process
+therapeutic or preventive procedure, affects, experimental model of disease
+spatial concept, isa, idea or concept
+bacterium, location of, neuroreactive substance or biogenic amine
+injury or poisoning, disrupts, tissue
+cell component, location of, body space or junction
+anatomical abnormality, result of, experimental model of disease
+acquired abnormality, result of, organism function
+biologic function, affects, molecular function
+chemical viewed structurally, affects, biologic function
+experimental model of disease, result of, human caused phenomenon or process
+neoplastic process, isa, pathologic function
+physiologic function, affects, virus
+acquired abnormality, location of, disease or syndrome
+nucleic acid nucleoside or nucleotide, affects, natural phenomenon or process
+fully formed anatomical structure, location of, molecular function
+professional society, location of, therapeutic or preventive procedure
+cell or molecular dysfunction, affects, bird
+gene or genome, part of, reptile
+fully formed anatomical structure, part of, amphibian
+congenital abnormality, part of, plant
+organ or tissue function, isa, biologic function
+genetic function, affects, rickettsia or chlamydia
+diagnostic procedure, isa, health care activity
+immunologic factor, disrupts, cell function
+injury or poisoning, disrupts, genetic function
+biologically active substance, disrupts, cell function
+molecular sequence, isa, entity
+hazardous or poisonous substance, affects, organism function
+neoplastic process, result of, congenital abnormality
+professional or occupational group, isa, conceptual entity
+carbohydrate sequence, isa, molecular sequence
+tissue, location of, pathologic function
+genetic function, result of, molecular function
+physiologic function, result of, cell or molecular dysfunction
+physiologic function, affects, fungus
+mental process, result of, social behavior
+tissue, location of, anatomical abnormality
+food, affects, cell function
+embryonic structure, location of, genetic function
+cell or molecular dysfunction, result of, organism function
+pharmacologic substance, disrupts, gene or genome
+organism attribute, result of, pathologic function
+cell, location of, cell or molecular dysfunction
+organization, location of, therapeutic or preventive procedure
+regulation or law, isa, conceptual entity
+laboratory or test result, isa, entity
+age group, isa, group
+phenomenon or process, result of, molecular function
+organophosphorus compound, affects, molecular function
+anatomical abnormality, part of, human
+organ or tissue function, result of, physiologic function
+plant, location of, receptor
+physiologic function, result of, disease or syndrome
+disease or syndrome, result of, genetic function
+genetic function, precedes, cell function
+acquired abnormality, location of, mental or behavioral dysfunction
+pharmacologic substance, affects, organ or tissue function
+body space or junction, location of, diagnostic procedure
+amphibian, isa, entity
+congenital abnormality, part of, organism
+cell, location of, disease or syndrome
+organism function, precedes, organ or tissue function
+body substance, isa, substance
+diagnostic procedure, affects, disease or syndrome
+rickettsia or chlamydia, location of, receptor
+genetic function, result of, environmental effect of humans
+anatomical structure, part of, fish
+organ or tissue function, precedes, genetic function
+fully formed anatomical structure, location of, injury or poisoning
+pathologic function, result of, cell function
+element ion or isotope, affects, pathologic function
+clinical attribute, result of, experimental model of disease
+human caused phenomenon or process, result of, molecular function
+virus, location of, immunologic factor
+carbohydrate, affects, biologic function
+acquired abnormality, affects, invertebrate
+anatomical abnormality, location of, cell or molecular dysfunction
+drug delivery device, isa, entity
+pharmacologic substance, isa, entity
+hormone, affects, neoplastic process
+hazardous or poisonous substance, disrupts, mental process
+gene or genome, part of, cell component
+biologically active substance, isa, physical object
+phenomenon or process, result of, environmental effect of humans
+physiologic function, result of, mental process
+indicator reagent or diagnostic aid, affects, cell function
+organism function, affects, organism attribute
+neuroreactive substance or biogenic amine, affects, physiologic function
+cell or molecular dysfunction, affects, organ or tissue function
+carbohydrate, isa, entity
+laboratory procedure, affects, cell or molecular dysfunction
+organ or tissue function, affects, mammal
+genetic function, result of, injury or poisoning
+cell, location of, mental process
+genetic function, affects, physiologic function
+receptor, affects, experimental model of disease
+population group, isa, entity
+chemical, affects, pathologic function
+organism attribute, result of, human caused phenomenon or process
+body part organ or organ component, location of, experimental model of disease
+anatomical abnormality, location of, disease or syndrome
+diagnostic procedure, affects, mental process
+cell or molecular dysfunction, affects, virus
+cell function, affects, experimental model of disease
+congenital abnormality, affects, invertebrate
+antibiotic, disrupts, fully formed anatomical structure
+injury or poisoning, result of, experimental model of disease
+receptor, isa, biologically active substance
+experimental model of disease, result of, cell function
+hormone, affects, mental or behavioral dysfunction
+phenomenon or process, result of, injury or poisoning
+idea or concept, isa, entity
+body location or region, isa, entity
+laboratory procedure, affects, disease or syndrome
+natural phenomenon or process, affects, cell function
+biomedical or dental material, affects, physiologic function
+gene or genome, isa, physical object
+cell component, location of, cell or molecular dysfunction
+physiologic function, affects, pathologic function
+activity, isa, event
+anatomical abnormality, result of, biologic function
+mental process, result of, individual behavior
+cell function, affects, amphibian
+behavior, isa, event
+inorganic chemical, affects, neoplastic process
+anatomical abnormality, part of, virus
+disease or syndrome, affects, neoplastic process
+congenital abnormality, affects, archaeon
+cell component, location of, disease or syndrome
+laboratory procedure, affects, neoplastic process
+hormone, affects, genetic function
+organ or tissue function, affects, bird
+therapeutic or preventive procedure, isa, event
+health care activity, affects, biologic function
+environmental effect of humans, result of, phenomenon or process
+genetic function, isa, natural phenomenon or process
+vitamin, isa, biologically active substance
+body part organ or organ component, part of, bacterium
+virus, location of, receptor
+acquired abnormality, result of, phenomenon or process
+finding, isa, conceptual entity
+mental process, result of, anatomical abnormality
+laboratory procedure, affects, mental process
+gene or genome, part of, animal
+organic chemical, affects, cell or molecular dysfunction
+organ or tissue function, isa, physiologic function
+molecular function, result of, acquired abnormality
+anatomical abnormality, affects, amphibian
+carbohydrate sequence, isa, entity
+alga, location of, biologically active substance
+inorganic chemical, affects, mental or behavioral dysfunction
+neoplastic process, affects, plant
+anatomical abnormality, part of, fungus
+cell component, location of, neoplastic process
+steroid, isa, entity
+tissue, part of, amphibian
+disease or syndrome, affects, mental or behavioral dysfunction
+laboratory procedure, affects, mental or behavioral dysfunction
+gene or genome, affects, molecular function
+gene or genome, part of, organism
+experimental model of disease, affects, genetic function
+cell, part of, fish
+cell component, location of, mental process
+organic chemical, affects, disease or syndrome
+immunologic factor, disrupts, cell component
+biologically active substance, disrupts, cell component
+fully formed anatomical structure, part of, rickettsia or chlamydia
+laboratory procedure, isa, activity
+cell component, affects, organ or tissue function
+inorganic chemical, affects, genetic function
+cell or molecular dysfunction, result of, phenomenon or process
+cell component, location of, mental or behavioral dysfunction
+disease or syndrome, affects, genetic function
+lipid, affects, organism function
+chemical viewed structurally, isa, entity
+disease or syndrome, result of, natural phenomenon or process
+biologic function, affects, bacterium
+molecular function, precedes, genetic function
+chemical viewed functionally, isa, physical object
+experimental model of disease, affects, alga
+tissue, location of, cell function
+enzyme, affects, experimental model of disease
+organism function, affects, fish
+fully formed anatomical structure, location of, bacterium
+hazardous or poisonous substance, isa, substance
+neoplastic process, affects, organism
+clinical attribute, result of, biologic function
+organism attribute, result of, cell function
+neuroreactive substance or biogenic amine, disrupts, embryonic structure
+organic chemical, affects, mental process
+geographic area, result of, mental process
+mental process, affects, plant
+disease or syndrome, affects, alga
+neoplastic process, precedes, experimental model of disease
+molecular function, affects, mammal
+drug delivery device, isa, physical object
+vitamin, isa, substance
+mammal, isa, entity
+congenital abnormality, isa, anatomical abnormality
+receptor, affects, biologic function
+pharmacologic substance, affects, cell or molecular dysfunction
+anatomical abnormality, result of, laboratory procedure
+cell function, affects, biologic function
+mental process, result of, genetic function
+vitamin, disrupts, organ or tissue function
+element ion or isotope, affects, cell function
+research device, isa, manufactured object
+pharmacologic substance, affects, disease or syndrome
+therapeutic or preventive procedure, affects, physiologic function
+mental process, affects, organism
+bacterium, location of, biologically active substance
+organophosphorus compound, isa, chemical viewed structurally
+individual behavior, isa, event
+immunologic factor, isa, substance
+anatomical abnormality, result of, physiologic function
+disease or syndrome, result of, congenital abnormality
+molecular function, affects, bird
+pathologic function, precedes, neoplastic process
+mental or behavioral dysfunction, affects, fish
+chemical viewed functionally, affects, organ or tissue function
+neoplastic process, affects, molecular function
+self help or relief organization, location of, educational activity
+body space or junction, location of, experimental model of disease
+organ or tissue function, result of, anatomical abnormality
+anatomical structure, part of, bird
+chemical, affects, cell function
+acquired abnormality, part of, mammal
+biologically active substance, isa, chemical viewed functionally
+anatomical structure, part of, human
+pharmacologic substance, affects, neoplastic process
+health care activity, affects, physiologic function
+antibiotic, affects, organ or tissue function
+hormone, affects, natural phenomenon or process
+cell or molecular dysfunction, affects, disease or syndrome
+plant, location of, enzyme
+pharmacologic substance, affects, mental process
+body part organ or organ component, location of, rickettsia or chlamydia
+physiologic function, affects, cell function
+cell function, affects, rickettsia or chlamydia
+molecular function, result of, organism function
+self help or relief organization, location of, molecular biology research technique
+organism function, precedes, mental process
+mental or behavioral dysfunction, precedes, cell or molecular dysfunction
+neuroreactive substance or biogenic amine, affects, pathologic function
+health care related organization, location of, laboratory procedure
+organ or tissue function, result of, neoplastic process
+cell function, result of, molecular function
+steroid, isa, physical object
+pharmacologic substance, affects, mental or behavioral dysfunction
+body location or region, location of, body part organ or organ component
+antibiotic, isa, entity
+cell, part of, body part organ or organ component
+rickettsia or chlamydia, location of, enzyme
+cell or molecular dysfunction, affects, vertebrate
+neoplastic process, affects, invertebrate
+natural phenomenon or process, result of, environmental effect of humans
+experimental model of disease, result of, acquired abnormality
+gene or genome, location of, organ or tissue function
+experimental model of disease, affects, natural phenomenon or process
+mental process, affects, clinical attribute
+acquired abnormality, part of, bird
+mental or behavioral dysfunction, precedes, disease or syndrome
+machine activity, isa, activity
+congenital abnormality, part of, bacterium
+cell or molecular dysfunction, affects, mental process
+clinical attribute, isa, organism attribute
+biomedical or dental material, affects, pathologic function
+mental process, affects, molecular function
+nucleic acid nucleoside or nucleotide, isa, entity
+organism function, affects, rickettsia or chlamydia
+natural phenomenon or process, isa, event
+cell, isa, fully formed anatomical structure
+self help or relief organization, isa, organization
+inorganic chemical, affects, natural phenomenon or process
+regulation or law, affects, professional or occupational group
+pathologic function, result of, health care activity
+pharmacologic substance, affects, genetic function
+disease or syndrome, result of, acquired abnormality
+disease or syndrome, affects, natural phenomenon or process
+enzyme, affects, biologic function
+chemical viewed structurally, isa, physical object
+natural phenomenon or process, result of, injury or poisoning
+tissue, location of, congenital abnormality
+amino acid sequence, isa, conceptual entity
+body part organ or organ component, part of, amphibian
+injury or poisoning, result of, laboratory procedure
+pathologic function, affects, mammal
+cell function, result of, environmental effect of humans
+clinical attribute, result of, physiologic function
+body space or junction, result of, mental process
+molecular function, affects, organ or tissue function
+organism function, result of, organ or tissue function
+immunologic factor, disrupts, fully formed anatomical structure
+biologically active substance, disrupts, fully formed anatomical structure
+behavior, affects, social behavior
+organ or tissue function, result of, genetic function
+sign or symptom, isa, conceptual entity
+anatomical structure, part of, virus
+experimental model of disease, result of, health care activity
+immunologic factor, disrupts, organism function
+biologically active substance, disrupts, organism function
+diagnostic procedure, affects, patient or disabled group
+receptor, affects, physiologic function
+physiologic function, affects, reptile
+body part organ or organ component, location of, physiologic function
+cell function, affects, physiologic function
+injury or poisoning, result of, physiologic function
+organic chemical, isa, entity
+cell, part of, human
+food, affects, organism function
+diagnostic procedure, isa, event
+lipid, isa, physical object
+physiologic function, isa, phenomenon or process
+mental process, result of, natural phenomenon or process
+health care related organization, location of, research activity
+congenital abnormality, result of, environmental effect of humans
+virus, location of, enzyme
+chemical viewed structurally, affects, neoplastic process
+pathologic function, affects, bird
+plant, isa, organism
+research device, isa, entity
+age group, isa, entity
+organ or tissue function, affects, cell or molecular dysfunction
+injury or poisoning, isa, event
+genetic function, precedes, organism function
+body space or junction, location of, biologic function
+classification, isa, conceptual entity
+anatomical abnormality, affects, physiologic function
+tissue, location of, acquired abnormality
+cell component, part of, mammal
+pathologic function, result of, environmental effect of humans
+organism function, affects, human
+mental or behavioral dysfunction, result of, organ or tissue function
+congenital abnormality, result of, injury or poisoning
+pharmacologic substance, isa, chemical viewed functionally
+cell component, affects, mental process
+vitamin, affects, organism function
+chemical viewed structurally, affects, mental or behavioral dysfunction
+pathologic function, result of, organism function
+organophosphorus compound, affects, experimental model of disease
+congenital abnormality, location of, neoplastic process
+indicator reagent or diagnostic aid, affects, organism function
+genetic function, affects, alga
+pathologic function, result of, injury or poisoning
+organ or tissue function, affects, neoplastic process
+patient or disabled group, isa, group
+body substance, isa, physical object
+chemical viewed structurally, affects, genetic function
+behavior, affects, individual behavior
+molecular function, result of, phenomenon or process
+hazardous or poisonous substance, disrupts, molecular function
+alga, isa, physical object
+human caused phenomenon or process, result of, experimental model of disease
+cell component, part of, bird
+mental process, result of, congenital abnormality
+experimental model of disease, result of, organism function
+congenital abnormality, location of, mental or behavioral dysfunction
+antibiotic, affects, cell or molecular dysfunction
+inorganic chemical, isa, physical object
+amphibian, isa, vertebrate
+natural phenomenon or process, affects, organism function
+diagnostic procedure, isa, occupational activity
+eicosanoid, isa, chemical viewed structurally
+chemical viewed functionally, affects, disease or syndrome
+temporal concept, isa, conceptual entity
+reptile, isa, entity
+embryonic structure, part of, plant
+organ or tissue function, affects, mental or behavioral dysfunction
+body part organ or organ component, location of, virus
+cell or molecular dysfunction, affects, reptile
+cell, part of, virus
+therapeutic or preventive procedure, affects, pathologic function
+neoplastic process, affects, bacterium
+carbohydrate, affects, neoplastic process
+mental or behavioral dysfunction, affects, human
+anatomical abnormality, result of, pathologic function
+neuroreactive substance or biogenic amine, affects, cell function
+organization, isa, conceptual entity
+pharmacologic substance, affects, natural phenomenon or process
+antibiotic, affects, disease or syndrome
+enzyme, affects, physiologic function
+vitamin, disrupts, mental process
+acquired abnormality, affects, fish
+pathologic function, isa, natural phenomenon or process
+physiologic function, result of, environmental effect of humans
+gene or genome, location of, cell or molecular dysfunction
+hazardous or poisonous substance, isa, chemical
+body part organ or organ component, location of, fungus
+archaeon, isa, organism
+virus, isa, entity
+cell, part of, fungus
+neuroreactive substance or biogenic amine, disrupts, body part organ or organ component
+organ or tissue function, affects, genetic function
+biomedical or dental material, affects, cell function
+chemical viewed functionally, affects, mental process
+organ or tissue function, result of, natural phenomenon or process
+organism function, affects, virus
+anatomical abnormality, part of, reptile
+neoplastic process, result of, experimental model of disease
+congenital abnormality, affects, fish
+inorganic chemical, affects, molecular function
+physiologic function, affects, animal
+disease or syndrome, affects, molecular function
+antibiotic, affects, mental process
+pathologic function, result of, behavior
+laboratory procedure, affects, molecular function
+organophosphorus compound, isa, substance
+fully formed anatomical structure, location of, biologic function
+physiologic function, result of, injury or poisoning
+body space or junction, isa, conceptual entity
+mental process, result of, acquired abnormality
+amino acid peptide or protein, affects, organ or tissue function
+molecular function, affects, cell or molecular dysfunction
+mental process, affects, bacterium
+organism function, result of, cell or molecular dysfunction
+organization, location of, health care activity
+organism function, affects, fungus
+carbohydrate, affects, genetic function
+body location or region, location of, therapeutic or preventive procedure
+antibiotic, affects, mental or behavioral dysfunction
+body part organ or organ component, location of, therapeutic or preventive procedure
+biologic function, result of, cell or molecular dysfunction
+cell, location of, injury or poisoning
+biologically active substance, affects, organ or tissue function
+health care activity, affects, neoplastic process
+injury or poisoning, result of, therapeutic or preventive procedure
+genetic function, result of, biologic function
+gene or genome, location of, neoplastic process
+body system, isa, entity
+cell component, location of, molecular function
+experimental model of disease, affects, invertebrate
+anatomical abnormality, result of, human caused phenomenon or process
+environmental effect of humans, isa, human caused phenomenon or process
+body space or junction, location of, physiologic function
+molecular function, affects, disease or syndrome
+mental process, precedes, physiologic function
+clinical attribute, isa, entity
+organism function, result of, disease or syndrome
+gene or genome, location of, mental process
+immunologic factor, isa, chemical
+experimental model of disease, result of, behavior
+genetic function, affects, natural phenomenon or process
+group, isa, entity
+phenomenon or process, result of, biologic function
+organophosphorus compound, affects, biologic function
+organism attribute, result of, organism function
+amino acid sequence, isa, spatial concept
+nucleic acid nucleoside or nucleotide, affects, experimental model of disease
+rickettsia or chlamydia, isa, physical object
+anatomical structure, location of, bacterium
+disease or syndrome, affects, invertebrate
+clinical attribute, result of, pathologic function
+bacterium, isa, physical object
+invertebrate, isa, entity
+individual behavior, result of, mental process
+mental or behavioral dysfunction, affects, virus
+gene or genome, location of, mental or behavioral dysfunction
+immunologic factor, disrupts, embryonic structure
+biologically active substance, disrupts, embryonic structure
+social behavior, affects, mental process
+molecular function, affects, neoplastic process
+receptor, isa, physical object
+experimental model of disease, affects, archaeon
+biologic function, result of, neoplastic process
+genetic function, isa, phenomenon or process
+neuroreactive substance or biogenic amine, isa, chemical
+organ or tissue function, result of, congenital abnormality
+organism attribute, result of, injury or poisoning
+anatomical structure, part of, vertebrate
+antibiotic, isa, pharmacologic substance
+cell or molecular dysfunction, affects, plant
+receptor, affects, pathologic function
+molecular function, affects, mental process
+body part organ or organ component, location of, pathologic function
+body location or region, location of, pathologic function
+organism function, result of, mental process
+biologic function, result of, mental process
+human caused phenomenon or process, result of, biologic function
+cell function, affects, pathologic function
+mental or behavioral dysfunction, result of, cell or molecular dysfunction
+health care activity, affects, genetic function
+mental or behavioral dysfunction, affects, fungus
+chemical viewed structurally, affects, natural phenomenon or process
+injury or poisoning, result of, pathologic function
+gene or genome, location of, genetic function
+element ion or isotope, affects, organism function
+fungus, isa, entity
+fully formed anatomical structure, part of, alga
+molecular function, affects, mental or behavioral dysfunction
+enzyme, disrupts, embryonic structure
+biologic function, result of, mental or behavioral dysfunction
+acquired abnormality, affects, rickettsia or chlamydia
+cell or molecular dysfunction, isa, event
+cell component, location of, injury or poisoning
+acquired abnormality, location of, bacterium
+organ or tissue function, isa, natural phenomenon or process
+experimental model of disease, result of, phenomenon or process
+occupation or discipline, isa, conceptual entity
+mental or behavioral dysfunction, result of, disease or syndrome
+hormone, disrupts, body part organ or organ component
+physiologic function, affects, archaeon
+indicator reagent or diagnostic aid, isa, substance
+organism function, affects, pathologic function
+chemical, affects, organism function
+embryonic structure, part of, invertebrate
+human caused phenomenon or process, isa, phenomenon or process
+acquired abnormality, part of, vertebrate
+congenital abnormality, affects, rickettsia or chlamydia
+cell or molecular dysfunction, affects, organism
+disease or syndrome, result of, phenomenon or process
+biologic function, result of, genetic function
+acquired abnormality, result of, organ or tissue function
+cell or molecular dysfunction, precedes, experimental model of disease
+physiologic function, affects, organism function
+amino acid sequence, isa, molecular sequence
+virus, isa, physical object
+antibiotic, isa, chemical viewed functionally
+organ or tissue function, result of, acquired abnormality
+organ or tissue function, affects, natural phenomenon or process
+anatomical abnormality, part of, animal
+therapeutic or preventive procedure, affects, cell function
+neoplastic process, affects, experimental model of disease
+mental or behavioral dysfunction, result of, mental process
+pathologic function, affects, cell or molecular dysfunction
+anatomical abnormality, result of, cell function
+injury or poisoning, result of, human caused phenomenon or process
+pharmacologic substance, affects, molecular function
+immunologic factor, affects, pathologic function
+hazardous or poisonous substance, affects, organ or tissue function
+tissue, isa, anatomical structure
+organism function, precedes, molecular function
+social behavior, isa, behavior
+neoplastic process, affects, amphibian
+cell or molecular dysfunction, result of, organ or tissue function
+carbohydrate, affects, natural phenomenon or process
+neoplastic process, isa, phenomenon or process
+enzyme, isa, substance
+genetic function, result of, physiologic function
+cell function, precedes, organism function
+cell, part of, vertebrate
+cell function, result of, experimental model of disease
+plant, location of, vitamin
+enzyme, affects, pathologic function
+acquired abnormality, affects, human
+biomedical occupation or discipline, isa, conceptual entity
+organophosphorus compound, affects, physiologic function
+pathologic function, affects, neoplastic process
+amino acid peptide or protein, affects, cell or molecular dysfunction
+professional society, location of, diagnostic procedure
+acquired abnormality, result of, therapeutic or preventive procedure
+neoplastic process, precedes, pathologic function
+spatial concept, isa, entity
+cell component, location of, diagnostic procedure
+anatomical abnormality, location of, bacterium
+geographic area, isa, idea or concept
+organ or tissue function, affects, plant
+cell function, affects, alga
+organism function, affects, vertebrate
+congenital abnormality, affects, human
+anatomical abnormality, affects, genetic function
+disease or syndrome, affects, bacterium
+amino acid peptide or protein, affects, disease or syndrome
+pathologic function, affects, mental or behavioral dysfunction
+biologically active substance, affects, disease or syndrome
+human caused phenomenon or process, result of, physiologic function
+anatomical structure, part of, reptile
+clinical attribute, result of, cell function
+cell or molecular dysfunction, result of, therapeutic or preventive procedure
+anatomical abnormality, affects, alga
+cell component, location of, bacterium
+health care related organization, location of, educational activity
+amino acid peptide or protein, affects, neoplastic process
+neoplastic process, result of, laboratory procedure
+tissue, part of, alga
+embryonic structure, isa, entity
+anatomical abnormality, part of, archaeon
+pathologic function, affects, genetic function
+body space or junction, location of, pathologic function
+nucleotide sequence, result of, mental process
+receptor, affects, cell function
+medical device, isa, physical object
+amino acid peptide or protein, affects, mental process
+amphibian, isa, animal
+body part organ or organ component, location of, cell function
+body location or region, location of, cell function
+cell component, part of, vertebrate
+body space or junction, location of, anatomical abnormality
+biologically active substance, affects, mental process
+injury or poisoning, result of, cell function
+health care related organization, location of, molecular biology research technique
+amino acid peptide or protein, affects, mental or behavioral dysfunction
+eicosanoid, affects, neoplastic process
+pharmacologic substance, disrupts, tissue
+biologic function, result of, natural phenomenon or process
+mental or behavioral dysfunction, affects, vertebrate
+pathologic function, affects, alga
+receptor, disrupts, body part organ or organ component
+neoplastic process, affects, biologic function
+neoplastic process, result of, physiologic function
+acquired abnormality, affects, virus
+embryonic structure, part of, bacterium
+natural phenomenon or process, result of, biologic function
+cell component, affects, molecular function
+virus, location of, vitamin
+gene or genome, part of, mammal
+cell or molecular dysfunction, isa, biologic function
+body space or junction, location of, body substance
+organism function, affects, cell function
+patient or disabled group, isa, entity
+amino acid peptide or protein, affects, genetic function
+eicosanoid, affects, mental or behavioral dysfunction
+chemical, isa, substance
+congenital abnormality, affects, virus
+acquired abnormality, result of, cell or molecular dysfunction
+genetic function, affects, archaeon
+acquired abnormality, affects, fungus
+pharmacologic substance, disrupts, genetic function
+environmental effect of humans, result of, human caused phenomenon or process
+cell function, result of, biologic function
+mental process, result of, phenomenon or process
+gene or genome, affects, physiologic function
+organ or tissue function, affects, molecular function
+neuroreactive substance or biogenic amine, disrupts, cell
+neuroreactive substance or biogenic amine, affects, organism function
+receptor, affects, natural phenomenon or process
+acquired abnormality, result of, disease or syndrome
+lipid, affects, organ or tissue function
+eicosanoid, affects, genetic function
+immunologic factor, affects, cell function
+nucleic acid nucleoside or nucleotide, affects, physiologic function
+congenital abnormality, affects, fungus
+gene or genome, part of, bird
+hazardous or poisonous substance, affects, cell or molecular dysfunction
+mental process, affects, biologic function
+fungus, location of, hormone
+animal, isa, physical object
+tissue, isa, entity
+hormone, affects, experimental model of disease
+molecular function, affects, plant
+cell, part of, reptile
+anatomical structure, part of, plant
+receptor, disrupts, physiologic function
+vitamin, disrupts, molecular function
+social behavior, isa, event
+biomedical or dental material, affects, organism function
+therapeutic or preventive procedure, affects, patient or disabled group
+cell function, isa, phenomenon or process
+hazardous or poisonous substance, affects, disease or syndrome
+mental process, precedes, genetic function
+anatomical abnormality, result of, acquired abnormality
+acquired abnormality, result of, mental process
+enzyme, affects, cell function
+organ or tissue function, affects, invertebrate
+cell or molecular dysfunction, result of, disease or syndrome
+reptile, isa, vertebrate
+organism function, affects, reptile
+physiologic function, affects, organism attribute
+anatomical structure, part of, animal
+fully formed anatomical structure, location of, anatomical abnormality
+steroid, affects, pathologic function
+molecular sequence, isa, conceptual entity
+hazardous or poisonous substance, affects, neoplastic process
+antibiotic, affects, molecular function
+carbohydrate, isa, chemical viewed structurally
+enzyme, disrupts, body part organ or organ component
+inorganic chemical, affects, experimental model of disease
+molecular function, affects, organism
+fully formed anatomical structure, isa, anatomical structure
+hazardous or poisonous substance, affects, mental process
+anatomical structure, part of, organism
+cell or molecular dysfunction, affects, bacterium
+acquired abnormality, part of, plant
+laboratory procedure, affects, experimental model of disease
+biomedical or dental material, isa, entity
+disease or syndrome, affects, experimental model of disease
+human, isa, entity
+laboratory or test result, isa, conceptual entity
+pathologic function, affects, natural phenomenon or process
+genetic function, result of, anatomical abnormality
+biologic function, affects, neoplastic process
+cell or molecular dysfunction, result of, mental process
+organophosphorus compound, affects, pathologic function
+hazardous or poisonous substance, affects, mental or behavioral dysfunction
+fully formed anatomical structure, location of, neoplastic process
+anatomical abnormality, result of, health care activity
+phenomenon or process, result of, anatomical abnormality
+disease or syndrome, affects, amphibian
+gene or genome, location of, molecular function
+neoplastic process, affects, physiologic function
+mammal, isa, animal
+embryonic structure, location of, rickettsia or chlamydia
+biologic function, affects, mental or behavioral dysfunction
+injury or poisoning, disrupts, body part organ or organ component
+body space or junction, location of, cell function
+body part organ or organ component, part of, alga
+molecular function, result of, organ or tissue function
+mental or behavioral dysfunction, affects, reptile
+hormone, disrupts, cell
+human caused phenomenon or process, result of, pathologic function
+acquired abnormality, part of, organism
+molecular function, affects, clinical attribute
+experimental model of disease, affects, fish
+amino acid peptide or protein, affects, natural phenomenon or process
+disease or syndrome, precedes, pathologic function
+phenomenon or process, result of, neoplastic process
+organism function, result of, molecular function
+biologic function, result of, molecular function
+population group, isa, conceptual entity
+mental process, isa, organism function
+steroid, isa, chemical viewed structurally
+cell function, result of, physiologic function
+biologic function, affects, genetic function
+enzyme, isa, chemical
+fully formed anatomical structure, location of, genetic function
+pathologic function, affects, plant
+body location or region, isa, conceptual entity
+fully formed anatomical structure, part of, archaeon
+organization, location of, occupational activity
+eicosanoid, affects, natural phenomenon or process
+injury or poisoning, result of, acquired abnormality
+phenomenon or process, result of, mental or behavioral dysfunction
+neoplastic process, result of, individual behavior
+experimental model of disease, precedes, cell or molecular dysfunction
+embryonic structure, part of, amphibian
+alga, isa, plant
+cell, part of, animal
+biologic function, affects, alga
+hormone, isa, entity
+biologically active substance, isa, substance
+neoplastic process, result of, pathologic function
+organism function, result of, environmental effect of humans
+therapeutic or preventive procedure, affects, organism function
+cell, part of, organism
+anatomical abnormality, result of, organism function
+antibiotic, disrupts, tissue
+vertebrate, isa, animal
+experimental model of disease, precedes, disease or syndrome
+phenomenon or process, result of, genetic function
+lipid, affects, cell or molecular dysfunction
+immunologic factor, disrupts, organ or tissue function
+organism function, isa, event
+biologically active substance, disrupts, organ or tissue function
+carbohydrate sequence, isa, conceptual entity
+organism function, affects, animal
+mental or behavioral dysfunction, result of, molecular function
+congenital abnormality, affects, vertebrate
+organism function, result of, injury or poisoning
+inorganic chemical, affects, biologic function
+food, affects, organ or tissue function
+organ or tissue function, affects, bacterium
+pathologic function, precedes, experimental model of disease
+lipid, affects, disease or syndrome
+laboratory procedure, affects, biologic function
+experimental model of disease, isa, event
+injury or poisoning, result of, health care activity
+cell component, part of, plant
+alga, isa, organism
+organism function, affects, organism
+antibiotic, disrupts, genetic function
+pharmacologic substance, affects, experimental model of disease
+vitamin, disrupts, gene or genome
+biomedical or dental material, isa, physical object
+genetic function, precedes, organ or tissue function
+organ or tissue function, isa, phenomenon or process
+organ or tissue function, precedes, physiologic function
+nucleic acid nucleoside or nucleotide, affects, pathologic function
+food, isa, entity
+disease or syndrome, isa, event
+molecular function, isa, biologic function
+cell component, location of, biologic function
+steroid, affects, cell function
+vitamin, affects, organ or tissue function
+mental or behavioral dysfunction, result of, environmental effect of humans
+neoplastic process, result of, human caused phenomenon or process
+pathologic function, result of, organ or tissue function
+organ or tissue function, result of, experimental model of disease
+lipid, affects, mental process
+genetic function, affects, organism attribute
+experimental model of disease, affects, rickettsia or chlamydia
+hormone, disrupts, cell function
+mental or behavioral dysfunction, isa, event
+indicator reagent or diagnostic aid, affects, organ or tissue function
+body space or junction, location of, congenital abnormality
+acquired abnormality, affects, cell function
+pathologic function, affects, molecular function
+cell component, part of, organism
+social behavior, affects, behavior
+mental or behavioral dysfunction, affects, animal
+lipid, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, result of, injury or poisoning
+mental process, affects, social behavior
+organophosphorus compound, affects, cell function
+clinical attribute, result of, organism function
+disease or syndrome, affects, rickettsia or chlamydia
+anatomical abnormality, affects, invertebrate
+cell function, affects, archaeon
+experimental model of disease, result of, organ or tissue function
+molecular sequence, isa, spatial concept
+mental or behavioral dysfunction, affects, organism
+laboratory or test result, result of, laboratory procedure
+congenital abnormality, affects, cell function
+natural phenomenon or process, affects, organ or tissue function
+eicosanoid, isa, physical object
+receptor, disrupts, cell
+biologic function, affects, natural phenomenon or process
+neuroreactive substance or biogenic amine, disrupts, cell component
+embryonic structure, location of, virus
+molecular function, result of, cell or molecular dysfunction
+body location or region, location of, organism function
+body part organ or organ component, location of, organism function
+congenital abnormality, part of, alga
+cell function, affects, organism function
+acquired abnormality, isa, anatomical abnormality
+hormone, affects, physiologic function
+self help or relief organization, location of, laboratory procedure
+human caused phenomenon or process, result of, cell function
+injury or poisoning, result of, organism function
+nucleic acid nucleoside or nucleotide, isa, chemical viewed structurally
+pathologic function, affects, invertebrate
+gene or genome, location of, bacterium
+tissue, part of, archaeon
+physiologic function, precedes, genetic function
+amino acid peptide or protein, affects, molecular function
+hormone, isa, physical object
+molecular function, result of, disease or syndrome
+embryonic structure, location of, fungus
+genetic function, result of, natural phenomenon or process
+rickettsia or chlamydia, isa, organism
+bacterium, isa, organism
+body space or junction, location of, acquired abnormality
+natural phenomenon or process, result of, anatomical abnormality
+physiologic function, affects, mammal
+chemical viewed structurally, affects, experimental model of disease
+phenomenon or process, result of, natural phenomenon or process
+acquired abnormality, affects, reptile
+eicosanoid, affects, molecular function
+molecular function, affects, bacterium
+anatomical abnormality, result of, phenomenon or process
+environmental effect of humans, isa, phenomenon or process
+experimental model of disease, affects, human
+inorganic chemical, affects, physiologic function
+experimental model of disease, result of, therapeutic or preventive procedure
+biomedical occupation or discipline, isa, occupation or discipline
+molecular function, result of, mental process
+behavior, isa, activity
+disease or syndrome, affects, physiologic function
+pharmacologic substance, affects, biologic function
+neoplastic process, result of, cell function
+laboratory procedure, affects, physiologic function
+reptile, isa, animal
+molecular function, precedes, physiologic function
+organic chemical, isa, chemical viewed structurally
+therapeutic or preventive procedure, isa, activity
+congenital abnormality, affects, reptile
+pathologic function, isa, biologic function
+cell function, result of, anatomical abnormality
+natural phenomenon or process, result of, neoplastic process
+immunologic factor, affects, organism function
+molecular function, result of, mental or behavioral dysfunction
+genetic function, affects, fish
+mental or behavioral dysfunction, result of, diagnostic procedure
+occupational activity, isa, event
+disease or syndrome, result of, therapeutic or preventive procedure
+fully formed anatomical structure, location of, congenital abnormality
+body location or region, isa, spatial concept
+congenital abnormality, location of, experimental model of disease
+chemical, isa, physical object
+molecular function, isa, physiologic function
+cell component, location of, physiologic function
+physiologic function, affects, bird
+organism attribute, result of, organ or tissue function
+tissue, location of, virus
+food, affects, cell or molecular dysfunction
+organ or tissue function, affects, experimental model of disease
+cell or molecular dysfunction, affects, biologic function
+mental or behavioral dysfunction, affects, organism function
+genetic function, result of, congenital abnormality
+gene or genome, affects, cell function
+acquired abnormality, part of, bacterium
+natural phenomenon or process, result of, mental or behavioral dysfunction
+fully formed anatomical structure, isa, physical object
+steroid, isa, substance
+enzyme, disrupts, cell
+injury or poisoning, result of, behavior
+congenital abnormality, result of, cell or molecular dysfunction
+experimental model of disease, isa, biologic function
+enzyme, affects, organism function
+individual behavior, affects, behavior
+virus, isa, organism
+food, affects, disease or syndrome
+nucleic acid nucleoside or nucleotide, affects, cell function
+hormone, disrupts, cell component
+phenomenon or process, result of, congenital abnormality
+tissue, location of, fungus
+embryonic structure, location of, pathologic function
+organ or tissue function, affects, amphibian
+manufactured object, isa, entity
+mental process, affects, neoplastic process
+vitamin, affects, cell or molecular dysfunction
+neoplastic process, affects, genetic function
+carbohydrate, affects, experimental model of disease
+pathologic function, result of, cell or molecular dysfunction
+mental process, isa, event
+element ion or isotope, affects, organ or tissue function
+natural phenomenon or process, result of, genetic function
+receptor, disrupts, cell function
+amino acid peptide or protein, isa, organic chemical
+clinical attribute, result of, phenomenon or process
+disease or syndrome, result of, pathologic function
+immunologic factor, disrupts, mental process
+professional society, location of, research activity
+biologically active substance, disrupts, mental process
+food, affects, neoplastic process
+chemical viewed structurally, isa, substance
+experimental model of disease, affects, virus
+indicator reagent or diagnostic aid, affects, cell or molecular dysfunction
+fully formed anatomical structure, location of, acquired abnormality
+vitamin, affects, disease or syndrome
+injury or poisoning, disrupts, cell
+food, affects, mental process
+element ion or isotope, isa, chemical
+age group, isa, conceptual entity
+congenital abnormality, result of, neoplastic process
+tissue, location of, therapeutic or preventive procedure
+rickettsia or chlamydia, location of, biologically active substance
+pathologic function, result of, disease or syndrome
+chemical, affects, organ or tissue function
+neoplastic process, affects, alga
+hazardous or poisonous substance, affects, molecular function
+mental process, affects, mental or behavioral dysfunction
+invertebrate, isa, animal
+indicator reagent or diagnostic aid, affects, disease or syndrome
+amino acid peptide or protein, isa, chemical
+cell function, result of, genetic function
+food, affects, mental or behavioral dysfunction
+experimental model of disease, result of, cell or molecular dysfunction
+injury or poisoning, result of, phenomenon or process
+experimental model of disease, affects, fungus
+environmental effect of humans, result of, organism function
+genetic function, precedes, mental process
+body part organ or organ component, part of, invertebrate
+acquired abnormality, result of, environmental effect of humans
+genetic function, result of, acquired abnormality
+organization, location of, research activity
+natural phenomenon or process, affects, cell or molecular dysfunction
+vitamin, affects, neoplastic process
+physiologic function, affects, organ or tissue function
+pathologic function, result of, neoplastic process
+pathologic function, affects, bacterium
+anatomical abnormality, part of, mammal
+congenital abnormality, result of, mental or behavioral dysfunction
+neuroreactive substance or biogenic amine, disrupts, fully formed anatomical structure
+lipid, isa, substance
+mental process, affects, genetic function
+disease or syndrome, affects, fungus
+vitamin, affects, mental process
+environmental effect of humans, result of, injury or poisoning
+experimental model of disease, result of, disease or syndrome
+pathologic function, result of, mental process
+acquired abnormality, affects, animal
+health care activity, affects, experimental model of disease
+natural phenomenon or process, affects, disease or syndrome
+gene or genome, location of, experimental model of disease
+acquired abnormality, result of, injury or poisoning
+mental or behavioral dysfunction, affects, behavior
+neuroreactive substance or biogenic amine, disrupts, organism function
+individual behavior, isa, activity
+self help or relief organization, location of, therapeutic or preventive procedure
+disease or syndrome, result of, human caused phenomenon or process
+indicator reagent or diagnostic aid, affects, mental process
+body part organ or organ component, part of, archaeon
+vitamin, affects, mental or behavioral dysfunction
+pathologic function, result of, mental or behavioral dysfunction
+clinical drug, isa, entity
+pharmacologic substance, affects, physiologic function
+congenital abnormality, result of, genetic function
+acquired abnormality, location of, neoplastic process
+mental process, affects, alga
+cell or molecular dysfunction, result of, environmental effect of humans
+congenital abnormality, affects, animal
+cell function, precedes, organ or tissue function
+natural phenomenon or process, affects, neoplastic process
+hormone, isa, chemical viewed functionally
+human caused phenomenon or process, result of, acquired abnormality
+hormone, affects, pathologic function
+physiologic function, result of, anatomical abnormality
+biologic function, affects, invertebrate
+experimental model of disease, result of, mental process
+anatomical abnormality, part of, bird
+molecular function, affects, experimental model of disease
+diagnostic procedure, affects, cell or molecular dysfunction
+natural phenomenon or process, affects, mental process
+biologic function, result of, experimental model of disease
+vitamin, affects, genetic function
+organ or tissue function, affects, biologic function
+pathologic function, result of, genetic function
+cell, location of, anatomical abnormality
+cell or molecular dysfunction, result of, injury or poisoning
+enzyme, disrupts, cell function
+cell component, part of, bacterium
+cell function, affects, organism attribute
+fully formed anatomical structure, part of, fish
+natural phenomenon or process, affects, mental or behavioral dysfunction
+molecular function, affects, amphibian
+neoplastic process, isa, disease or syndrome
+antibiotic, disrupts, molecular function
+physiologic function, result of, neoplastic process
+inorganic chemical, isa, substance
+experimental model of disease, affects, pathologic function
+health care related organization, isa, entity
+cell, location of, neoplastic process
+organism attribute, result of, cell or molecular dysfunction
+inorganic chemical, affects, pathologic function
+diagnostic procedure, affects, neoplastic process
+acquired abnormality, result of, behavior
+neoplastic process, result of, acquired abnormality
+neoplastic process, affects, natural phenomenon or process
+congenital abnormality, location of, rickettsia or chlamydia
+hazardous or poisonous substance, disrupts, tissue
+disease or syndrome, affects, pathologic function
+tissue, location of, disease or syndrome
+injury or poisoning, disrupts, cell function
+receptor, disrupts, cell component
+physiologic function, result of, mental or behavioral dysfunction
+cell or molecular dysfunction, isa, natural phenomenon or process
+genetic function, affects, human
+chemical viewed functionally, isa, chemical
+organ or tissue function, affects, rickettsia or chlamydia
+organism attribute, result of, disease or syndrome
+antibiotic, affects, biologic function
+body system, isa, conceptual entity
+acquired abnormality, affects, archaeon
+embryonic structure, location of, cell function
+cell, location of, mental or behavioral dysfunction
+hormone, disrupts, fully formed anatomical structure
+steroid, affects, organism function
+diagnostic procedure, affects, mental or behavioral dysfunction
+clinical attribute, isa, conceptual entity
+gene or genome, part of, plant
+element ion or isotope, affects, cell or molecular dysfunction
+anatomical abnormality, location of, neoplastic process
+group, isa, conceptual entity
+animal, isa, organism
+hazardous or poisonous substance, disrupts, genetic function
+disease or syndrome, result of, cell function
+cell component, location of, anatomical abnormality
+physiologic function, result of, genetic function
+cell function, result of, natural phenomenon or process
+hormone, disrupts, organism function
+organism attribute, result of, neoplastic process
+cell or molecular dysfunction, result of, behavior
+anatomical structure, isa, entity
+diagnostic procedure, isa, activity
+acquired abnormality, affects, organism function
+chemical viewed structurally, affects, physiologic function
+cell, location of, genetic function
+mental process, result of, pathologic function
+neoplastic process, result of, health care activity
+geographic area, isa, entity
+organism attribute, result of, mental process
+gene or genome, location of, biologic function
+element ion or isotope, affects, disease or syndrome
+organ or tissue function, precedes, cell function
+organophosphorus compound, affects, organism function
+diagnostic procedure, affects, genetic function
+lipid, affects, molecular function
+mental process, affects, natural phenomenon or process
+anatomical abnormality, location of, mental or behavioral dysfunction
+organism attribute, result of, mental or behavioral dysfunction
+congenital abnormality, affects, organism function
+physiologic function, precedes, molecular function
+natural phenomenon or process, result of, congenital abnormality
+clinical drug, isa, physical object
+congenital abnormality, part of, invertebrate
+fungus, location of, neuroreactive substance or biogenic amine
+physiologic function, affects, cell or molecular dysfunction
+chemical, affects, disease or syndrome
+pathologic function, affects, experimental model of disease
+congenital abnormality, result of, natural phenomenon or process
+experimental model of disease, affects, vertebrate
+regulation or law, affects, family group
+drug delivery device, isa, medical device
+cell function, affects, fish
+neuroreactive substance or biogenic amine, affects, organ or tissue function
+human caused phenomenon or process, result of, organism function
+molecular function, affects, biologic function
+organism function, result of, biologic function
+element ion or isotope, affects, mental process
+organ or tissue function, affects, physiologic function
+physiologic function, affects, disease or syndrome
+receptor, isa, substance
+vitamin, affects, natural phenomenon or process
+genetic function, affects, virus
+pathologic function, affects, amphibian
+laboratory procedure, affects, genetic function
+cell function, result of, congenital abnormality
+organic chemical, affects, neoplastic process
+biomedical or dental material, affects, organ or tissue function
+amphibian, isa, physical object
+gene or genome, location of, rickettsia or chlamydia
+chemical, affects, mental process
+mental process, result of, human caused phenomenon or process
+anatomical abnormality, affects, fish
+enzyme, disrupts, cell component
+tissue, part of, fish
+hormone, affects, cell function
+physiologic function, affects, vertebrate
+biologic function, isa, phenomenon or process
+cell component, location of, genetic function
+amino acid peptide or protein, affects, experimental model of disease
+genetic function, affects, fungus
+carbohydrate, affects, physiologic function
+pharmacologic substance, isa, physical object
+physiologic function, affects, mental process
+anatomical structure, part of, mammal
+organic chemical, affects, mental or behavioral dysfunction
+temporal concept, isa, idea or concept
+neoplastic process, result of, organism function
+alga, location of, immunologic factor
+qualitative concept, result of, mental process
+carbohydrate, isa, physical object
+pharmacologic substance, affects, pathologic function
+physiologic function, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, result of, biologic function
+eicosanoid, affects, experimental model of disease
+antibiotic, affects, physiologic function
+experimental model of disease, affects, cell function
+injury or poisoning, disrupts, cell component
+governmental or regulatory activity, isa, event
+organic chemical, affects, genetic function
+quantitative concept, result of, mental process
+lipid, isa, organic chemical
+organ or tissue function, result of, pathologic function
+inorganic chemical, affects, cell function
+antibiotic, disrupts, gene or genome
+cell function, precedes, mental process
+cell function, result of, acquired abnormality
+fully formed anatomical structure, part of, human
+disease or syndrome, affects, cell function
+gene or genome, affects, organism function
+molecular biology research technique, isa, event
+congenital abnormality, location of, virus
+natural phenomenon or process, result of, molecular function
+physiologic function, result of, natural phenomenon or process
+molecular function, precedes, cell function
+gene or genome, part of, invertebrate
+anatomical structure, isa, physical object
+spatial concept, isa, conceptual entity
+receptor, disrupts, fully formed anatomical structure
+nucleic acid nucleoside or nucleotide, affects, organism function
+embryonic structure, part of, alga
+gene or genome, location of, physiologic function
+lipid, isa, chemical
+molecular function, result of, environmental effect of humans
+receptor, disrupts, organism function
+congenital abnormality, location of, fungus
+vertebrate, isa, entity
+pathologic function, affects, biologic function
+alga, location of, receptor
+genetic function, affects, pathologic function
+organ or tissue function, affects, fungus
+professional society, location of, educational activity
+professional society, isa, entity
+cell or molecular dysfunction, affects, neoplastic process
+molecular function, result of, injury or poisoning
+human, isa, animal
+mental process, result of, cell function
+molecular function, affects, physiologic function
+biologic function, result of, physiologic function
+immunologic factor, disrupts, molecular function
+biologically active substance, disrupts, molecular function
+organ or tissue function, result of, human caused phenomenon or process
+anatomical abnormality, affects, rickettsia or chlamydia
+neoplastic process, result of, behavior
+hormone, disrupts, embryonic structure
+experimental model of disease, affects, reptile
+tissue, part of, rickettsia or chlamydia
+human caused phenomenon or process, result of, phenomenon or process
+cell, part of, mammal
+food, affects, molecular function
+governmental or regulatory activity, isa, occupational activity
+professional society, location of, molecular biology research technique
+cell or molecular dysfunction, affects, mental or behavioral dysfunction
+bacterium, location of, immunologic factor
+mental or behavioral dysfunction, isa, disease or syndrome
+organism function, precedes, genetic function
+tissue, part of, body part organ or organ component
+anatomical abnormality, part of, vertebrate
+therapeutic or preventive procedure, affects, organ or tissue function
+neoplastic process, affects, archaeon
+chemical viewed structurally, affects, pathologic function
+plant, location of, hormone
+mental or behavioral dysfunction, precedes, neoplastic process
+functional concept, isa, idea or concept
+congenital abnormality, result of, molecular function
+molecular biology research technique, isa, occupational activity
+amino acid peptide or protein, affects, biologic function
+neuroreactive substance or biogenic amine, affects, cell or molecular dysfunction
+hazardous or poisonous substance, affects, experimental model of disease
+genetic function, precedes, molecular function
+anatomical abnormality, result of, organ or tissue function
+fully formed anatomical structure, part of, virus
+inorganic chemical, isa, chemical
+pathologic function, affects, rickettsia or chlamydia
+molecular function, isa, natural phenomenon or process
+organism function, affects, mammal
+rickettsia or chlamydia, location of, hormone
+tissue, isa, fully formed anatomical structure
+cell or molecular dysfunction, affects, genetic function
+professional society, isa, organization
+vitamin, affects, molecular function
+patient or disabled group, isa, conceptual entity
+mammal, isa, physical object
+mental process, affects, invertebrate
+pathologic function, result of, molecular function
+biologic function, affects, experimental model of disease
+neuroreactive substance or biogenic amine, affects, disease or syndrome
+language, isa, entity
+biomedical or dental material, affects, cell or molecular dysfunction
+cell, part of, bird
+eicosanoid, affects, biologic function
+fully formed anatomical structure, location of, experimental model of disease
+cell function, affects, human
+neoplastic process, result of, phenomenon or process
+fully formed anatomical structure, part of, fungus
+congenital abnormality, location of, pathologic function
+disease or syndrome, result of, health care activity
+enzyme, disrupts, fully formed anatomical structure
+body part organ or organ component, part of, fish
+cell or molecular dysfunction, affects, alga
+biologic function, affects, amphibian
+biomedical or dental material, affects, disease or syndrome
+organ or tissue function, affects, pathologic function
+organic chemical, affects, natural phenomenon or process
+enzyme, disrupts, organism function
+genetic function, affects, vertebrate
+genetic function, result of, experimental model of disease
+experimental model of disease, result of, molecular function
+pharmacologic substance, affects, cell function
+neuroreactive substance or biogenic amine, affects, mental process
+organism function, affects, bird
+bacterium, location of, receptor
+natural phenomenon or process, affects, molecular function
+anatomical abnormality, affects, human
+tissue, part of, human
+phenomenon or process, result of, experimental model of disease
+anatomical abnormality, result of, therapeutic or preventive procedure
+mental or behavioral dysfunction, affects, mammal
+behavior, result of, mental process
+injury or poisoning, disrupts, fully formed anatomical structure
+carbohydrate, affects, pathologic function
+pharmacologic substance, disrupts, body part organ or organ component
+cell component, location of, congenital abnormality
+organ or tissue function, result of, cell function
+biomedical or dental material, affects, mental process
+gene or genome, part of, bacterium
+clinical attribute, result of, organ or tissue function
+fungus, location of, biologically active substance
+vertebrate, isa, physical object
+pathologic function, affects, physiologic function
+chemical viewed functionally, affects, cell or molecular dysfunction
+injury or poisoning, disrupts, organism function
+biologic function, affects, fish
+virus, location of, hormone
+antibiotic, isa, physical object
+experimental model of disease, result of, environmental effect of humans
+physiologic function, result of, molecular function
+embryonic structure, location of, organism function
+body part organ or organ component, location of, organ or tissue function
+body location or region, location of, organ or tissue function
+cell component, affects, genetic function
+cell function, affects, organ or tissue function
+cell, location of, molecular function
+injury or poisoning, result of, organ or tissue function
+diagnostic procedure, affects, molecular function
+nucleic acid nucleoside or nucleotide, isa, physical object
+experimental model of disease, affects, animal
+cell function, affects, virus
+nucleotide sequence, isa, spatial concept
+mental or behavioral dysfunction, affects, bird
+disease or syndrome, result of, organism function
+experimental model of disease, result of, injury or poisoning
+receptor, isa, chemical
+physiologic function, affects, plant
+genetic function, affects, cell function
+hazardous or poisonous substance, affects, biologic function
+mental or behavioral dysfunction, result of, social behavior
+disease or syndrome, affects, animal
+vitamin, disrupts, tissue
+body system, isa, functional concept
+chemical viewed functionally, affects, neoplastic process
+amino acid peptide or protein, affects, physiologic function
+health care related organization, location of, therapeutic or preventive procedure
+health care activity, affects, pathologic function
+receptor, disrupts, embryonic structure
+disease or syndrome, result of, injury or poisoning
+organ or tissue function, precedes, organism function
+organism function, affects, organ or tissue function
+gene or genome, location of, pathologic function
+hazardous or poisonous substance, isa, entity
+pharmacologic substance, disrupts, physiologic function
+cell function, affects, fungus
+cell component, location of, acquired abnormality
+anatomical abnormality, affects, virus
+antibiotic, affects, neoplastic process
+gene or genome, location of, anatomical abnormality
+physiologic function, isa, event
+self help or relief organization, location of, health care activity
+research activity, affects, mental process
+tissue, part of, virus
+organism attribute, result of, molecular function
+body part organ or organ component, location of, body space or junction
+biologically active substance, disrupts, gene or genome
+body part organ or organ component, part of, rickettsia or chlamydia
+family group, isa, group
+cell or molecular dysfunction, affects, natural phenomenon or process
+vitamin, isa, chemical
+congenital abnormality, result of, diagnostic procedure
+chemical viewed functionally, affects, mental or behavioral dysfunction
+eicosanoid, affects, physiologic function
+therapeutic or preventive procedure, affects, cell or molecular dysfunction
+chemical viewed structurally, affects, cell function
+experimental model of disease, isa, natural phenomenon or process
+organ or tissue function, affects, alga
+organic chemical, isa, physical object
+vitamin, disrupts, genetic function
+congenital abnormality, part of, amphibian
+conceptual entity, isa, entity
+anatomical abnormality, result of, cell or molecular dysfunction
+anatomical abnormality, affects, fungus
+physiologic function, affects, organism
+immunologic factor, affects, organ or tissue function
+biologic function, result of, pathologic function
+tissue, part of, fungus
+pathologic function, result of, diagnostic procedure
+research device, isa, physical object
+organism function, result of, anatomical abnormality
+biologic function, result of, anatomical abnormality
+disease or syndrome, isa, natural phenomenon or process
+therapeutic or preventive procedure, affects, disease or syndrome
+regulation or law, affects, professional society
+chemical viewed functionally, affects, genetic function
+alga, location of, enzyme
+anatomical abnormality, result of, disease or syndrome
+tissue, location of, organism function
+organism attribute, result of, environmental effect of humans
+immunologic factor, isa, entity
+mental or behavioral dysfunction, affects, organ or tissue function
+nucleotide sequence, isa, molecular sequence
+antibiotic, affects, genetic function
+cell function, result of, phenomenon or process
+hormone, affects, organism function
+genetic function, affects, reptile
+biologic function, affects, rickettsia or chlamydia
+enzyme, affects, organ or tissue function
+pathologic function, affects, fungus
+tissue, location of, injury or poisoning
+fully formed anatomical structure, part of, vertebrate
+disease or syndrome, result of, behavior
+organism function, result of, neoplastic process
+organ or tissue function, affects, cell function
+experimental model of disease, result of, diagnostic procedure
+embryonic structure, isa, anatomical structure
+fully formed anatomical structure, location of, rickettsia or chlamydia
+mental or behavioral dysfunction, result of, individual behavior
+organic chemical, affects, molecular function
+neuroreactive substance or biogenic amine, isa, entity
+therapeutic or preventive procedure, affects, mental process
+anatomical abnormality, result of, mental process
+physiologic function, affects, clinical attribute
+physiologic function, affects, molecular function
+disease or syndrome, affects, archaeon
+experimental model of disease, affects, organism function
+social behavior, isa, activity
+body part organ or organ component, part of, human
+organism function, result of, mental or behavioral dysfunction
+mental or behavioral dysfunction, result of, anatomical abnormality
+carbohydrate, affects, cell function
+inorganic chemical, affects, organism function
+reptile, isa, physical object
+disease or syndrome, affects, organism function
+anatomical abnormality, part of, plant
+professional society, location of, governmental or regulatory activity
+molecular function, precedes, organism function
+environmental effect of humans, result of, organ or tissue function
+hazardous or poisonous substance, affects, physiologic function
+clinical attribute, result of, human caused phenomenon or process
+molecular function, affects, genetic function
+mammal, isa, vertebrate
+cell, location of, diagnostic procedure
+organism function, result of, genetic function
+clinical attribute, result of, disease or syndrome
+cell function, precedes, molecular function
+gene or genome, part of, amphibian
+body part organ or organ component, location of, cell or molecular dysfunction
+body location or region, location of, cell or molecular dysfunction
+mental or behavioral dysfunction, result of, neoplastic process
+hazardous or poisonous substance, disrupts, gene or genome
+acquired abnormality, affects, mammal
+injury or poisoning, disrupts, embryonic structure
+injury or poisoning, result of, cell or molecular dysfunction
+biologic function, affects, physiologic function
+natural phenomenon or process, result of, experimental model of disease
+organization, location of, governmental or regulatory activity
+neuroreactive substance or biogenic amine, disrupts, organ or tissue function
+biologic function, affects, human
+molecular function, affects, alga
+bacterium, location of, enzyme
+lipid, affects, biologic function
+biomedical or dental material, isa, substance
+antibiotic, disrupts, body part organ or organ component
+body part organ or organ component, location of, disease or syndrome
+fully formed anatomical structure, location of, physiologic function
+embryonic structure, part of, archaeon
+body location or region, location of, disease or syndrome
+regulation or law, affects, age group
+anatomical structure, part of, alga
+cell function, affects, disease or syndrome
+anatomical abnormality, part of, organism
+injury or poisoning, result of, disease or syndrome
+mental process, result of, organism function
+hormone, isa, biologically active substance
+cell, location of, bacterium
+congenital abnormality, affects, mammal
+health care activity, affects, cell function
+clinical attribute, result of, mental process
+organism function, affects, cell or molecular dysfunction
+gene or genome, location of, cell function
+body location or region, location of, neoplastic process
+cell function, affects, vertebrate
+nucleotide sequence, isa, entity
+acquired abnormality, affects, bird
+organism, isa, entity
+body part organ or organ component, part of, virus
+cell or molecular dysfunction, affects, molecular function
+chemical viewed functionally, affects, natural phenomenon or process
+physiologic function, isa, biologic function
+mental or behavioral dysfunction, result of, genetic function
+body part organ or organ component, location of, mental process
+body location or region, location of, mental process
+organism function, affects, disease or syndrome
+congenital abnormality, part of, rickettsia or chlamydia
+phenomenon or process, result of, physiologic function
+genetic function, isa, event
+body space or junction, location of, therapeutic or preventive procedure
+injury or poisoning, result of, mental process
+acquired abnormality, result of, social behavior
+amino acid peptide or protein, affects, pathologic function
+genetic function, affects, animal
+antibiotic, affects, natural phenomenon or process
+mental process, affects, experimental model of disease
+individual behavior, affects, mental process
+acquired abnormality, part of, alga
+immunologic factor, affects, cell or molecular dysfunction
+invertebrate, isa, physical object
+biologically active substance, affects, cell or molecular dysfunction
+body part organ or organ component, location of, mental or behavioral dysfunction
+body location or region, location of, mental or behavioral dysfunction
+biologic function, result of, cell function
+food, affects, experimental model of disease
+congenital abnormality, affects, bird
+substance, isa, entity
+organism function, affects, neoplastic process
+injury or poisoning, result of, mental or behavioral dysfunction
+body part organ or organ component, part of, fungus
+eicosanoid, isa, substance
+tissue, part of, vertebrate
+neoplastic process, affects, fish
+genetic function, affects, organism
+antibiotic, disrupts, physiologic function
+congenital abnormality, result of, experimental model of disease
+fully formed anatomical structure, part of, reptile
+organism function, affects, mental process
+mental process, affects, amphibian
+immunologic factor, affects, disease or syndrome
+eicosanoid, affects, pathologic function
+mental or behavioral dysfunction, affects, cell or molecular dysfunction
+qualitative concept, isa, idea or concept
+organization, location of, diagnostic procedure
+cell or molecular dysfunction, affects, invertebrate
+fungus, isa, physical object
+enzyme, affects, cell or molecular dysfunction
+biologic function, affects, virus
+organism function, affects, mental or behavioral dysfunction
+cell or molecular dysfunction, result of, social behavior
+human caused phenomenon or process, isa, event
+hormone, isa, substance
+vitamin, affects, experimental model of disease
+pathologic function, result of, experimental model of disease
+immunologic factor, affects, neoplastic process
+fully formed anatomical structure, location of, virus
+biologically active substance, affects, neoplastic process
+mental or behavioral dysfunction, affects, disease or syndrome
+steroid, affects, organ or tissue function
+pharmacologic substance, disrupts, cell
+neoplastic process, precedes, cell or molecular dysfunction
+quantitative concept, isa, idea or concept
+molecular function, result of, biologic function
+mental process, result of, behavior
+enzyme, affects, disease or syndrome
+immunologic factor, affects, mental process
+hormone, disrupts, organ or tissue function
+biologic function, affects, fungus
+organophosphorus compound, isa, organic chemical
+acquired abnormality, affects, organ or tissue function
+molecular function, affects, natural phenomenon or process
+neoplastic process, precedes, disease or syndrome
+organism function, result of, natural phenomenon or process
+carbohydrate sequence, isa, idea or concept
+mental or behavioral dysfunction, affects, neoplastic process
+amphibian, isa, organism
+fully formed anatomical structure, location of, fungus
+immunologic factor, affects, mental or behavioral dysfunction
+congenital abnormality, part of, human
+biologically active substance, affects, mental or behavioral dysfunction
+organ or tissue function, result of, organism function
+cell component, part of, tissue
+body part organ or organ component, location of, body location or region
+organophosphorus compound, affects, organ or tissue function
+acquired abnormality, location of, experimental model of disease
+research activity, isa, event
+mental or behavioral dysfunction, affects, mental process
+natural phenomenon or process, affects, experimental model of disease
+anatomical abnormality, affects, cell function
+physiologic function, affects, bacterium
+acquired abnormality, isa, entity
+congenital abnormality, affects, organ or tissue function
+enzyme, affects, mental process
+environmental effect of humans, result of, cell or molecular dysfunction
+neoplastic process, isa, event
+gene or genome, part of, rickettsia or chlamydia
+organophosphorus compound, isa, chemical
+biologically active substance, affects, genetic function
+gene or genome, location of, congenital abnormality
+human caused phenomenon or process, result of, organ or tissue function
+acquired abnormality, result of, anatomical abnormality
+environmental effect of humans, result of, disease or syndrome
+pathologic function, affects, cell function
+physiologic function, result of, experimental model of disease
+genetic function, affects, organism function
+mental or behavioral dysfunction, affects, genetic function
+hazardous or poisonous substance, isa, chemical viewed functionally
+body part organ or organ component, isa, entity
+mental or behavioral dysfunction, result of, natural phenomenon or process
+neoplastic process, affects, rickettsia or chlamydia
+cell component, part of, alga
+cell, location of, experimental model of disease
+cell function, affects, reptile
+environmental effect of humans, result of, neoplastic process
+food, affects, biologic function
+diagnostic procedure, precedes, therapeutic or preventive procedure
+biologic function, result of, congenital abnormality
+organism function, result of, congenital abnormality
+diagnostic procedure, affects, experimental model of disease
+acquired abnormality, result of, neoplastic process
+environmental effect of humans, result of, mental process
+substance, isa, physical object
+biologic function, affects, pathologic function
+cell or molecular dysfunction, result of, anatomical abnormality
+congenital abnormality, result of, biologic function
+family group, isa, entity
+neoplastic process, result of, organ or tissue function
+fully formed anatomical structure, location of, pathologic function
+fully formed anatomical structure, part of, animal
+congenital abnormality, part of, virus
+research activity, isa, occupational activity
+chemical viewed functionally, affects, molecular function
+regulation or law, affects, group
+chemical viewed structurally, affects, organism function
+environmental effect of humans, result of, mental or behavioral dysfunction
+anatomical abnormality, affects, reptile
+tissue, part of, reptile
+amino acid peptide or protein, affects, cell function
+gene or genome, location of, acquired abnormality
+acquired abnormality, result of, mental or behavioral dysfunction
+vitamin, affects, biologic function
+anatomical abnormality, location of, experimental model of disease
+pathologic function, result of, biologic function
+fully formed anatomical structure, part of, organism
+neuroreactive substance or biogenic amine, disrupts, mental process
+pharmacologic substance, disrupts, cell function
+organism attribute, result of, experimental model of disease
+genetic function, result of, pathologic function
+immunologic factor, isa, chemical viewed functionally
+cell or molecular dysfunction, result of, neoplastic process
+embryonic structure, isa, physical object
+congenital abnormality, part of, fungus
+mental process, affects, rickettsia or chlamydia
+indicator reagent or diagnostic aid, affects, biologic function
+organ or tissue function, affects, archaeon
+environmental effect of humans, result of, genetic function
+body part organ or organ component, part of, vertebrate
+gene or genome, affects, organ or tissue function
+eicosanoid, affects, cell function
+phenomenon or process, result of, pathologic function
+indicator reagent or diagnostic aid, isa, chemical
+acquired abnormality, result of, genetic function
+mental or behavioral dysfunction, result of, congenital abnormality
+neuroreactive substance or biogenic amine, isa, chemical viewed functionally
+biologic function, result of, acquired abnormality
+nucleic acid nucleoside or nucleotide, affects, organ or tissue function
+experimental model of disease, result of, biologic function
+cell component, location of, experimental model of disease
+pathologic function, isa, phenomenon or process
+cell or molecular dysfunction, result of, mental or behavioral dysfunction
+organ or tissue function, affects, organism function
+natural phenomenon or process, affects, biologic function
+natural phenomenon or process, result of, physiologic function
+anatomical structure, location of, rickettsia or chlamydia
+anatomical abnormality, part of, bacterium
+neuroreactive substance or biogenic amine, disrupts, genetic function
+neoplastic process, affects, human
+steroid, affects, cell or molecular dysfunction
+cell component, isa, entity
+receptor, disrupts, organ or tissue function
+occupational activity, isa, activity
+health care related organization, isa, conceptual entity
+regulation or law, affects, health care related organization
+mental process, precedes, cell function
+organ or tissue function, result of, phenomenon or process
+hazardous or poisonous substance, affects, genetic function
+neoplastic process, result of, therapeutic or preventive procedure
+biomedical or dental material, isa, chemical
+alga, location of, vitamin
+mammal, isa, organism
+therapeutic or preventive procedure, affects, molecular function
+cell or molecular dysfunction, result of, genetic function
+human, isa, mammal
+steroid, affects, disease or syndrome
+cell, part of, plant
+self help or relief organization, location of, occupational activity
+carbohydrate, affects, organism function
+biologically active substance, affects, natural phenomenon or process
+genetic function, result of, human caused phenomenon or process
+organic chemical, affects, experimental model of disease
+organophosphorus compound, affects, cell or molecular dysfunction
+health care activity, isa, occupational activity
+physiologic function, result of, biologic function
+regulation or law, affects, population group
+disease or syndrome, affects, fish
+congenital abnormality, result of, laboratory procedure
+enzyme, isa, entity
+idea or concept, isa, conceptual entity
+phenomenon or process, result of, human caused phenomenon or process
+eicosanoid, isa, organic chemical
+biologically active substance, disrupts, physiologic function
+cell, location of, biologic function
+steroid, affects, neoplastic process
+acquired abnormality, location of, rickettsia or chlamydia
+cell function, isa, event
+mental process, affects, physiologic function
+mental or behavioral dysfunction, affects, natural phenomenon or process
+diagnostic procedure, affects, biologic function
+antibiotic, disrupts, cell
+organophosphorus compound, affects, disease or syndrome
+rickettsia or chlamydia, location of, neuroreactive substance or biogenic amine
+tissue, isa, physical object
+health care related organization, location of, health care activity
+cell function, affects, animal
+mental process, affects, human
+organism function, affects, plant
+neoplastic process, isa, biologic function
+food, affects, physiologic function
+steroid, affects, mental process
+human caused phenomenon or process, result of, cell or molecular dysfunction
+group attribute, isa, entity
+pathologic function, result of, laboratory procedure
+anatomical abnormality, result of, environmental effect of humans
+physiologic function, affects, amphibian
+acquired abnormality, affects, vertebrate
+molecular function, affects, invertebrate
+disease or syndrome, precedes, cell or molecular dysfunction
+geographic area, isa, conceptual entity
+congenital abnormality, result of, physiologic function
+hormone, disrupts, mental process
+cell function, affects, organism
+anatomical structure, part of, invertebrate
+steroid, affects, mental or behavioral dysfunction
+eicosanoid, isa, chemical
+acquired abnormality, affects, mental process
+human caused phenomenon or process, result of, disease or syndrome
+plant, isa, entity
+anatomical abnormality, affects, animal
+health care activity, affects, organism function
+organophosphorus compound, affects, mental process
+temporal concept, result of, mental process
+gene or genome, location of, organism function
+vertebrate, isa, organism
+anatomical abnormality, result of, injury or poisoning
+tissue, part of, animal
+neoplastic process, affects, virus
+organism attribute, result of, biologic function
+vitamin, affects, physiologic function
+pathologic function, result of, physiologic function
+congenital abnormality, isa, anatomical structure
+experimental model of disease, precedes, neoplastic process
+molecular function, affects, archaeon
+congenital abnormality, affects, mental process
+embryonic structure, part of, fish
+biologic function, affects, cell function
+cell, location of, rickettsia or chlamydia
+hazardous or poisonous substance, disrupts, body part organ or organ component
+tissue, part of, organism
+pharmacologic substance, disrupts, cell component
+enzyme, disrupts, organ or tissue function
+human, isa, physical object
+neoplastic process, result of, cell or molecular dysfunction
+fully formed anatomical structure, location of, cell function
+disease or syndrome, precedes, neoplastic process
+neoplastic process, affects, fungus
+environmental effect of humans, result of, natural phenomenon or process
+mental or behavioral dysfunction, affects, plant
+human caused phenomenon or process, result of, mental process
+acquired abnormality, part of, invertebrate
+bacterium, location of, vitamin
+lipid, affects, neoplastic process
+acquired abnormality, result of, natural phenomenon or process
+experimental model of disease, precedes, mental or behavioral dysfunction
+biologic function, result of, organism function
+cell function, affects, clinical attribute
+sign or symptom, isa, finding
+body part organ or organ component, location of, molecular function
+body location or region, location of, molecular function
+body part organ or organ component, part of, reptile
+virus, location of, neuroreactive substance or biogenic amine
+neoplastic process, result of, disease or syndrome
+natural phenomenon or process, affects, physiologic function
+genetic function, result of, cell function
+injury or poisoning, result of, molecular function
+functional concept, isa, entity
+cell or molecular dysfunction, affects, experimental model of disease
+educational activity, isa, event
+disease or syndrome, precedes, mental or behavioral dysfunction
+mental process, affects, virus
+anatomical abnormality, location of, rickettsia or chlamydia
+body space or junction, part of, body part organ or organ component
+clinical attribute, result of, environmental effect of humans
+phenomenon or process, result of, cell function
+hazardous or poisonous substance, affects, natural phenomenon or process
+injury or poisoning, disrupts, organ or tissue function
+body space or junction, location of, cell component
+organism function, affects, clinical attribute
+organic chemical, affects, biologic function
+cell or molecular dysfunction, affects, amphibian
+nucleic acid nucleoside or nucleotide, affects, cell or molecular dysfunction
+cell or molecular dysfunction, result of, natural phenomenon or process
+organism function, affects, molecular function
+embryonic structure, location of, organ or tissue function
+mental process, affects, fungus
+neoplastic process, result of, mental process
+hazardous or poisonous substance, disrupts, physiologic function
+clinical attribute, result of, injury or poisoning
+physiologic function, affects, biologic function
+receptor, affects, organism function
+experimental model of disease, affects, mammal
+cell, part of, invertebrate
+mental or behavioral dysfunction, precedes, experimental model of disease
+lipid, affects, genetic function
+injury or poisoning, result of, environmental effect of humans
+antibiotic, disrupts, cell function
+cell component, location of, rickettsia or chlamydia
+biologic function, affects, reptile
+disease or syndrome, result of, organ or tissue function
+therapeutic or preventive procedure, isa, health care activity
+nucleic acid nucleoside or nucleotide, affects, disease or syndrome
+cell, location of, physiologic function
+anatomical abnormality, affects, archaeon
+molecular function, result of, anatomical abnormality
+diagnostic procedure, affects, physiologic function
+disease or syndrome, affects, mammal
+acquired abnormality, result of, congenital abnormality
+cell or molecular dysfunction, precedes, pathologic function
+body part organ or organ component, location of, injury or poisoning
+body location or region, location of, injury or poisoning
+pharmacologic substance, isa, substance
+pathologic function, result of, social behavior
+anatomical structure, location of, fungus
+immunologic factor, affects, molecular function
+biologically active substance, affects, molecular function
+neoplastic process, affects, pathologic function
+gene or genome, isa, anatomical structure
+natural phenomenon or process, result of, pathologic function
+organism function, affects, invertebrate
+gene or genome, affects, mental process
+carbohydrate, isa, substance
+anatomical abnormality, affects, organism function
+cell or molecular dysfunction, isa, pathologic function
+social behavior, result of, mental process
+embryonic structure, part of, rickettsia or chlamydia
+educational activity, isa, occupational activity
+nucleic acid nucleoside or nucleotide, affects, mental process
+experimental model of disease, affects, bird
+molecular function, result of, neoplastic process
+acquired abnormality, location of, virus
+professional society, location of, laboratory procedure
+pathologic function, affects, archaeon
+organ or tissue function, affects, organism attribute
+mental or behavioral dysfunction, affects, molecular function
+anatomical structure, part of, bacterium
+gene or genome, part of, tissue
+organism attribute, result of, physiologic function
+experimental model of disease, result of, social behavior
+organ or tissue function, isa, event
+receptor, disrupts, mental process
+professional society, isa, conceptual entity
+cell function, result of, pathologic function
+disease or syndrome, affects, bird
+mental process, affects, individual behavior
+disease or syndrome, affects, human
+biomedical occupation or discipline, isa, entity
+pathologic function, affects, organism function
+acquired abnormality, location of, fungus
+cell component, part of, invertebrate
+tissue, location of, organ or tissue function
+organization, location of, laboratory procedure
+reptile, isa, organism
+food, isa, physical object
+mental process, affects, pathologic function
+organism function, isa, biologic function
+hormone, affects, organ or tissue function
+congenital abnormality, isa, entity
+mental or behavioral dysfunction, affects, invertebrate
+natural phenomenon or process, result of, human caused phenomenon or process
+body part organ or organ component, part of, animal
+physiologic function, precedes, cell function
+regulation or law, affects, self help or relief organization
+biologic function, result of, phenomenon or process
+molecular function, result of, genetic function
+congenital abnormality, result of, pathologic function
+geographic area, isa, spatial concept
+pharmacologic substance, disrupts, fully formed anatomical structure
+gene or genome, part of, alga
+pathologic function, result of, individual behavior
+congenital abnormality, result of, anatomical abnormality
+environmental effect of humans, result of, molecular function
+body part organ or organ component, location of, diagnostic procedure
+body location or region, location of, diagnostic procedure
+neoplastic process, affects, vertebrate
+organic chemical, affects, physiologic function
+disease or syndrome, isa, biologic function
+acquired abnormality, result of, molecular function
+language, isa, conceptual entity
+pharmacologic substance, disrupts, organism function
+injury or poisoning, result of, diagnostic procedure
+cell function, result of, human caused phenomenon or process
+vitamin, affects, pathologic function
+experimental model of disease, affects, organ or tissue function
+tissue, location of, body space or junction
+cell, location of, fungus
+embryonic structure, part of, human
+plant, location of, biologically active substance
+congenital abnormality, part of, reptile
+pathologic function, result of, anatomical abnormality
+inorganic chemical, affects, organ or tissue function
+chemical viewed functionally, affects, experimental model of disease
+immunologic factor, disrupts, tissue
+biologically active substance, disrupts, tissue
+neuroreactive substance or biogenic amine, disrupts, molecular function
+anatomical abnormality, location of, virus
+lipid, affects, natural phenomenon or process
+disease or syndrome, affects, organ or tissue function
+eicosanoid, affects, organism function
+biologic function, affects, animal
+mental or behavioral dysfunction, isa, biologic function
+element ion or isotope, isa, entity
+molecular function, precedes, organ or tissue function
+cell or molecular dysfunction, affects, rickettsia or chlamydia
+antibiotic, affects, experimental model of disease
+acquired abnormality, affects, plant
+body part organ or organ component, location of, bacterium
+disease or syndrome, affects, virus
+cell, part of, bacterium
+acquired abnormality, location of, pathologic function
+daily or recreational activity, isa, event
+amino acid peptide or protein, isa, entity
+molecular biology research technique, affects, mental process
+cell or molecular dysfunction, result of, molecular function
+embryonic structure, location of, cell or molecular dysfunction
+drug delivery device, isa, manufactured object
+enzyme, disrupts, mental process
+biologically active substance, isa, chemical
+organ or tissue function, affects, fish
+body space or junction, location of, organism function
+anatomical abnormality, location of, fungus
+environmental effect of humans, isa, event
+experimental model of disease, result of, anatomical abnormality
+invertebrate, isa, organism
+mental process, precedes, organism function
+immunologic factor, disrupts, genetic function
+biologically active substance, disrupts, genetic function
+molecular function, affects, organism attribute
+neuroreactive substance or biogenic amine, affects, biologic function
+congenital abnormality, affects, plant
+disease or syndrome, result of, cell or molecular dysfunction
+cell component, location of, virus
+physiologic function, isa, natural phenomenon or process
+phenomenon or process, result of, acquired abnormality
+governmental or regulatory activity, isa, activity
+indicator reagent or diagnostic aid, affects, neoplastic process
+embryonic structure, location of, disease or syndrome
+body space or junction, location of, injury or poisoning
+organism function, affects, bacterium
+food, affects, genetic function
+human, isa, vertebrate
+mental process, result of, organ or tissue function
+enzyme, isa, chemical viewed functionally
+molecular biology research technique, isa, activity
+neoplastic process, affects, cell function
+gene or genome, isa, entity
+acquired abnormality, affects, organism
+natural phenomenon or process, result of, cell function
+biomedical or dental material, affects, biologic function
+fungus, isa, organism
+experimental model of disease, result of, neoplastic process
+organism function, precedes, physiologic function
+injury or poisoning, disrupts, mental process
+physiologic function, result of, pathologic function
+embryonic structure, location of, neoplastic process
+enzyme, disrupts, genetic function
+cell component, location of, fungus
+indicator reagent or diagnostic aid, affects, mental or behavioral dysfunction
+cell, location of, pathologic function
+embryonic structure, part of, virus
+embryonic structure, location of, mental process
+organism function, result of, experimental model of disease
+diagnostic procedure, affects, pathologic function
+disease or syndrome, result of, neoplastic process
+rickettsia or chlamydia, location of, immunologic factor
+organism function, isa, physiologic function
+congenital abnormality, affects, organism
+virus, location of, biologically active substance
+genetic function, affects, mammal
+congenital abnormality, isa, physical object
+cell or molecular dysfunction, affects, physiologic function
+experimental model of disease, result of, mental or behavioral dysfunction
+embryonic structure, location of, mental or behavioral dysfunction
+disease or syndrome, result of, mental process
+indicator reagent or diagnostic aid, affects, genetic function
+cell component, location of, therapeutic or preventive procedure
+cell or molecular dysfunction, affects, human
+embryonic structure, part of, fungus
+steroid, affects, molecular function
+antibiotic, isa, substance
+molecular function, result of, natural phenomenon or process
+hazardous or poisonous substance, disrupts, cell
+biologic function, affects, archaeon
+anatomical structure, part of, amphibian
+mental or behavioral dysfunction, affects, bacterium
+organism attribute, isa, entity
+disease or syndrome, result of, mental or behavioral dysfunction
+tissue, location of, cell or molecular dysfunction
+organ or tissue function, precedes, mental process
+mental process, affects, cell function
+hormone, disrupts, molecular function
+anatomical abnormality, location of, pathologic function
+experimental model of disease, result of, genetic function
+acquired abnormality, affects, molecular function
+manufactured object, isa, physical object
+nucleic acid nucleoside or nucleotide, isa, substance
+hormone, affects, cell or molecular dysfunction
+natural phenomenon or process, affects, genetic function
+physiologic function, result of, human caused phenomenon or process
+biologic function, affects, organism function
+laboratory procedure, affects, pathologic function
+chemical viewed functionally, affects, biologic function
+congenital abnormality, part of, animal
+genetic function, affects, bird
+congenital abnormality, result of, cell function
+neoplastic process, affects, reptile
+fully formed anatomical structure, location of, organism function
+amino acid sequence, isa, idea or concept
+chemical viewed functionally, isa, entity
+carbohydrate, isa, organic chemical
+mental or behavioral dysfunction, result of, experimental model of disease
+hormone, affects, disease or syndrome
+congenital abnormality, affects, molecular function
+acquired abnormality, result of, diagnostic procedure
+element ion or isotope, isa, physical object
+molecular function, affects, fish
+laboratory procedure, isa, health care activity
+cell component, location of, pathologic function
+tissue, location of, neoplastic process
+acquired abnormality, part of, amphibian
+vitamin, affects, cell function
+experimental model of disease, affects, cell or molecular dysfunction
+genetic function, result of, organism function
+amino acid peptide or protein, isa, physical object
+pharmacologic substance, isa, chemical
+tissue, location of, mental process
+mental process, isa, biologic function
+individual behavior, isa, behavior
+health care related organization, isa, organization
+inorganic chemical, affects, cell or molecular dysfunction
+molecular function, result of, congenital abnormality
+carbohydrate, isa, chemical
+disease or syndrome, affects, cell or molecular dysfunction
+organic chemical, isa, substance
+molecular sequence, result of, mental process
+health care related organization, location of, occupational activity
+phenomenon or process, result of, organism function
+vitamin, disrupts, body part organ or organ component
+experimental model of disease, affects, disease or syndrome
+pharmacologic substance, disrupts, embryonic structure
+hormone, affects, mental process
+chemical, affects, cell or molecular dysfunction
+tissue, location of, mental or behavioral dysfunction
+professional or occupational group, isa, group
+cell component, affects, physiologic function
+body location or region, location of, experimental model of disease
+cell or molecular dysfunction, result of, diagnostic procedure
+organic chemical, affects, pathologic function
+neuroreactive substance or biogenic amine, disrupts, gene or genome
+mental process, affects, reptile
+inorganic chemical, affects, disease or syndrome
+qualitative concept, isa, entity
+element ion or isotope, affects, neoplastic process
+acquired abnormality, part of, fish
+experimental model of disease, affects, neoplastic process
+human caused phenomenon or process, result of, environmental effect of humans
+therapeutic or preventive procedure, affects, biologic function
+antibiotic, disrupts, organism function
+tissue, location of, genetic function
+cell, part of, amphibian
+steroid, isa, organic chemical
+cell or molecular dysfunction, affects, fungus
+neoplastic process, result of, molecular function
+experimental model of disease, affects, mental process
+genetic function, affects, organ or tissue function
+organism function, affects, experimental model of disease
+organism attribute, result of, genetic function
+quantitative concept, isa, entity
+disease or syndrome, affects, vertebrate
+mental process, result of, cell or molecular dysfunction
+chemical, affects, neoplastic process
+pathologic function, result of, natural phenomenon or process
+organ or tissue function, affects, human
+human caused phenomenon or process, result of, injury or poisoning
+inorganic chemical, affects, mental process
+element ion or isotope, affects, mental or behavioral dysfunction
+experimental model of disease, affects, mental or behavioral dysfunction
+congenital abnormality, part of, archaeon
+disease or syndrome, affects, mental process
+embryonic structure, part of, cell
+hazardous or poisonous substance, disrupts, cell function
+physiologic function, result of, cell function
+molecular function, precedes, mental process
+indicator reagent or diagnostic aid, affects, natural phenomenon or process
+organism function, affects, amphibian
+steroid, isa, chemical
+mental process, result of, disease or syndrome
+vitamin, disrupts, physiologic function
+physiologic function, affects, neoplastic process
+cell, location of, cell function
+fully formed anatomical structure, part of, mammal
+chemical, affects, mental or behavioral dysfunction
+diagnostic procedure, affects, cell function
+chemical viewed structurally, affects, organ or tissue function
+neoplastic process, result of, environmental effect of humans
+immunologic factor, affects, experimental model of disease
+biologically active substance, affects, experimental model of disease
+element ion or isotope, affects, genetic function
+experimental model of disease, result of, natural phenomenon or process
+idea or concept, result of, mental process
+nucleic acid nucleoside or nucleotide, affects, molecular function
+body location or region, result of, mental process
+natural phenomenon or process, result of, acquired abnormality
+immunologic factor, isa, biologically active substance
+chemical viewed functionally, affects, physiologic function
+mental process, result of, neoplastic process
+molecular function, affects, rickettsia or chlamydia
+anatomical structure, part of, rickettsia or chlamydia
+pathologic function, affects, fish
+neoplastic process, affects, animal
+chemical viewed structurally, isa, chemical
+receptor, disrupts, molecular function
+neoplastic process, result of, injury or poisoning
+chemical, affects, genetic function
+mental or behavioral dysfunction, affects, experimental model of disease
+embryonic structure, part of, vertebrate
+cell component, part of, amphibian
+natural phenomenon or process, isa, phenomenon or process
+neuroreactive substance or biogenic amine, isa, biologically active substance
+nucleotide sequence, isa, conceptual entity
+physiologic function, precedes, organism function
+mental process, result of, mental or behavioral dysfunction
+fully formed anatomical structure, part of, bird
+pathologic function, result of, congenital abnormality
+cell or molecular dysfunction, affects, pathologic function
+physiologic function, affects, genetic function
+laboratory procedure, affects, cell function
+bird, isa, entity
+hormone, disrupts, gene or genome
+therapeutic or preventive procedure, isa, occupational activity
+mental or behavioral dysfunction, affects, amphibian
+mental process, isa, physiologic function
+pathologic function, precedes, cell or molecular dysfunction
+carbohydrate sequence, result of, mental process
+experimental model of disease, isa, pathologic function
+genetic function, result of, phenomenon or process
+organ or tissue function, affects, virus
+body part organ or organ component, location of, biologic function
+body location or region, location of, biologic function
+body space or junction, isa, idea or concept
+acquired abnormality, part of, rickettsia or chlamydia
+acquired abnormality, affects, bacterium
+lipid, isa, entity
+injury or poisoning, result of, biologic function
+cell component, location of, cell function
+physiologic function, affects, alga
+pathologic function, precedes, disease or syndrome
+neoplastic process, isa, natural phenomenon or process
+disease or syndrome, isa, pathologic function
+mental process, affects, animal
+experimental model of disease, result of, congenital abnormality
+cell component, part of, fish
+mental or behavioral dysfunction, precedes, pathologic function
+carbohydrate, affects, organ or tissue function
+gene or genome, part of, archaeon
+organ or tissue function, result of, cell or molecular dysfunction
+laboratory or test result, isa, finding
+congenital abnormality, result of, acquired abnormality
+cell function, precedes, genetic function
+congenital abnormality, affects, bacterium
+environmental effect of humans, result of, experimental model of disease
+organism function, affects, biologic function
+organism function, result of, physiologic function
+self help or relief organization, isa, entity
+mental or behavioral dysfunction, isa, pathologic function
+acquired abnormality, result of, experimental model of disease
+molecular function, affects, human
+injury or poisoning, isa, phenomenon or process
+organ or tissue function, result of, disease or syndrome
+organic chemical, affects, cell function
+organism attribute, result of, natural phenomenon or process
+human, isa, organism
+cell function, affects, mammal
+pathologic function, result of, acquired abnormality
+biologic function, isa, event
+neuroreactive substance or biogenic amine, isa, substance
+nucleic acid nucleoside or nucleotide, isa, organic chemical
+organization, location of, educational activity
+physiologic function, result of, congenital abnormality
+cell, part of, rickettsia or chlamydia
+disease or syndrome, affects, reptile
+neoplastic process, result of, diagnostic procedure
+mental or behavioral dysfunction, result of, laboratory procedure
+pathologic function, precedes, mental or behavioral dysfunction
+body substance, isa, entity
+enzyme, disrupts, molecular function
+hazardous or poisonous substance, disrupts, cell component
+antibiotic, isa, chemical
+cell, location of, congenital abnormality
+immunologic factor, affects, biologic function
+biologically active substance, affects, biologic function
+genetic function, affects, cell or molecular dysfunction
+congenital abnormality, result of, health care activity
+body part organ or organ component, isa, fully formed anatomical structure
+anatomical abnormality, affects, mammal
+alga, isa, entity
+inorganic chemical, isa, entity
+cell or molecular dysfunction, result of, experimental model of disease
+organ or tissue function, result of, mental process
+health care activity, affects, organ or tissue function
+tissue, part of, mammal
+antibiotic, disrupts, embryonic structure
+element ion or isotope, affects, natural phenomenon or process
+neoplastic process, affects, organism function
+genetic function, isa, molecular function
+organization, location of, molecular biology research technique
+natural phenomenon or process, result of, organism function
+nucleic acid nucleoside or nucleotide, isa, chemical
+acquired abnormality, part of, human
+intellectual product, isa, entity
+cell function, affects, bird
+gene or genome, location of, virus
+genetic function, affects, disease or syndrome
+mental or behavioral dysfunction, affects, biologic function
+organ or tissue function, result of, mental or behavioral dysfunction
+mental or behavioral dysfunction, result of, physiologic function
+indicator reagent or diagnostic aid, affects, molecular function
+chemical, affects, natural phenomenon or process
+injury or poisoning, disrupts, molecular function
+neuroreactive substance or biogenic amine, affects, neoplastic process
+chemical viewed structurally, affects, cell or molecular dysfunction
+mental process, affects, archaeon
+genetic function, affects, neoplastic process
+biologic function, result of, organ or tissue function
+cell function, result of, organism function
+gene or genome, location of, fungus
+anatomical abnormality, affects, bird
+embryonic structure, location of, molecular function
+embryonic structure, part of, reptile
+physiologic function, result of, acquired abnormality
+bird, isa, physical object
+physiologic function, affects, natural phenomenon or process
+molecular function, affects, virus
+tissue, part of, bird
+genetic function, affects, mental process
+organism function, precedes, cell function
+chemical viewed structurally, affects, disease or syndrome
+biomedical or dental material, affects, neoplastic process
+cell component, part of, rickettsia or chlamydia
+cell function, result of, injury or poisoning
+neuroreactive substance or biogenic amine, affects, mental or behavioral dysfunction
+mental process, affects, organism function
+body location or region, location of, physiologic function
+disease or syndrome, result of, molecular function
+anatomical abnormality, part of, alga
+cell, location of, acquired abnormality
+organic chemical, isa, chemical
+genetic function, affects, mental or behavioral dysfunction
+receptor, disrupts, gene or genome
+congenital abnormality, location of, cell or molecular dysfunction
+cell component, part of, body part organ or organ component
+family group, isa, conceptual entity
+experimental model of disease, affects, plant
+molecular function, affects, fungus
+mental or behavioral dysfunction, affects, rickettsia or chlamydia
+cell or molecular dysfunction, affects, cell function
+organ or tissue function, precedes, molecular function
+anatomical structure, part of, fungus
+chemical viewed functionally, affects, pathologic function
+steroid, affects, experimental model of disease
+environmental effect of humans, result of, biologic function
+congenital abnormality, result of, organism function
+biomedical or dental material, affects, mental or behavioral dysfunction
+pathologic function, affects, human
+neuroreactive substance or biogenic amine, affects, genetic function
+chemical viewed structurally, affects, mental process
+receptor, affects, organ or tissue function
+congenital abnormality, location of, disease or syndrome
+disease or syndrome, affects, plant
+acquired abnormality, result of, biologic function
+cell component, isa, fully formed anatomical structure
+organism function, affects, physiologic function
+antibiotic, affects, pathologic function
+functional concept, result of, mental process
+acquired abnormality, part of, virus
+vitamin, disrupts, cell
+rickettsia or chlamydia, isa, entity
+disease or syndrome, result of, environmental effect of humans
+organ or tissue function, affects, disease or syndrome
+bacterium, isa, entity
+cell function, isa, natural phenomenon or process
+biomedical or dental material, affects, genetic function
+receptor, isa, entity
+carbohydrate, affects, cell or molecular dysfunction
+laboratory procedure, isa, event
+experimental model of disease, affects, organism
+acquired abnormality, affects, amphibian
+acquired abnormality, part of, fungus
+anatomical abnormality, affects, organ or tissue function
+organ or tissue function, affects, vertebrate
+social behavior, affects, individual behavior
+immunologic factor, affects, physiologic function
+cell or molecular dysfunction, result of, biologic function
+biologically active substance, affects, physiologic function
+tissue, location of, molecular function
+carbohydrate, affects, disease or syndrome
+organism function, isa, natural phenomenon or process
+professional or occupational group, isa, entity
+disease or syndrome, affects, organism
+organ or tissue function, affects, mental process
+immunologic factor, disrupts, gene or genome
+cell component, part of, human
+congenital abnormality, affects, amphibian
+hormone, affects, molecular function
+amino acid sequence, result of, mental process
+disease or syndrome, precedes, experimental model of disease
+vitamin, isa, entity
+fungus, location of, immunologic factor
+mental process, affects, behavior
+regulation or law, isa, entity
+medical device, isa, manufactured object
+mental or behavioral dysfunction, affects, physiologic function
+lipid, affects, experimental model of disease
+fish, isa, entity
+natural phenomenon or process, result of, phenomenon or process
+pathologic function, affects, organ or tissue function
+molecular function, affects, pathologic function
+organism function, result of, pathologic function
+cell or molecular dysfunction, isa, phenomenon or process
+hazardous or poisonous substance, disrupts, fully formed anatomical structure
+mental or behavioral dysfunction, result of, therapeutic or preventive procedure
+cell component, affects, cell function
+injury or poisoning, result of, social behavior
+carbohydrate, affects, mental process
+pathologic function, affects, virus
+research activity, isa, activity
+health care activity, affects, cell or molecular dysfunction
+individual behavior, affects, social behavior
+enzyme, disrupts, gene or genome
+professional society, location of, health care activity
+element ion or isotope, affects, molecular function
+experimental model of disease, affects, molecular function
+hazardous or poisonous substance, disrupts, organism function
+body part organ or organ component, part of, mammal
+physiologic function, result of, organism function
+embryonic structure, part of, animal
+carbohydrate, affects, mental or behavioral dysfunction
+group attribute, isa, conceptual entity
+cell, location of, organism function
+laboratory procedure, isa, occupational activity
+acquired abnormality, result of, laboratory procedure
+health care activity, affects, disease or syndrome
+gene or genome, location of, disease or syndrome
+mental or behavioral dysfunction, isa, natural phenomenon or process
+therapeutic or preventive procedure, affects, neoplastic process
+diagnostic procedure, affects, organism function
+embryonic structure, part of, organism
+behavior, affects, mental process
+chemical, affects, molecular function
+anatomical abnormality, result of, neoplastic process
+congenital abnormality, part of, fish
+steroid, affects, biologic function
+pharmacologic substance, disrupts, organ or tissue function
+injury or poisoning, disrupts, gene or genome
+environmental effect of humans, result of, physiologic function
+fungus, location of, receptor
+mental or behavioral dysfunction, result of, pathologic function
+disease or syndrome, result of, diagnostic procedure
+organism function, result of, human caused phenomenon or process
+biologic function, result of, human caused phenomenon or process
+therapeutic or preventive procedure, affects, mental or behavioral dysfunction
+body part organ or organ component, part of, bird
+acquired abnormality, result of, physiologic function
+neuroreactive substance or biogenic amine, affects, natural phenomenon or process
+vitamin, disrupts, cell function
+health care activity, affects, mental process
+anatomical abnormality, result of, mental or behavioral dysfunction
+cell component, part of, virus
+biologic function, result of, disease or syndrome
+biologic function, affects, mammal
+congenital abnormality, result of, phenomenon or process
+alga, location of, hormone
+cell or molecular dysfunction, result of, laboratory procedure
+eicosanoid, affects, organ or tissue function
+clinical attribute, result of, cell or molecular dysfunction
+embryonic structure, location of, bacterium
+mental process, result of, molecular function
+health care activity, affects, mental or behavioral dysfunction
+laboratory procedure, affects, organism function
+neuroreactive substance or biogenic amine, disrupts, physiologic function
+regulation or law, affects, patient or disabled group
+acquired abnormality, isa, anatomical structure
+biomedical or dental material, affects, natural phenomenon or process
+chemical viewed functionally, affects, cell function
+therapeutic or preventive procedure, affects, genetic function
+molecular function, affects, vertebrate
+molecular function, result of, experimental model of disease
+machine activity, isa, event
+pathologic function, result of, phenomenon or process
+cell component, part of, fungus
+mental or behavioral dysfunction, affects, social behavior
+injury or poisoning, result of, individual behavior
+self help or relief organization, location of, governmental or regulatory activity
+body space or junction, location of, organ or tissue function
+anatomical abnormality, result of, genetic function
+finding, isa, entity
+health care activity, isa, activity
+receptor, affects, cell or molecular dysfunction
+mental process, precedes, organ or tissue function
+antibiotic, affects, cell function
+physiologic function, affects, invertebrate
+cell function, affects, cell or molecular dysfunction
+functional concept, isa, conceptual entity
+cell or molecular dysfunction, result of, physiologic function
+cell component, location of, organism function
+hazardous or poisonous substance, isa, physical object
+molecular sequence, isa, idea or concept
+enzyme, isa, biologically active substance
+body location or region, location of, anatomical abnormality
+body part organ or organ component, location of, anatomical abnormality
+molecular biology research technique, isa, research activity
+biologic function, affects, bird
+receptor, affects, disease or syndrome
+organ or tissue function, affects, reptile
+injury or poisoning, result of, anatomical abnormality
+clinical attribute, result of, neoplastic process
+mental process, result of, environmental effect of humans
+mental or behavioral dysfunction, result of, human caused phenomenon or process
+eicosanoid, isa, lipid
+body part organ or organ component, isa, anatomical structure
+mental process, affects, organism attribute
+body system, result of, mental process
+vitamin, isa, physical object
+cell or molecular dysfunction, affects, animal
+tissue, location of, diagnostic procedure
+medical device, isa, entity
+fish, isa, physical object
+bird, isa, vertebrate
+genetic function, affects, plant
+receptor, affects, neoplastic process
+organic chemical, affects, organism function
+cell, isa, anatomical structure
+body part organ or organ component, location of, neoplastic process
+gene or genome, part of, fish
+mental process, result of, injury or poisoning
+cell function, affects, neoplastic process
+clinical attribute, result of, mental or behavioral dysfunction
+injury or poisoning, result of, neoplastic process
+receptor, affects, mental process
+neoplastic process, result of, biologic function
+laboratory or test result, result of, diagnostic procedure
+cell function, affects, mental process
+immunologic factor, isa, physical object
+body location or region, location of, tissue
+tissue, location of, bacterium
+molecular function, affects, cell function
+cell, part of, tissue
+receptor, affects, mental or behavioral dysfunction
+organism function, result of, cell function
+physiologic function, result of, phenomenon or process
+biologically active substance, affects, pathologic function
+bacterium, location of, hormone
+cell function, affects, mental or behavioral dysfunction
+clinical attribute, result of, genetic function
+self help or relief organization, location of, diagnostic procedure
+phenomenon or process, isa, event
+anatomical abnormality, affects, vertebrate
+mental or behavioral dysfunction, affects, individual behavior
+steroid, affects, physiologic function
+anatomical abnormality, isa, anatomical structure
+neuroreactive substance or biogenic amine, isa, physical object
+pathologic function, affects, disease or syndrome
+anatomical abnormality, affects, mental process
+congenital abnormality, part of, mammal
+mental process, isa, natural phenomenon or process
+biologic function, affects, organ or tissue function
+body location or region, isa, idea or concept
+organ or tissue function, result of, molecular function
+mental or behavioral dysfunction, affects, pathologic function
+hormone, disrupts, physiologic function
+receptor, affects, genetic function
+body part organ or organ component, location of, genetic function
+body location or region, location of, genetic function
+acquired abnormality, affects, physiologic function
+cell function, affects, genetic function
+fully formed anatomical structure, location of, organ or tissue function
+nucleic acid nucleoside or nucleotide, affects, biologic function
+injury or poisoning, result of, genetic function
+animal, isa, entity
+hazardous or poisonous substance, disrupts, embryonic structure
+pathologic function, affects, vertebrate
+vitamin, disrupts, cell component
+experimental model of disease, affects, bacterium
+rickettsia or chlamydia, location of, vitamin
+cell component, isa, anatomical structure
+pharmacologic substance, affects, organism function
+cell component, part of, cell
+pathologic function, affects, mental process
+congenital abnormality, affects, physiologic function
+indicator reagent or diagnostic aid, affects, experimental model of disease
+genetic function, result of, organ or tissue function
+cell, part of, alga
+organism attribute, result of, phenomenon or process
+element ion or isotope, isa, chemical viewed structurally
+cell or molecular dysfunction, affects, archaeon
+mental or behavioral dysfunction, result of, cell function
+anatomical abnormality, part of, invertebrate
+organism function, affects, genetic function
+anatomical abnormality, result of, natural phenomenon or process
+organ or tissue function, result of, environmental effect of humans
+congenital abnormality, part of, bird
+neuroreactive substance or biogenic amine, affects, molecular function
+genetic function, affects, clinical attribute
+mental process, affects, fish
+amino acid peptide or protein, isa, chemical viewed structurally
+phenomenon or process, result of, organ or tissue function
+eicosanoid, affects, cell or molecular dysfunction
+genetic function, affects, molecular function
+molecular function, affects, reptile
+enzyme, affects, neoplastic process
+embryonic structure, location of, experimental model of disease
+body space or junction, isa, spatial concept
+cell or molecular dysfunction, affects, organism function
+acquired abnormality, result of, individual behavior
+molecular function, isa, phenomenon or process
+organ or tissue function, affects, animal
+organism function, affects, alga
+lipid, affects, physiologic function
+biomedical or dental material, affects, molecular function
+environmental effect of humans, result of, pathologic function
+organ or tissue function, result of, injury or poisoning
+eicosanoid, affects, disease or syndrome
+disease or syndrome, result of, experimental model of disease
+body space or junction, location of, cell or molecular dysfunction
+food, isa, substance
+organophosphorus compound, isa, entity
+immunologic factor, affects, genetic function
+acquired abnormality, result of, pathologic function
+antibiotic, disrupts, organ or tissue function
+environmental effect of humans, result of, anatomical abnormality
+organ or tissue function, affects, organism
+enzyme, affects, mental or behavioral dysfunction
+gene or genome, part of, body part organ or organ component
+receptor, isa, chemical viewed functionally
+pharmacologic substance, disrupts, mental process
+educational activity, isa, activity
+chemical viewed structurally, affects, molecular function
+amino acid sequence, isa, entity
+body space or junction, location of, disease or syndrome
+neoplastic process, precedes, mental or behavioral dysfunction
+genetic function, affects, invertebrate
+spatial concept, result of, mental process
+fungus, location of, enzyme
+organism, isa, physical object
+cell or molecular dysfunction, result of, individual behavior
+acquired abnormality, part of, reptile
+gene or genome, isa, fully formed anatomical structure
+fully formed anatomical structure, part of, plant
+hazardous or poisonous substance, affects, pathologic function
+eicosanoid, affects, mental process
+sign or symptom, isa, entity
+enzyme, affects, genetic function
+anatomical abnormality, result of, congenital abnormality
+cell or molecular dysfunction, result of, pathologic function
+body space or junction, location of, neoplastic process
+vitamin, isa, chemical viewed functionally
+cell, isa, entity
+clinical attribute, result of, natural phenomenon or process
+mental or behavioral dysfunction, affects, alga
+body space or junction, location of, mental process
+organ or tissue function, affects, clinical attribute
+acquired abnormality, result of, human caused phenomenon or process
+tissue, location of, experimental model of disease
+neoplastic process, affects, mammal
+body space or junction, location of, mental or behavioral dysfunction
+health care activity, isa, event
+genetic function, isa, biologic function
+cell function, affects, natural phenomenon or process
+biologically active substance, affects, cell function
+cell component, affects, organism function
+classification, isa, entity
+regulation or law, isa, intellectual product
+injury or poisoning, result of, natural phenomenon or process
+gene or genome, part of, human
+neuroreactive substance or biogenic amine, disrupts, tissue
+anatomical abnormality, isa, entity
+molecular function, result of, physiologic function
+physiologic function, precedes, organ or tissue function
+carbohydrate, affects, molecular function
+immunologic factor, disrupts, body part organ or organ component
+body space or junction, location of, genetic function
+biologically active substance, disrupts, body part organ or organ component
+biologic function, affects, cell or molecular dysfunction
+mental or behavioral dysfunction, affects, cell function
+pathologic function, affects, reptile
+indicator reagent or diagnostic aid, isa, entity
+cell or molecular dysfunction, result of, human caused phenomenon or process
+organism function, result of, acquired abnormality
+organism function, affects, natural phenomenon or process
+molecular function, isa, event
+fully formed anatomical structure, location of, cell or molecular dysfunction
+embryonic structure, location of, biologic function
+molecular function, affects, animal
+neoplastic process, affects, bird
+element ion or isotope, affects, experimental model of disease
+biologic function, affects, disease or syndrome
+fish, isa, vertebrate
+vitamin, disrupts, fully formed anatomical structure
+organism attribute, isa, conceptual entity
+mental process, affects, mammal
+organism function, isa, phenomenon or process
+disease or syndrome, result of, biologic function
+neoplastic process, result of, social behavior
+fully formed anatomical structure, location of, disease or syndrome
+acquired abnormality, isa, physical object
+genetic function, result of, cell or molecular dysfunction
+vitamin, disrupts, organism function
+temporal concept, isa, entity
+chemical, affects, experimental model of disease
+experimental model of disease, affects, amphibian
+organophosphorus compound, isa, physical object
+anatomical abnormality, result of, molecular function
+body part organ or organ component, location of, congenital abnormality
+cell function, affects, plant
+body location or region, location of, congenital abnormality
+immunologic factor, affects, natural phenomenon or process
+biologic function, affects, vertebrate
+experimental model of disease, isa, phenomenon or process
+phenomenon or process, result of, cell or molecular dysfunction
+organization, isa, entity
+injury or poisoning, result of, congenital abnormality
+genetic function, result of, disease or syndrome
+plant, location of, neuroreactive substance or biogenic amine
+biologic function, affects, mental process
+health care activity, affects, molecular function
+chemical viewed functionally, affects, organism function
+physiologic function, affects, experimental model of disease
+cell component, part of, reptile
+bird, isa, animal
+immunologic factor, disrupts, physiologic function
+disease or syndrome, isa, phenomenon or process
+environmental effect of humans, result of, cell function
+fully formed anatomical structure, location of, mental process
+phenomenon or process, result of, disease or syndrome
+body part organ or organ component, isa, physical object
+mental or behavioral dysfunction, result of, acquired abnormality
+gene or genome, part of, virus
+acquired abnormality, part of, animal
+mental process, affects, bird
+antibiotic, affects, organism function
+anatomical abnormality, affects, plant
+experimental model of disease, precedes, pathologic function
+acquired abnormality, result of, cell function
+genetic function, result of, neoplastic process
+genetic function, affects, bacterium
+enzyme, affects, natural phenomenon or process
+bird, isa, organism
+tissue, part of, plant
+fully formed anatomical structure, location of, mental or behavioral dysfunction
+fully formed anatomical structure, part of, invertebrate
+professional society, location of, occupational activity
+mental process, result of, experimental model of disease
+cell, isa, physical object
+genetic function, result of, mental process
+mental or behavioral dysfunction, isa, phenomenon or process
+human caused phenomenon or process, result of, anatomical abnormality
+organophosphorus compound, affects, neoplastic process
+neuroreactive substance or biogenic amine, disrupts, cell function
+gene or genome, part of, fungus
+body space or junction, isa, entity
+genetic function, precedes, physiologic function
+enzyme, disrupts, physiologic function
+neoplastic process, affects, organ or tissue function
+lipid, affects, pathologic function
+eicosanoid, isa, entity
+hormone, disrupts, tissue
+natural phenomenon or process, result of, organ or tissue function
+tissue, location of, biologic function
+genetic function, result of, mental or behavioral dysfunction
+hazardous or poisonous substance, affects, cell function
+phenomenon or process, result of, mental process
+element ion or isotope, isa, substance
+daily or recreational activity, isa, activity
+body part organ or organ component, location of, acquired abnormality
+body location or region, location of, acquired abnormality
+genetic function, isa, physiologic function
+qualitative concept, isa, conceptual entity
+hormone, affects, biologic function
+cell or molecular dysfunction, result of, cell function
+experimental model of disease, result of, laboratory procedure

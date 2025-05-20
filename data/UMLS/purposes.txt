@@ -1,0 +1,1 @@
+The purpose of NLM's Unified Medical Language System® (UMLS) is to facilitate the development of computer systems that behave as if they "understand" the meaning of the language of biomedicine and health.

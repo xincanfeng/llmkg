@@ -1,0 +1,85 @@
+{
+    "Generate_kg": {
+        "Purposes": [
+            "The motivation of creating the KG is: {{ purposes | replace('\"', '') | safe }}",
+            "The primary goal for you is to clearly map and represent key information as described. Please strictly adhere to the provided document content without adding interpretations or additional teachings.",
+            "If there are no meaningful triples that can be extracted given the provided document, please response 'Nothing can be extracted' and don't teach the user or do anything else." 
+        ],
+        "Format": [
+            "Please output each triple in the format of <'head entity', 'relation', 'tail entity'>. Use angle brackets to enclose each triple. Use commas to separate the entities and relation. Enclose each entity and relation in single quotes.",
+            "Please avoid using nested or complex structures that could obscure clarity",
+            "If an entity or relation consists of multiple words, please use a space to separate each word.",
+            "If an entity or relation consists of special symbols, please keep using those symbols.",
+            "As mentioned above, use symbols properly with angle brackets, commas, single quotes, underscores, and those originally exist in the entities or relations. Do not use any other symbols besides these to format the triples.",
+            "Please output each triple on a separate line.", 
+            "Please ensure that each triple is in a readable and understandable format, with proper capitalization and punctuation, but don't sacrifice the original meaning of the entities or relations and don't be too general or vague.",
+            "An example for the output triple is: {{ an_example | replace('\"', '') | safe }}.",
+            "More examples for the output triple are: {{ more_examples | replace('\"', '') | safe }}."
+        ],
+        "Triples": [
+            "The triples must express important facts."
+        ],
+        "Entities": [
+            "The head or tail entities should convey important or necessary concepts",
+            "Please perform knowledge extraction based only on the following entity types: {{ entity_types | replace('\"', '') | safe }}.",
+            "You can consider the following entity list as examples: {{ entity_list | replace('\"', '') | safe }}."
+        ],
+        "Relations": [
+            "The relations should explain the connections between the head entity and the corresponding tail entity.",
+            "Please perform knowledge extraction only based only on the following relations: {{ relation_list | replace('\"', '') | safe }}."
+        ]
+    },
+    "Filter_entity": {
+        "Filter_query_entity_by_type":[
+            "Please consider the entity type in the query first. If the query entity type is not within the following list, please answer 'FALSE' directly: {{ entity_types | replace('\"', '') | safe }}."
+        ],
+        "Match_candidate_entity_by_type":[
+            "Then please consider both the entity type in the query and the candidate(s). If the entity type of the candidate(s) does not match any of the entity type in the query, please answer 'FALSE' directly."
+        ]
+    },
+    "Deduplicate_and_Prune_kg": {
+        "Entity_deduplication": [
+            "Canonicalization: Decide on a canonical (standard) form for entities that appear in multiple variants, including standardizing names in different language or situation, attributes, and ID that means the same entity.",
+            "For instance, 'Tylenol', 'Acetaminophen', and 'Paracetamol' should all be standardized to 'Acetaminophen' to reflect their common identity."
+        ],
+        "Relation_deduplication": [
+            "Consistency: Identify and merge relationships that effectively represent the same connection between entities but might be expressed differently.",
+            "For example, merge 'interacts' and 'has a synergistic effect' between 'Drug A' and 'Drug B' into a single 'interacts' relationship, with a note on synergy.",
+            "Directionality and Cardinality: Ensure that the relationships not only connect the correct entities but also adhere to the appropriate direction and cardinality rules.",
+            "For instance, ensure 'treats' relationships run from 'drug' to 'disease' and verify 'belongs to' relationships correctly represent one-to-many mappings."
+        ],
+        "Triple_deduplication": [
+            "Rank KG: Rank all the triples based on their relevance to the specified purposes: {{ purposes | replace('\"', '') | safe }}",
+            "Prune KG: After ranking all the triples, output the triples in the order of their ranking."
+        ]
+    },
+    "Evaluate_kg":{
+        "Accuracy": [
+            "Factually Correct: The triple must accurately represent real-world facts. The head entity, relation, and tail entity should correctly reflect actual relationship or attribute.",
+            "For example, the triple <Aspirin, reduces pain, Patients> should be supported by reliable medical literature."
+        ],
+        "Relevance":[
+            "Applicability: Each triple should directly relate to the domain or context for which the KG is intended, avoiding irrelevant information that can dilute its usefulness.",
+            "For instance, a KG about pharmaceuticals should not include extensive unrelated financial data of companies.",
+            "Specificity: Ensure the level of detail in each triple matches its intended use. Avoid overly granular data that might complicate simple queries or overly broad statements that provide little actionable insight."
+        ],
+        "Completeness":[
+            "Coverage: Include all significant entities and relationships within the scope of the intended domain, ensuring no critical information is omitted.",
+            "For example, a KG about human genetics should cover major genes, their mutations, and associated diseases.",
+            "Depth and Breadth: Maintain sufficient depth and breadth to fulfill the KG's purpose, providing detailed insights into specific topics and a comprehensive overview of all relevant areas."
+        ],
+        "Connectivity":[
+            "Interlinking: Properly link all related entities and attributes within the graph to create a cohesive and navigable network, enhancing the user's ability to discover relational data easily.",
+            "Contextual Linking: Ensure links between triples provide meaningful context, thereby enhancing the understanding of how entities are interrelated.",
+            "For example, linking diseases to symptoms, treatments, and causative genes in a health-related KG."
+        ],
+        "Timeliness":[
+            "Up-to-Date Information: Check all the KG triples to reflect the latest developments, particularly in fast-evolving fields like technology or medicine.",
+            "Historical Accuracy: Accurately reflect historical changes for domains where historical data is crucial, ensuring that temporal data like historical events or phased-out technologies are correctly represented."
+        ],
+        "Scalability":[
+            "Ability to Expand: Design the KG structure to easily incorporate new triples and entities as domain knowledge expands without requiring extensive restructuring.",
+            "Performance: Ensure that as the KG grows, it continues to perform efficiently in terms of query speed and data handling."
+        ]
+    }
+}

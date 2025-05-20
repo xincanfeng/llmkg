@@ -1,0 +1,18 @@
+physical object
+anatomical structure
+gene
+genome
+natural phenomenon
+natural process
+biologic function
+pathologic function
+disease
+syndrome
+neoplastic process
+biomedical material
+dental material
+chemical viewed structurally
+health care activity
+organism
+pharmacologic substance
+physiological function

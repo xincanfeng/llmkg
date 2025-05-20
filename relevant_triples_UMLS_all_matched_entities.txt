@@ -1,0 +1,2712 @@
+pharmacologic substance, complicates, anatomical abnormality
+food, affects, organ or tissue function
+steroid, interacts with, hazardous or poisonous substance
+pharmacologic substance, causes, experimental model of disease
+congenital abnormality, result of, neoplastic process
+mental or behavioral dysfunction, co-occurs with, neoplastic process
+hazardous or poisonous substance, complicates, neoplastic process
+biomedical or dental material, affects, experimental model of disease
+chemical viewed structurally, interacts with, element ion or isotope
+human, interacts with, organism
+pathologic function, precedes, mental or behavioral dysfunction
+eicosanoid, causes, pathologic function
+pathologic function, affects, rickettsia or chlamydia
+invertebrate, interacts with, organism
+pharmacologic substance, causes, anatomical abnormality
+nucleic acid nucleoside or nucleotide, isa, chemical viewed structurally
+chemical viewed structurally, causes, mental or behavioral dysfunction
+hormone, complicates, experimental model of disease
+pharmacologic substance, complicates, mental process
+pathologic function, process of, experimental model of disease
+hazardous or poisonous substance, causes, neoplastic process
+mental or behavioral dysfunction, occurs in, professional or occupational group
+chemical, affects, disease or syndrome
+hormone, causes, experimental model of disease
+mental or behavioral dysfunction, process of, experimental model of disease
+cell function, process of, neoplastic process
+population group, performs, research activity
+chemical, causes, mental or behavioral dysfunction
+element ion or isotope, affects, neoplastic process
+cell or molecular dysfunction, process of, organism
+pharmacologic substance, treats, sign or symptom
+neoplastic process, precedes, experimental model of disease
+vitamin, disrupts, tissue
+biologic function, process of, organ or tissue function
+anatomical structure, issue in, biomedical occupation or discipline
+pathologic function, process of, mental process
+disease or syndrome, affects, organism
+carbohydrate, isa, physical object
+amino acid peptide or protein, interacts with, element ion or isotope
+laboratory procedure, diagnoses, pathologic function
+element ion or isotope, interacts with, inorganic chemical
+mental or behavioral dysfunction, process of, mental process
+vitamin, complicates, neoplastic process
+fully formed anatomical structure, produces, biologically active substance
+congenital abnormality, location of, neoplastic process
+virus, interacts with, fish
+mental or behavioral dysfunction, produces, receptor
+nucleic acid nucleoside or nucleotide, interacts with, biologically active substance
+pathologic function, affects, genetic function
+vitamin, causes, neoplastic process
+self help or relief organization, isa, entity
+lipid, interacts with, pharmacologic substance
+reptile, interacts with, organism
+amino acid peptide or protein, isa, chemical
+diagnostic procedure, affects, pathologic function
+antibiotic, prevents, pathologic function
+experimental model of disease, process of, mental process
+disease or syndrome, process of, organism
+molecular biology research technique, measures, pathologic function
+indicator reagent or diagnostic aid, affects, experimental model of disease
+biologically active substance, complicates, disease or syndrome
+molecular biology research technique, measures, carbohydrate
+eicosanoid, isa, physical object
+enzyme, isa, physical object
+laboratory procedure, analyzes, steroid
+organism attribute, result of, experimental model of disease
+carbohydrate, interacts with, chemical viewed functionally
+biologic function, result of, phenomenon or process
+steroid, interacts with, hormone
+pathologic function, affects, mental or behavioral dysfunction
+human caused phenomenon or process, result of, pathologic function
+immunologic factor, complicates, experimental model of disease
+biologically active substance, causes, disease or syndrome
+neoplastic process, affects, organism function
+organ or tissue function, result of, experimental model of disease
+experimental model of disease, result of, pathologic function
+biologic function, affects, amphibian
+cell or molecular dysfunction, manifestation of, experimental model of disease
+chemical viewed structurally, issue in, biomedical occupation or discipline
+organ or tissue function, affects, fish
+population group, uses, manufactured object
+sign or symptom, manifestation of, experimental model of disease
+biologic function, process of, bacterium
+biologic function, result of, disease or syndrome
+acquired abnormality, location of, neoplastic process
+tissue, part of, fungus
+element ion or isotope, affects, natural phenomenon or process
+organism function, process of, experimental model of disease
+immunologic factor, indicates, experimental model of disease
+cell or molecular dysfunction, precedes, pathologic function
+tissue, produces, organic chemical
+embryonic structure, part of, archaeon
+research activity, associated with, congenital abnormality
+pathologic function, precedes, disease or syndrome
+research activity, measures, biologically active substance
+chemical, affects, neoplastic process
+educational activity, associated with, experimental model of disease
+chemical, issue in, biomedical occupation or discipline
+chemical viewed structurally, causes, disease or syndrome
+chemical viewed functionally, interacts with, biologically active substance
+experimental model of disease, affects, mental or behavioral dysfunction
+laboratory or test result, associated with, pathologic function
+chemical viewed structurally, interacts with, hazardous or poisonous substance
+mental or behavioral dysfunction, precedes, disease or syndrome
+food, isa, entity
+organ or tissue function, process of, fish
+congenital abnormality, manifestation of, neoplastic process
+embryonic structure, part of, fungus
+organic chemical, affects, biologic function
+nucleic acid nucleoside or nucleotide, causes, neoplastic process
+injury or poisoning, result of, experimental model of disease
+biologically active substance, disrupts, mental process
+embryonic structure, issue in, occupation or discipline
+pathologic function, occurs in, patient or disabled group
+biologic function, process of, virus
+biologically active substance, interacts with, enzyme
+disease or syndrome, associated with, mental or behavioral dysfunction
+experimental model of disease, complicates, pathologic function
+lipid, interacts with, element ion or isotope
+biologically active substance, complicates, injury or poisoning
+steroid, interacts with, antibiotic
+lipid, causes, mental or behavioral dysfunction
+neoplastic process, affects, physiologic function
+tissue, location of, mental process
+biologic function, process of, pathologic function
+fully formed anatomical structure, location of, mental process
+manufactured object, causes, mental or behavioral dysfunction
+organism function, result of, pathologic function
+body substance, isa, physical object
+tissue, location of, physiologic function
+self help or relief organization, carries out, educational activity
+health care activity, associated with, neoplastic process
+congenital abnormality, isa, anatomical structure
+mental or behavioral dysfunction, result of, mental process
+pathologic function, issue in, occupation or discipline
+anatomical structure, part of, archaeon
+research activity, associated with, acquired abnormality
+genetic function, affects, pathologic function
+animal, isa, organism
+pathologic function, affects, animal
+biologically active substance, complicates, neoplastic process
+experimental model of disease, occurs in, patient or disabled group
+therapeutic or preventive procedure, prevents, experimental model of disease
+laboratory or test result, manifestation of, mental or behavioral dysfunction
+mental process, produces, biologically active substance
+organism function, affects, mental or behavioral dysfunction
+neoplastic process, produces, hormone
+antibiotic, complicates, mental or behavioral dysfunction
+research activity, isa, event
+research device, causes, pathologic function
+biologically active substance, causes, neoplastic process
+diagnostic procedure, diagnoses, neoplastic process
+mental or behavioral dysfunction, complicates, experimental model of disease
+medical device, prevents, experimental model of disease
+laboratory procedure, analyzes, pharmacologic substance
+mental or behavioral dysfunction, result of, health care activity
+drug delivery device, causes, experimental model of disease
+neoplastic process, process of, mammal
+cell or molecular dysfunction, affects, pathologic function
+neoplastic process, process of, molecular function
+mental or behavioral dysfunction, complicates, anatomical abnormality
+chemical, isa, entity
+antibiotic, causes, mental or behavioral dysfunction
+biologic function, result of, neoplastic process
+therapeutic or preventive procedure, complicates, experimental model of disease
+neoplastic process, process of, biologic function
+eicosanoid, affects, biologic function
+enzyme, affects, biologic function
+sign or symptom, evaluation of, mental or behavioral dysfunction
+inorganic chemical, affects, molecular function
+self help or relief organization, location of, therapeutic or preventive procedure
+neoplastic process, affects, bird
+inorganic chemical, affects, biologic function
+chemical viewed structurally, interacts with, neuroreactive substance or biogenic amine
+mental or behavioral dysfunction, affects, disease or syndrome
+pathologic function, precedes, neoplastic process
+chemical viewed structurally, interacts with, hormone
+acquired abnormality, isa, anatomical structure
+carbohydrate, affects, natural phenomenon or process
+fish, isa, animal
+research activity, measures, eicosanoid
+cell component, produces, biologically active substance
+chemical viewed structurally, causes, neoplastic process
+neoplastic process, result of, genetic function
+fully formed anatomical structure, produces, vitamin
+pharmacologic substance, complicates, congenital abnormality
+mental or behavioral dysfunction, precedes, neoplastic process
+mammal, isa, organism
+molecular function, affects, organism
+lipid, isa, chemical viewed structurally
+medical device, causes, experimental model of disease
+anatomical structure, isa, physical object
+steroid, affects, cell or molecular dysfunction
+embryonic structure, part of, organism
+molecular biology research technique, measures, chemical
+element ion or isotope, interacts with, indicator reagent or diagnostic aid
+pharmacologic substance, causes, congenital abnormality
+enzyme, disrupts, tissue
+mental process, result of, neoplastic process
+organism function, affects, fish
+body space or junction, location of, mental or behavioral dysfunction
+physiologic function, process of, mental or behavioral dysfunction
+experimental model of disease, affects, disease or syndrome
+lipid, affects, neoplastic process
+molecular function, result of, biologic function
+biologic function, process of, invertebrate
+pathologic function, degree of, disease or syndrome
+hormone, affects, biologic function
+fully formed anatomical structure, part of, fish
+research activity, measures, cell function
+neoplastic process, result of, mental or behavioral dysfunction
+governmental or regulatory activity, associated with, pathologic function
+biologically active substance, isa, chemical viewed functionally
+plant, isa, physical object
+health care related organization, carries out, research activity
+self help or relief organization, location of, governmental or regulatory activity
+vitamin, affects, mental or behavioral dysfunction
+anatomical abnormality, manifestation of, neoplastic process
+pathologic function, occurs in, mental or behavioral dysfunction
+anatomical abnormality, location of, mental or behavioral dysfunction
+nucleic acid nucleoside or nucleotide, interacts with, steroid
+phenomenon or process, result of, pathologic function
+pathologic function, produces, biologically active substance
+fish, issue in, biomedical occupation or discipline
+bird, interacts with, organism
+carbohydrate, affects, cell function
+biologic function, result of, natural phenomenon or process
+chemical viewed structurally, interacts with, antibiotic
+biologically active substance, disrupts, cell
+virus, causes, experimental model of disease
+body space or junction, connected to, tissue
+laboratory procedure, measures, pathologic function
+inorganic chemical, isa, substance
+laboratory procedure, measures, carbohydrate
+pharmacologic substance, treats, pathologic function
+antibiotic, affects, neoplastic process
+food, causes, mental or behavioral dysfunction
+research activity, measures, vitamin
+anatomical structure, part of, organism
+pharmacologic substance, prevents, experimental model of disease
+pathologic function, result of, injury or poisoning
+neoplastic process, process of, organ or tissue function
+pharmacologic substance, disrupts, molecular function
+pharmacologic substance, isa, substance
+organ or tissue function, process of, neoplastic process
+self help or relief organization, carries out, molecular biology research technique
+pathologic function, produces, enzyme
+congenital abnormality, result of, experimental model of disease
+hazardous or poisonous substance, complicates, experimental model of disease
+mental or behavioral dysfunction, co-occurs with, experimental model of disease
+cell or molecular dysfunction, result of, mental or behavioral dysfunction
+chemical viewed functionally, affects, pathologic function
+body location or region, location of, pathologic function
+organophosphorus compound, interacts with, carbohydrate
+mental or behavioral dysfunction, affects, neoplastic process
+hazardous or poisonous substance, causes, experimental model of disease
+sign or symptom, diagnoses, pathologic function
+fully formed anatomical structure, produces, receptor
+tissue, isa, fully formed anatomical structure
+biologically active substance, interacts with, immunologic factor
+manufactured object, isa, entity
+pathologic function, affects, fungus
+vitamin, disrupts, embryonic structure
+pharmacologic substance, complicates, molecular function
+fully formed anatomical structure, isa, entity
+cell function, process of, experimental model of disease
+pharmacologic substance, complicates, biologic function
+experimental model of disease, produces, enzyme
+element ion or isotope, affects, experimental model of disease
+experimental model of disease, co-occurs with, anatomical abnormality
+experimental model of disease, affects, neoplastic process
+fungus, causes, mental or behavioral dysfunction
+research activity, measures, cell or molecular dysfunction
+pharmacologic substance, diagnoses, mental or behavioral dysfunction
+pathologic function, degree of, neoplastic process
+embryonic structure, location of, pathologic function
+tissue, part of, reptile
+neoplastic process, result of, phenomenon or process
+body part organ or organ component, connected to, tissue
+steroid, isa, entity
+embryonic structure, location of, rickettsia or chlamydia
+biomedical or dental material, affects, biologic function
+neoplastic process, affects, amphibian
+mental or behavioral dysfunction, produces, hormone
+research activity, measures, chemical viewed structurally
+pathologic function, process of, molecular function
+hormone, complicates, biologic function
+disease or syndrome, associated with, neoplastic process
+congenital abnormality, location of, experimental model of disease
+element ion or isotope, affects, mental process
+pathologic function, process of, biologic function
+neoplastic process, process of, bacterium
+chemical viewed structurally, affects, cell or molecular dysfunction
+neoplastic process, result of, disease or syndrome
+mental or behavioral dysfunction, process of, mammal
+mental or behavioral dysfunction, process of, molecular function
+vitamin, causes, experimental model of disease
+mental or behavioral dysfunction, process of, biologic function
+self help or relief organization, produces, intellectual product
+bacterium, interacts with, fish
+pathologic function, affects, natural phenomenon or process
+embryonic structure, surrounds, cell
+pathologic function, occurs in, disease or syndrome
+cell function, result of, pathologic function
+element ion or isotope, causes, cell or molecular dysfunction
+laboratory procedure, analyzes, inorganic chemical
+molecular biology research technique, measures, biologically active substance
+mental or behavioral dysfunction, affects, natural phenomenon or process
+rickettsia or chlamydia, interacts with, fish
+biologically active substance, affects, mental or behavioral dysfunction
+experimental model of disease, process of, mammal
+experimental model of disease, process of, molecular function
+research activity, measures, organism function
+laboratory or test result, manifestation of, neoplastic process
+experimental model of disease, process of, biologic function
+receptor, complicates, mental or behavioral dysfunction
+environmental effect of humans, result of, neoplastic process
+disease or syndrome, complicates, mental or behavioral dysfunction
+element ion or isotope, interacts with, biomedical or dental material
+organism function, affects, neoplastic process
+neoplastic process, process of, virus
+food, causes, disease or syndrome
+gene or genome, location of, mental or behavioral dysfunction
+embryonic structure, location of, genetic function
+cell function, affects, mental or behavioral dysfunction
+inorganic chemical, interacts with, vitamin
+acquired abnormality, location of, experimental model of disease
+receptor, causes, mental or behavioral dysfunction
+experimental model of disease, affects, natural phenomenon or process
+professional society, location of, research activity
+neoplastic process, complicates, disease or syndrome
+fish, interacts with, mammal
+carbohydrate, affects, organism function
+inorganic chemical, affects, pathologic function
+chemical, affects, experimental model of disease
+pharmacologic substance, complicates, organ or tissue function
+molecular function, process of, mental or behavioral dysfunction
+indicator reagent or diagnostic aid, affects, biologic function
+diagnostic procedure, measures, carbohydrate
+mental or behavioral dysfunction, complicates, congenital abnormality
+pharmacologic substance, affects, pathologic function
+organism attribute, result of, biologic function
+pathologic function, affects, cell function
+laboratory procedure, assesses effect of, neoplastic process
+research activity, associated with, pathologic function
+pharmacologic substance, issue in, biomedical occupation or discipline
+laboratory procedure, measures, chemical
+immunologic factor, complicates, biologic function
+congenital abnormality, manifestation of, experimental model of disease
+neuroreactive substance or biogenic amine, interacts with, chemical
+organ or tissue function, result of, biologic function
+mental or behavioral dysfunction, result of, laboratory procedure
+nucleic acid nucleoside or nucleotide, causes, experimental model of disease
+neuroreactive substance or biogenic amine, complicates, mental or behavioral dysfunction
+finding, associated with, mental or behavioral dysfunction
+cell, location of, mental or behavioral dysfunction
+pathologic function, process of, organ or tissue function
+sign or symptom, manifestation of, biologic function
+body space or junction, location of, neoplastic process
+molecular function, result of, pathologic function
+hormone, affects, pathologic function
+research activity, measures, physiologic function
+cell function, affects, fish
+pharmacologic substance, diagnoses, disease or syndrome
+rickettsia or chlamydia, isa, physical object
+invertebrate, causes, neoplastic process
+chemical viewed structurally, interacts with, lipid
+organism function, process of, biologic function
+mental or behavioral dysfunction, process of, organ or tissue function
+biologically active substance, disrupts, molecular function
+biologically active substance, isa, substance
+cell, produces, steroid
+laboratory procedure, associated with, mental or behavioral dysfunction
+organophosphorus compound, interacts with, chemical
+biologic function, affects, mental or behavioral dysfunction
+health care activity, associated with, experimental model of disease
+vitamin, affects, neoplastic process
+pharmacologic substance, interacts with, biomedical or dental material
+archaeon, isa, physical object
+food, causes, injury or poisoning
+pathologic function, occurs in, neoplastic process
+tissue, location of, therapeutic or preventive procedure
+anatomical abnormality, location of, neoplastic process
+carbohydrate, affects, physiologic function
+biologically active substance, complicates, experimental model of disease
+biologic function, produces, biologically active substance
+experimental model of disease, process of, organ or tissue function
+experimental model of disease, occurs in, injury or poisoning
+mental or behavioral dysfunction, complicates, acquired abnormality
+neoplastic process, complicates, injury or poisoning
+injury or poisoning, result of, biologic function
+mental or behavioral dysfunction, result of, therapeutic or preventive procedure
+biologically active substance, complicates, anatomical abnormality
+chemical viewed structurally, isa, substance
+carbohydrate, causes, cell or molecular dysfunction
+neoplastic process, associated with, pathologic function
+neoplastic process, manifestation of, cell or molecular dysfunction
+body part organ or organ component, adjacent to, tissue
+biologically active substance, causes, experimental model of disease
+diagnostic procedure, diagnoses, experimental model of disease
+tissue, contains, body substance
+mental or behavioral dysfunction, affects, human
+fully formed anatomical structure, contains, body substance
+food, causes, neoplastic process
+biologically active substance, causes, anatomical abnormality
+neoplastic process, process of, invertebrate
+self help or relief organization, isa, conceptual entity
+experimental model of disease, affects, plant
+biologically active substance, affects, disease or syndrome
+neoplastic process, isa, biologic function
+biologically active substance, complicates, mental process
+embryonic structure, part of, bird
+inorganic chemical, interacts with, receptor
+steroid, causes, mental or behavioral dysfunction
+therapeutic or preventive procedure, associated with, pathologic function
+biologic function, result of, experimental model of disease
+amino acid peptide or protein, interacts with, carbohydrate
+carbohydrate, interacts with, biomedical or dental material
+experimental model of disease, occurs in, neoplastic process
+disease or syndrome, co-occurs with, mental or behavioral dysfunction
+body part organ or organ component, location of, neoplastic process
+biologic function, affects, fish
+experimental model of disease, produces, immunologic factor
+biologic function, result of, anatomical abnormality
+organic chemical, interacts with, element ion or isotope
+pathologic function, manifestation of, genetic function
+biologic function, produces, enzyme
+diagnostic procedure, measures, mental or behavioral dysfunction
+pathologic function, process of, bacterium
+physiologic function, result of, mental or behavioral dysfunction
+pathologic function, precedes, experimental model of disease
+organism, issue in, biomedical occupation or discipline
+organic chemical, causes, mental or behavioral dysfunction
+cell or molecular dysfunction, result of, neoplastic process
+group, performs, research activity
+chemical viewed structurally, causes, experimental model of disease
+experimental model of disease, affects, human
+mental or behavioral dysfunction, manifestation of, genetic function
+element ion or isotope, issue in, occupation or discipline
+immunologic factor, interacts with, chemical
+anatomical structure, issue in, occupation or discipline
+mental or behavioral dysfunction, precedes, experimental model of disease
+enzyme, disrupts, embryonic structure
+chemical viewed structurally, causes, anatomical abnormality
+diagnostic procedure, assesses effect of, steroid
+biologic function, result of, mental process
+neoplastic process, affects, vertebrate
+neoplastic process, result of, natural phenomenon or process
+genetic function, process of, pathologic function
+medical device, isa, physical object
+mental process, result of, experimental model of disease
+organic chemical, isa, chemical
+lipid, affects, experimental model of disease
+neoplastic process, manifestation of, organism function
+experimental model of disease, manifestation of, genetic function
+research activity, measures, chemical viewed functionally
+experimental model of disease, process of, bacterium
+pharmacologic substance, diagnoses, neoplastic process
+biologically active substance, disrupts, organ or tissue function
+diagnostic procedure, uses, manufactured object
+therapeutic or preventive procedure, complicates, biologic function
+pathologic function, process of, virus
+biomedical or dental material, affects, pathologic function
+clinical drug, causes, mental or behavioral dysfunction
+anatomical structure, part of, bird
+pathologic function, affects, reptile
+nucleic acid nucleoside or nucleotide, interacts with, inorganic chemical
+anatomical abnormality, manifestation of, experimental model of disease
+tissue, location of, organ or tissue function
+experimental model of disease, co-occurs with, congenital abnormality
+fully formed anatomical structure, location of, organ or tissue function
+pathologic function, occurs in, group
+cell or molecular dysfunction, complicates, neoplastic process
+cell component, location of, mental or behavioral dysfunction
+mental or behavioral dysfunction, affects, reptile
+experimental model of disease, manifestation of, mental or behavioral dysfunction
+drug delivery device, treats, mental or behavioral dysfunction
+mental or behavioral dysfunction, result of, organ or tissue function
+fully formed anatomical structure, part of, plant
+mental process, process of, fish
+pharmacologic substance, ingredient of, clinical drug
+mental or behavioral dysfunction, process of, pathologic function
+biologic function, affects, disease or syndrome
+diagnostic procedure, measures, chemical
+fully formed anatomical structure, issue in, biomedical occupation or discipline
+biologic function, process of, organism
+eicosanoid, interacts with, element ion or isotope
+pathologic function, result of, cell or molecular dysfunction
+patient or disabled group, produces, manufactured object
+steroid, isa, chemical viewed structurally
+laboratory procedure, measures, biologically active substance
+fungus, interacts with, organism
+experimental model of disease, process of, virus
+antibiotic, affects, experimental model of disease
+therapeutic or preventive procedure, treats, mental or behavioral dysfunction
+experimental model of disease, affects, reptile
+virus, location of, biologically active substance
+genetic function, affects, organism
+fully formed anatomical structure, part of, human
+biologically active substance, affects, neoplastic process
+self help or relief organization, location of, research activity
+organ or tissue function, process of, experimental model of disease
+experimental model of disease, process of, pathologic function
+disease or syndrome, complicates, neoplastic process
+medical device, treats, mental or behavioral dysfunction
+chemical, issue in, occupation or discipline
+body substance, consists of, carbohydrate
+mental or behavioral dysfunction, affects, experimental model of disease
+tissue, part of, amphibian
+fully formed anatomical structure, produces, hormone
+cell function, affects, neoplastic process
+experimental model of disease, result of, cell or molecular dysfunction
+cell or molecular dysfunction, associated with, experimental model of disease
+molecular biology research technique, measures, chemical viewed structurally
+tissue, location of, body space or junction
+cell or molecular dysfunction, affects, organism
+fungus, isa, organism
+pathologic function, affects, mental process
+diagnostic procedure, analyzes, chemical viewed structurally
+pathologic function, co-occurs with, anatomical abnormality
+pathologic function, result of, behavior
+pharmacologic substance, isa, physical object
+antibiotic, diagnoses, pathologic function
+pathologic function, complicates, cell or molecular dysfunction
+pathologic function, affects, physiologic function
+antibiotic, disrupts, tissue
+mental or behavioral dysfunction, affects, mental process
+steroid, interacts with, biologically active substance
+organism attribute, result of, pathologic function
+diagnostic procedure, assesses effect of, pharmacologic substance
+food, affects, cell or molecular dysfunction
+experimental model of disease, degree of, cell or molecular dysfunction
+pathologic function, degree of, experimental model of disease
+steroid, ingredient of, clinical drug
+embryonic structure, part of, amphibian
+experimental model of disease, process of, alga
+organ or tissue function, result of, pathologic function
+congenital abnormality, result of, biologic function
+laboratory or test result, indicates, mental or behavioral dysfunction
+hazardous or poisonous substance, complicates, biologic function
+hormone, isa, physical object
+pathologic function, process of, invertebrate
+sign or symptom, manifestation of, pathologic function
+neuroreactive substance or biogenic amine, complicates, neoplastic process
+finding, associated with, neoplastic process
+amino acid peptide or protein, interacts with, chemical
+cell, location of, neoplastic process
+pathologic function, process of, fish
+disease or syndrome, associated with, experimental model of disease
+injury or poisoning, disrupts, tissue
+experimental model of disease, affects, mental process
+mental or behavioral dysfunction, process of, invertebrate
+organism function, process of, pathologic function
+inorganic chemical, interacts with, chemical viewed functionally
+experimental model of disease, result of, behavior
+lipid, causes, experimental model of disease
+embryonic structure, location of, fungus
+mental or behavioral dysfunction, isa, biologic function
+daily or recreational activity, associated with, neoplastic process
+experimental model of disease, result of, organism function
+enzyme, affects, neoplastic process
+organophosphorus compound, isa, physical object
+biologically active substance, affects, natural phenomenon or process
+fully formed anatomical structure, location of, virus
+laboratory procedure, associated with, neoplastic process
+educational activity, associated with, pathologic function
+amino acid peptide or protein, causes, mental or behavioral dysfunction
+biologic function, affects, neoplastic process
+element ion or isotope, affects, molecular function
+cell function, process of, biologic function
+biologic function, issue in, biomedical occupation or discipline
+biologic function, process of, cell or molecular dysfunction
+population group, associated with, mental or behavioral dysfunction
+element ion or isotope, affects, biologic function
+tissue, developmental form of, body part organ or organ component
+gene or genome, part of, tissue
+experimental model of disease, process of, invertebrate
+clinical attribute, result of, pathologic function
+experimental model of disease, isa, biologic function
+laboratory or test result, manifestation of, experimental model of disease
+experimental model of disease, result of, individual behavior
+substance, causes, mental or behavioral dysfunction
+environmental effect of humans, result of, experimental model of disease
+anatomical structure, part of, amphibian
+organism function, affects, experimental model of disease
+inorganic chemical, causes, disease or syndrome
+neoplastic process, produces, tissue
+inorganic chemical, interacts with, hazardous or poisonous substance
+neoplastic process, isa, pathologic function
+organism, isa, physical object
+biologically active substance, complicates, congenital abnormality
+biologic function, result of, environmental effect of humans
+experimental model of disease, occurs in, population group
+neoplastic process, affects, mental or behavioral dysfunction
+plant, location of, biologically active substance
+receptor, affects, pathologic function
+biologically active substance, causes, congenital abnormality
+physiologic function, result of, neoplastic process
+organic chemical, causes, neoplastic process
+neoplastic process, occurs in, mental or behavioral dysfunction
+nucleic acid nucleoside or nucleotide, isa, chemical
+sign or symptom, associated with, mental or behavioral dysfunction
+immunologic factor, isa, physical object
+laboratory procedure, assesses effect of, experimental model of disease
+neoplastic process, produces, biologically active substance
+steroid, interacts with, eicosanoid
+biologic function, result of, congenital abnormality
+mental process, process of, neoplastic process
+tissue, produces, steroid
+research activity, issue in, occupation or discipline
+injury or poisoning, complicates, pathologic function
+self help or relief organization, location of, educational activity
+hazardous or poisonous substance, affects, pathologic function
+mental or behavioral dysfunction, complicates, pathologic function
+biomedical or dental material, isa, chemical
+drug delivery device, causes, pathologic function
+tissue, produces, immunologic factor
+body space or junction, location of, experimental model of disease
+physiologic function, process of, experimental model of disease
+animal, interacts with, fish
+chemical viewed structurally, causes, congenital abnormality
+invertebrate, causes, experimental model of disease
+therapeutic or preventive procedure, complicates, pathologic function
+chemical, affects, molecular function
+anatomical abnormality, affects, organism
+chemical viewed structurally, interacts with, biologically active substance
+embryonic structure, issue in, biomedical occupation or discipline
+chemical, affects, biologic function
+food, isa, substance
+cell, isa, anatomical structure
+biologically active substance, associated with, virus
+element ion or isotope, affects, organ or tissue function
+clinical drug, causes, neoplastic process
+chemical viewed structurally, ingredient of, clinical drug
+biologically active substance, complicates, acquired abnormality
+pharmacologic substance, complicates, injury or poisoning
+archaeon, isa, organism
+vitamin, affects, experimental model of disease
+embryonic structure, location of, cell function
+inorganic chemical, causes, injury or poisoning
+anatomical abnormality, location of, experimental model of disease
+mental or behavioral dysfunction, occurs in, patient or disabled group
+cell component, location of, neoplastic process
+biologically active substance, causes, acquired abnormality
+pharmacologic substance, disrupts, tissue
+pharmacologic substance, causes, injury or poisoning
+congenital abnormality, manifestation of, biologic function
+medical device, causes, pathologic function
+biologically active substance, isa, chemical
+neoplastic process, result of, mental process
+body space or junction, contains, tissue
+natural phenomenon or process, result of, pathologic function
+pathologic function, occurs in, family group
+laboratory or test result, measurement of, pharmacologic substance
+molecular biology research technique, associated with, neoplastic process
+inorganic chemical, interacts with, hormone
+biologically active substance, interacts with, indicator reagent or diagnostic aid
+food, causes, experimental model of disease
+mental or behavioral dysfunction, issue in, occupation or discipline
+inorganic chemical, causes, neoplastic process
+carbohydrate, interacts with, enzyme
+amino acid peptide or protein, interacts with, biologically active substance
+plant, interacts with, fish
+steroid, interacts with, vitamin
+food, causes, anatomical abnormality
+body part organ or organ component, location of, experimental model of disease
+body space or junction, conceptual part of, fully formed anatomical structure
+chemical viewed structurally, causes, acquired abnormality
+cell or molecular dysfunction, process of, mental or behavioral dysfunction
+neoplastic process, complicates, experimental model of disease
+chemical viewed structurally, isa, chemical
+neoplastic process, result of, health care activity
+organophosphorus compound, interacts with, steroid
+disease or syndrome, affects, mental or behavioral dysfunction
+cell or molecular dysfunction, result of, experimental model of disease
+neoplastic process, complicates, anatomical abnormality
+medical device, treats, neoplastic process
+biologically active substance, complicates, molecular function
+steroid, affects, pathologic function
+physical object, issue in, biomedical occupation or discipline
+embryonic structure, part of, vertebrate
+biologically active substance, complicates, biologic function
+diagnostic procedure, assesses effect of, inorganic chemical
+drug delivery device, isa, physical object
+gene or genome, part of, organism
+experimental model of disease, occurs in, family group
+clinical drug, isa, manufactured object
+laboratory procedure, assesses effect of, element ion or isotope
+virus, causes, pathologic function
+vertebrate, interacts with, fish
+neoplastic process, affects, disease or syndrome
+mental or behavioral dysfunction, result of, phenomenon or process
+neoplastic process, process of, organism
+gene or genome, produces, biologically active substance
+family group, produces, manufactured object
+chemical, isa, substance
+biologic function, affects, plant
+tissue, location of, disease or syndrome
+fully formed anatomical structure, location of, disease or syndrome
+biologic function, result of, molecular function
+neoplastic process, occurs in, disease or syndrome
+cell component, part of, tissue
+professional or occupational group, performs, research activity
+biologic function, process of, bird
+pharmacologic substance, diagnoses, experimental model of disease
+chemical, affects, organ or tissue function
+mental or behavioral dysfunction, result of, disease or syndrome
+pathologic function, co-occurs with, congenital abnormality
+congenital abnormality, result of, pathologic function
+laboratory or test result, indicates, neoplastic process
+biologic function, affects, human
+inorganic chemical, interacts with, antibiotic
+pharmacologic substance, affects, cell function
+fully formed anatomical structure, produces, carbohydrate
+neuroreactive substance or biogenic amine, affects, mental or behavioral dysfunction
+chemical viewed structurally, interacts with, eicosanoid
+receptor, disrupts, fully formed anatomical structure
+element ion or isotope, interacts with, immunologic factor
+nucleic acid nucleoside or nucleotide, affects, pathologic function
+pathologic function, result of, human caused phenomenon or process
+cell or molecular dysfunction, complicates, experimental model of disease
+fully formed anatomical structure, produces, nucleic acid nucleoside or nucleotide
+mental or behavioral dysfunction, isa, pathologic function
+anatomical structure, part of, vertebrate
+research device, isa, manufactured object
+enzyme, disrupts, fully formed anatomical structure
+pathologic function, manifestation of, cell function
+mental process, result of, biologic function
+cell function, process of, pathologic function
+hazardous or poisonous substance, disrupts, fully formed anatomical structure
+organophosphorus compound, affects, mental or behavioral dysfunction
+steroid, affects, genetic function
+lipid, affects, biologic function
+anatomical abnormality, part of, fish
+mental or behavioral dysfunction, manifestation of, cell function
+population group, associated with, neoplastic process
+organism, isa, entity
+neuroreactive substance or biogenic amine, causes, pathologic function
+experimental model of disease, isa, pathologic function
+element ion or isotope, isa, entity
+biologically active substance, affects, experimental model of disease
+mental or behavioral dysfunction, produces, biologically active substance
+mental process, isa, biologic function
+physical object, isa, entity
+vitamin, complicates, pathologic function
+experimental model of disease, process of, archaeon
+neoplastic process, produces, vitamin
+research activity, measures, temporal concept
+experimental model of disease, produces, neuroreactive substance or biogenic amine
+anatomical abnormality, manifestation of, biologic function
+substance, causes, neoplastic process
+congenital abnormality, location of, pathologic function
+pathologic function, result of, acquired abnormality
+disease or syndrome, complicates, experimental model of disease
+virus, isa, physical object
+pathologic function, co-occurs with, acquired abnormality
+biologically active substance, complicates, organ or tissue function
+bacterium, location of, biologically active substance
+tissue, location of, injury or poisoning
+anatomical abnormality, isa, anatomical structure
+immunologic factor, causes, neoplastic process
+experimental model of disease, manifestation of, cell function
+fully formed anatomical structure, location of, injury or poisoning
+embryonic structure, location of, organism function
+vitamin, causes, pathologic function
+cell function, affects, experimental model of disease
+molecular function, affects, pathologic function
+organophosphorus compound, causes, pathologic function
+neoplastic process, co-occurs with, injury or poisoning
+alga, location of, biologically active substance
+biologically active substance, affects, mental process
+rickettsia or chlamydia, location of, biologically active substance
+organophosphorus compound, interacts with, pharmacologic substance
+mental or behavioral dysfunction, result of, injury or poisoning
+pharmacologic substance, issue in, occupation or discipline
+neoplastic process, occurs in, age group
+antibiotic, disrupts, embryonic structure
+research activity, measures, carbohydrate
+receptor, isa, physical object
+diagnostic procedure, measures, steroid
+fish, interacts with, archaeon
+mental or behavioral dysfunction, produces, enzyme
+antibiotic, affects, biologic function
+biologic function, affects, reptile
+chemical viewed structurally, interacts with, vitamin
+neoplastic process, process of, cell or molecular dysfunction
+research activity, measures, nucleic acid nucleoside or nucleotide
+biologic function, result of, organ or tissue function
+biomedical or dental material, causes, neoplastic process
+pathologic function, produces, body substance
+tissue, location of, neoplastic process
+fully formed anatomical structure, location of, neoplastic process
+professional society, carries out, research activity
+pharmacologic substance, interacts with, immunologic factor
+inorganic chemical, affects, cell or molecular dysfunction
+disease or syndrome, precedes, neoplastic process
+individual behavior, associated with, neoplastic process
+sign or symptom, associated with, neoplastic process
+organ or tissue function, process of, biologic function
+biologically active substance, disrupts, tissue
+hazardous or poisonous substance, isa, physical object
+chemical viewed structurally, affects, pathologic function
+pharmacologic substance, affects, cell or molecular dysfunction
+injury or poisoning, disrupts, embryonic structure
+mental or behavioral dysfunction, result of, neoplastic process
+mental or behavioral dysfunction, affects, molecular function
+neuroreactive substance or biogenic amine, complicates, experimental model of disease
+research activity, associated with, cell or molecular dysfunction
+finding, associated with, experimental model of disease
+mental or behavioral dysfunction, affects, biologic function
+lipid, isa, chemical
+cell, location of, experimental model of disease
+acquired abnormality, location of, pathologic function
+embryonic structure, isa, physical object
+congenital abnormality, affects, organism
+drug delivery device, prevents, neoplastic process
+research activity, measures, biomedical or dental material
+age group, produces, manufactured object
+therapeutic or preventive procedure, uses, food
+carbohydrate, interacts with, steroid
+daily or recreational activity, associated with, experimental model of disease
+chemical, affects, pathologic function
+neoplastic process, result of, environmental effect of humans
+laboratory procedure, associated with, experimental model of disease
+experimental model of disease, produces, body substance
+mental or behavioral dysfunction, complicates, injury or poisoning
+biologic function, affects, experimental model of disease
+embryonic structure, location of, physiologic function
+experimental model of disease, affects, molecular function
+carbohydrate, interacts with, immunologic factor
+anatomical abnormality, result of, pathologic function
+laboratory or test result, measurement of, inorganic chemical
+experimental model of disease, affects, biologic function
+anatomical structure, part of, rickettsia or chlamydia
+physiologic function, affects, mental or behavioral dysfunction
+organism function, produces, biologically active substance
+pathologic function, process of, plant
+regulation or law, affects, self help or relief organization
+tissue, conceptual part of, body system
+pharmacologic substance, disrupts, body part organ or organ component
+inorganic chemical, affects, organism function
+immunologic factor, disrupts, fully formed anatomical structure
+mental or behavioral dysfunction, process of, organism
+biologic function, affects, mental process
+antibiotic, treats, pathologic function
+physiologic function, produces, biologically active substance
+pharmacologic substance, affects, organism function
+neoplastic process, affects, natural phenomenon or process
+mental or behavioral dysfunction, occurs in, disease or syndrome
+chemical viewed structurally, affects, genetic function
+research activity, measures, mental or behavioral dysfunction
+acquired abnormality, affects, organism
+pathologic function, manifestation of, organism function
+experimental model of disease, process of, organism
+amphibian, interacts with, organism
+tissue, part of, fish
+physiologic function, result of, experimental model of disease
+cell component, produces, carbohydrate
+organic chemical, causes, experimental model of disease
+biologically active substance, complicates, pathologic function
+physiologic function, affects, fish
+mental or behavioral dysfunction, manifestation of, organism function
+food, causes, congenital abnormality
+pathologic function, affects, organ or tissue function
+neoplastic process, occurs in, group
+laboratory or test result, manifestation of, biologic function
+neoplastic process, degree of, pathologic function
+diagnostic procedure, measures, pharmacologic substance
+mental process, process of, experimental model of disease
+carbohydrate, affects, mental or behavioral dysfunction
+environmental effect of humans, result of, biologic function
+fish, exhibits, behavior
+organism function, affects, biologic function
+mental or behavioral dysfunction, affects, organ or tissue function
+diagnostic procedure, diagnoses, pathologic function
+neoplastic process, complicates, congenital abnormality
+food, ingredient of, clinical drug
+fully formed anatomical structure, part of, mammal
+anatomical structure, location of, fungus
+fully formed anatomical structure, isa, anatomical structure
+fish, interacts with, organism
+element ion or isotope, causes, mental or behavioral dysfunction
+pharmacologic substance, disrupts, gene or genome
+human, isa, physical object
+invertebrate, isa, physical object
+amphibian, isa, organism
+pharmacologic substance, complicates, cell or molecular dysfunction
+pharmacologic substance, affects, physiologic function
+fully formed anatomical structure, issue in, occupation or discipline
+steroid, interacts with, chemical viewed functionally
+disease or syndrome, degree of, neoplastic process
+experimental model of disease, affects, organ or tissue function
+clinical drug, causes, experimental model of disease
+pharmacologic substance, disrupts, embryonic structure
+mental or behavioral dysfunction, precedes, pathologic function
+research activity, measures, chemical
+amino acid peptide or protein, affects, mental or behavioral dysfunction
+laboratory procedure, assesses effect of, biologic function
+pharmacologic substance, disrupts, organism function
+carbohydrate, interacts with, pharmacologic substance
+cell component, location of, experimental model of disease
+pathologic function, manifestation of, physiologic function
+chemical viewed functionally, interacts with, chemical
+animal, interacts with, organism
+organism function, process of, organism
+mental or behavioral dysfunction, co-occurs with, injury or poisoning
+biologically active substance, issue in, occupation or discipline
+mental process, result of, pathologic function
+professional or occupational group, diagnoses, neoplastic process
+food, causes, acquired abnormality
+mental or behavioral dysfunction, occurs in, age group
+lipid, affects, pathologic function
+mental or behavioral dysfunction, manifestation of, physiologic function
+body space or junction, location of, biologic function
+neoplastic process, affects, plant
+physiologic function, process of, biologic function
+organophosphorus compound, affects, neoplastic process
+molecular biology research technique, associated with, experimental model of disease
+mental or behavioral dysfunction, process of, cell or molecular dysfunction
+neoplastic process, result of, molecular function
+chemical viewed functionally, causes, mental or behavioral dysfunction
+experimental model of disease, precedes, pathologic function
+inorganic chemical, causes, experimental model of disease
+neoplastic process, complicates, acquired abnormality
+enzyme, complicates, pathologic function
+neoplastic process, result of, therapeutic or preventive procedure
+mental or behavioral dysfunction, occurs in, neoplastic process
+family group, uses, manufactured object
+experimental model of disease, manifestation of, mental process
+inorganic chemical, causes, anatomical abnormality
+experimental model of disease, co-occurs with, injury or poisoning
+organophosphorus compound, interacts with, inorganic chemical
+mental or behavioral dysfunction, affects, bacterium
+body substance, consists of, steroid
+anatomical abnormality, manifestation of, pathologic function
+neoplastic process, affects, human
+organ or tissue function, affects, pathologic function
+mental process, affects, mental or behavioral dysfunction
+vitamin, affects, biologic function
+enzyme, causes, pathologic function
+group, uses, manufactured object
+experimental model of disease, manifestation of, physiologic function
+reptile, isa, physical object
+medical device, treats, experimental model of disease
+chemical viewed functionally, isa, chemical
+experimental model of disease, process of, cell or molecular dysfunction
+therapeutic or preventive procedure, uses, manufactured object
+research activity, measures, disease or syndrome
+disease or syndrome, result of, mental or behavioral dysfunction
+self help or relief organization, carries out, research activity
+laboratory procedure, affects, mental or behavioral dysfunction
+diagnostic procedure, associated with, mental or behavioral dysfunction
+element ion or isotope, isa, chemical viewed structurally
+experimental model of disease, affects, bacterium
+pharmacologic substance, disrupts, physiologic function
+neoplastic process, manifestation of, genetic function
+antibiotic, affects, pathologic function
+pathologic function, affects, virus
+tissue, produces, neuroreactive substance or biogenic amine
+element ion or isotope, issue in, biomedical occupation or discipline
+anatomical structure, part of, animal
+steroid, isa, lipid
+organ or tissue function, process of, pathologic function
+mental or behavioral dysfunction, affects, virus
+body part organ or organ component, location of, biologic function
+carbohydrate, affects, disease or syndrome
+biologically active substance, disrupts, body part organ or organ component
+tissue, surrounds, cell component
+health care activity, affects, pathologic function
+laboratory or test result, indicates, experimental model of disease
+mental process, affects, fish
+cell or molecular dysfunction, result of, biologic function
+biologic function, issue in, occupation or discipline
+neoplastic process, manifestation of, mental or behavioral dysfunction
+biologic function, process of, vertebrate
+cell or molecular dysfunction, associated with, pathologic function
+element ion or isotope, causes, disease or syndrome
+disease or syndrome, manifestation of, pathologic function
+experimental model of disease, affects, virus
+cell or molecular dysfunction, isa, biologic function
+body substance, causes, pathologic function
+neoplastic process, affects, reptile
+chemical viewed structurally, interacts with, chemical viewed functionally
+neoplastic process, result of, organ or tissue function
+amino acid peptide or protein, isa, physical object
+population group, associated with, experimental model of disease
+inorganic chemical, interacts with, chemical
+fully formed anatomical structure, produces, enzyme
+steroid, affects, natural phenomenon or process
+physiologic function, affects, neoplastic process
+mental or behavioral dysfunction, occurs in, group
+diagnostic procedure, analyzes, carbohydrate
+mental or behavioral dysfunction, degree of, pathologic function
+tissue, surrounds, cell
+substance, causes, experimental model of disease
+tissue, produces, body substance
+fully formed anatomical structure, part of, bacterium
+immunologic factor, causes, experimental model of disease
+cell component, isa, anatomical structure
+biologically active substance, disrupts, gene or genome
+research activity, measures, neoplastic process
+hormone, interacts with, chemical
+diagnostic procedure, measures, inorganic chemical
+food, affects, pathologic function
+bacterium, isa, physical object
+experimental model of disease, degree of, pathologic function
+neoplastic process, affects, experimental model of disease
+acquired abnormality, result of, pathologic function
+pathologic function, result of, genetic function
+biologically active substance, disrupts, embryonic structure
+biomedical or dental material, causes, experimental model of disease
+biologically active substance, affects, molecular function
+finding, evaluation of, neoplastic process
+tissue, location of, experimental model of disease
+fully formed anatomical structure, location of, experimental model of disease
+disease or syndrome, precedes, experimental model of disease
+finding, manifestation of, neoplastic process
+biologically active substance, affects, biologic function
+individual behavior, associated with, experimental model of disease
+pathologic function, affects, fish
+sign or symptom, associated with, experimental model of disease
+tissue, location of, anatomical abnormality
+environmental effect of humans, result of, pathologic function
+fully formed anatomical structure, location of, anatomical abnormality
+neoplastic process, co-occurs with, experimental model of disease
+fully formed anatomical structure, part of, virus
+mental or behavioral dysfunction, result of, experimental model of disease
+carbohydrate, affects, neoplastic process
+steroid, affects, cell function
+body part organ or organ component, part of, organism
+tissue, produces, amino acid peptide or protein
+neoplastic process, affects, mental process
+carbohydrate, issue in, biomedical occupation or discipline
+mental or behavioral dysfunction, affects, fish
+chemical, causes, disease or syndrome
+neoplastic process, co-occurs with, anatomical abnormality
+mental or behavioral dysfunction, result of, anatomical abnormality
+element ion or isotope, interacts with, neuroreactive substance or biogenic amine
+fully formed anatomical structure, produces, eicosanoid
+natural phenomenon or process, affects, pathologic function
+mental or behavioral dysfunction, result of, behavior
+cell function, affects, biologic function
+research activity, measures, enzyme
+mental or behavioral dysfunction, complicates, cell or molecular dysfunction
+element ion or isotope, causes, neoplastic process
+carbohydrate, interacts with, inorganic chemical
+drug delivery device, prevents, experimental model of disease
+experimental model of disease, result of, genetic function
+mental or behavioral dysfunction, process of, bird
+laboratory procedure, analyzes, chemical viewed structurally
+biologic function, process of, rickettsia or chlamydia
+diagnostic procedure, affects, mental or behavioral dysfunction
+organic chemical, interacts with, biologically active substance
+antibiotic, prevents, mental or behavioral dysfunction
+biologically active substance, causes, injury or poisoning
+experimental model of disease, affects, invertebrate
+antibiotic, disrupts, fully formed anatomical structure
+molecular biology research technique, measures, mental or behavioral dysfunction
+experimental model of disease, affects, fish
+mental or behavioral dysfunction, associated with, neoplastic process
+biologic function, result of, injury or poisoning
+laboratory procedure, assesses effect of, pathologic function
+human caused phenomenon or process, result of, mental or behavioral dysfunction
+food, affects, genetic function
+experimental model of disease, process of, bird
+experimental model of disease, result of, mental or behavioral dysfunction
+natural phenomenon or process, process of, pathologic function
+acquired abnormality, manifestation of, neoplastic process
+research activity, measures, natural phenomenon or process
+neuroreactive substance or biogenic amine, complicates, biologic function
+injury or poisoning, disrupts, fully formed anatomical structure
+chemical viewed structurally, causes, injury or poisoning
+anatomical structure, part of, fungus
+cell, location of, biologic function
+cell function, process of, organism
+geographic area, associated with, pathologic function
+biologic function, process of, alga
+invertebrate, causes, pathologic function
+steroid, isa, chemical
+physical object, issue in, occupation or discipline
+embryonic structure, contains, body substance
+chemical viewed functionally, causes, neoplastic process
+pathologic function, complicates, mental or behavioral dysfunction
+cell or molecular dysfunction, precedes, mental or behavioral dysfunction
+pathologic function, affects, disease or syndrome
+biologic function, affects, molecular function
+fish, isa, physical object
+chemical viewed structurally, affects, natural phenomenon or process
+vitamin, affects, pathologic function
+laboratory or test result, associated with, mental or behavioral dysfunction
+chemical, causes, injury or poisoning
+mental process, affects, neoplastic process
+biologic function, process of, genetic function
+biologically active substance, affects, organ or tissue function
+biomedical or dental material, interacts with, chemical
+antibiotic, isa, chemical
+self help or relief organization, produces, regulation or law
+pharmacologic substance, interacts with, neuroreactive substance or biogenic amine
+carbohydrate, isa, entity
+inorganic chemical, causes, congenital abnormality
+eicosanoid, interacts with, biologically active substance
+inorganic chemical, interacts with, biologically active substance
+experimental model of disease, complicates, mental or behavioral dysfunction
+fully formed anatomical structure, part of, invertebrate
+inorganic chemical, ingredient of, clinical drug
+food, causes, pathologic function
+diagnostic procedure, analyzes, chemical
+chemical, causes, neoplastic process
+tissue, part of, plant
+organism function, result of, mental or behavioral dysfunction
+body part organ or organ component, isa, physical object
+vertebrate, isa, organism
+self help or relief organization, produces, classification
+body part organ or organ component, location of, pathologic function
+neoplastic process, complicates, pathologic function
+pharmacologic substance, prevents, cell or molecular dysfunction
+research activity, issue in, biomedical occupation or discipline
+fully formed anatomical structure, produces, steroid
+disease or syndrome, degree of, experimental model of disease
+carbohydrate, interacts with, neuroreactive substance or biogenic amine
+genetic function, affects, mental or behavioral dysfunction
+physiologic function, result of, biologic function
+fully formed anatomical structure, produces, immunologic factor
+tissue, part of, human
+inorganic chemical, interacts with, enzyme
+chemical viewed structurally, affects, cell function
+manufactured object, causes, disease or syndrome
+disease or syndrome, isa, biologic function
+laboratory procedure, analyzes, element ion or isotope
+mental process, process of, biologic function
+pharmacologic substance, complicates, acquired abnormality
+genetic function, produces, biologically active substance
+research device, causes, mental or behavioral dysfunction
+professional or occupational group, diagnoses, experimental model of disease
+inorganic chemical, causes, acquired abnormality
+physiologic function, process of, fish
+steroid, affects, organism function
+organophosphorus compound, affects, experimental model of disease
+pharmacologic substance, causes, acquired abnormality
+pathologic function, co-occurs with, injury or poisoning
+embryonic structure, part of, human
+biologic function, affects, organ or tissue function
+pathologic function, affects, neoplastic process
+occupational activity, associated with, pathologic function
+tissue, surrounds, body substance
+pharmacologic substance, interacts with, indicator reagent or diagnostic aid
+neoplastic process, issue in, occupation or discipline
+cell or molecular dysfunction, complicates, pathologic function
+mental or behavioral dysfunction, co-occurs with, anatomical abnormality
+neoplastic process, process of, vertebrate
+mental or behavioral dysfunction, issue in, biomedical occupation or discipline
+pathologic function, complicates, disease or syndrome
+cell component, location of, biologic function
+research activity, measures, steroid
+research activity, measures, immunologic factor
+cell or molecular dysfunction, degree of, mental or behavioral dysfunction
+biologic function, process of, animal
+self help or relief organization, carries out, occupational activity
+professional or occupational group, uses, manufactured object
+governmental or regulatory activity, associated with, mental or behavioral dysfunction
+manufactured object, causes, injury or poisoning
+carbohydrate, interacts with, indicator reagent or diagnostic aid
+steroid, affects, physiologic function
+organic chemical, affects, pathologic function
+experimental model of disease, complicates, disease or syndrome
+pathologic function, process of, mammal
+mental or behavioral dysfunction, result of, environmental effect of humans
+phenomenon or process, result of, mental or behavioral dysfunction
+cell function, affects, pathologic function
+lipid, causes, neoplastic process
+bacterium, causes, pathologic function
+biologic function, affects, bacterium
+tissue, location of, congenital abnormality
+fully formed anatomical structure, location of, congenital abnormality
+manufactured object, causes, neoplastic process
+biomedical or dental material, interacts with, biologically active substance
+embryonic structure, part of, reptile
+laboratory procedure, measures, mental or behavioral dysfunction
+diagnostic procedure, affects, neoplastic process
+antibiotic, prevents, neoplastic process
+neoplastic process, co-occurs with, congenital abnormality
+nucleic acid nucleoside or nucleotide, interacts with, pharmacologic substance
+rickettsia or chlamydia, causes, pathologic function
+mental or behavioral dysfunction, result of, congenital abnormality
+steroid, interacts with, biomedical or dental material
+pharmacologic substance, treats, mental or behavioral dysfunction
+molecular biology research technique, measures, neoplastic process
+chemical, affects, cell or molecular dysfunction
+alga, interacts with, fish
+physiologic function, affects, experimental model of disease
+virus, interacts with, organism
+receptor, interacts with, chemical
+human caused phenomenon or process, result of, neoplastic process
+diagnostic procedure, analyzes, biologically active substance
+professional or occupational group, produces, manufactured object
+mental or behavioral dysfunction, result of, human caused phenomenon or process
+laboratory or test result, indicates, biologic function
+chemical viewed functionally, affects, mental or behavioral dysfunction
+body location or region, location of, mental or behavioral dysfunction
+finding, associated with, pathologic function
+neoplastic process, manifestation of, cell function
+antibiotic, complicates, neoplastic process
+fully formed anatomical structure, produces, organophosphorus compound
+biologic function, affects, virus
+experimental model of disease, manifestation of, organ or tissue function
+hazardous or poisonous substance, interacts with, chemical
+sign or symptom, diagnoses, mental or behavioral dysfunction
+neoplastic process, process of, pathologic function
+daily or recreational activity, associated with, pathologic function
+eicosanoid, affects, pathologic function
+enzyme, affects, pathologic function
+chemical viewed structurally, affects, organism function
+antibiotic, causes, neoplastic process
+cell or molecular dysfunction, precedes, neoplastic process
+anatomical structure, isa, entity
+research activity, measures, experimental model of disease
+neoplastic process, process of, rickettsia or chlamydia
+congenital abnormality, isa, physical object
+sign or symptom, evaluation of, neoplastic process
+tissue, location of, acquired abnormality
+tissue, surrounds, body space or junction
+fully formed anatomical structure, location of, acquired abnormality
+cell component, produces, steroid
+laboratory or test result, associated with, neoplastic process
+anatomical structure, part of, reptile
+organ or tissue function, affects, organism
+neoplastic process, co-occurs with, acquired abnormality
+finding, evaluation of, experimental model of disease
+embryonic structure, location of, mental or behavioral dysfunction
+research activity, measures, pharmacologic substance
+mental or behavioral dysfunction, result of, acquired abnormality
+neoplastic process, result of, injury or poisoning
+finding, manifestation of, experimental model of disease
+chemical viewed functionally, interacts with, pharmacologic substance
+chemical, affects, organism function
+research activity, measures, mental process
+biologically active substance, complicates, cell or molecular dysfunction
+carbohydrate, affects, experimental model of disease
+pathologic function, occurs in, injury or poisoning
+experimental model of disease, complicates, neoplastic process
+physiologic function, process of, neoplastic process
+neoplastic process, degree of, cell or molecular dysfunction
+alga, isa, physical object
+neoplastic process, process of, alga
+biologically active substance, causes, cell or molecular dysfunction
+nucleic acid nucleoside or nucleotide, interacts with, element ion or isotope
+element ion or isotope, causes, experimental model of disease
+patient or disabled group, performs, research activity
+biologic function, process of, archaeon
+neoplastic process, affects, molecular function
+carbohydrate, isa, chemical viewed structurally
+cell or molecular dysfunction, occurs in, mental or behavioral dysfunction
+chemical viewed structurally, interacts with, carbohydrate
+organ or tissue function, process of, organism
+pathologic function, affects, plant
+cell function, result of, mental or behavioral dysfunction
+neoplastic process, affects, biologic function
+molecular function, process of, fish
+organism attribute, property of, fish
+element ion or isotope, causes, anatomical abnormality
+carbohydrate, affects, mental process
+research activity, measures, organophosphorus compound
+cell or molecular dysfunction, produces, biologically active substance
+experimental model of disease, result of, natural phenomenon or process
+tissue, location of, molecular function
+chemical viewed structurally, interacts with, nucleic acid nucleoside or nucleotide
+pathologic function, result of, diagnostic procedure
+fully formed anatomical structure, location of, molecular function
+mental or behavioral dysfunction, associated with, experimental model of disease
+chemical viewed structurally, affects, physiologic function
+tissue, location of, biologic function
+indicator reagent or diagnostic aid, causes, mental or behavioral dysfunction
+neoplastic process, process of, genetic function
+pathologic function, produces, immunologic factor
+mental or behavioral dysfunction, affects, plant
+fully formed anatomical structure, location of, biologic function
+mental or behavioral dysfunction, process of, vertebrate
+disease or syndrome, produces, tissue
+pathologic function, precedes, cell or molecular dysfunction
+disease or syndrome, isa, pathologic function
+laboratory procedure, assesses effect of, biologically active substance
+mental or behavioral dysfunction, result of, molecular function
+biologic function, process of, fungus
+mental process, process of, pathologic function
+inorganic chemical, affects, genetic function
+chemical viewed structurally, causes, cell or molecular dysfunction
+pathologic function, affects, human
+mental or behavioral dysfunction, result of, biologic function
+steroid, interacts with, chemical
+acquired abnormality, manifestation of, experimental model of disease
+mental or behavioral dysfunction, precedes, cell or molecular dysfunction
+pharmacologic substance, treats, disease or syndrome
+pathologic function, result of, cell function
+pharmacologic substance, affects, genetic function
+indicator reagent or diagnostic aid, isa, chemical
+experimental model of disease, affects, organism
+eicosanoid, isa, chemical viewed structurally
+experimental model of disease, process of, vertebrate
+disease or syndrome, occurs in, mental or behavioral dysfunction
+chemical viewed functionally, causes, experimental model of disease
+biologic function, affects, invertebrate
+experimental model of disease, result of, diagnostic procedure
+disease or syndrome, produces, biologically active substance
+inorganic chemical, affects, mental or behavioral dysfunction
+experimental model of disease, precedes, cell or molecular dysfunction
+pharmacologic substance, affects, mental or behavioral dysfunction
+mental process, affects, experimental model of disease
+clinical attribute, property of, fish
+research activity, associated with, mental or behavioral dysfunction
+experimental model of disease, result of, cell function
+patient or disabled group, uses, manufactured object
+body substance, surrounds, embryonic structure
+biologic function, process of, natural phenomenon or process
+gene or genome, produces, carbohydrate
+pathologic function, manifestation of, mental or behavioral dysfunction
+molecular biology research technique, associated with, pathologic function
+molecular function, result of, mental or behavioral dysfunction
+mental or behavioral dysfunction, co-occurs with, congenital abnormality
+bird, isa, physical object
+hormone, affects, mental or behavioral dysfunction
+cell or molecular dysfunction, degree of, neoplastic process
+pharmacologic substance, complicates, pathologic function
+pathologic function, result of, social behavior
+inorganic chemical, causes, pathologic function
+embryonic structure, location of, disease or syndrome
+chemical, causes, experimental model of disease
+fungus, causes, neoplastic process
+organic chemical, isa, physical object
+food, affects, cell function
+chemical, causes, anatomical abnormality
+plant, isa, organism
+pharmacologic substance, causes, pathologic function
+neoplastic process, affects, organ or tissue function
+hormone, complicates, pathologic function
+organism function, affects, organism
+phenomenon or process, result of, neoplastic process
+pharmacologic substance, disrupts, genetic function
+pathologic function, process of, rickettsia or chlamydia
+hormone, causes, pathologic function
+embryonic structure, part of, cell
+fully formed anatomical structure, part of, organism
+experimental model of disease, occurs in, professional or occupational group
+experimental model of disease, result of, social behavior
+laboratory procedure, measures, neoplastic process
+neoplastic process, process of, animal
+neoplastic process, precedes, pathologic function
+molecular biology research technique, measures, steroid
+biologic function, process of, cell function
+pharmacologic substance, treats, neoplastic process
+neoplastic process, manifestation of, mental process
+mental or behavioral dysfunction, co-occurs with, acquired abnormality
+therapeutic or preventive procedure, associated with, mental or behavioral dysfunction
+diagnostic procedure, analyzes, steroid
+biologically active substance, issue in, biomedical occupation or discipline
+experimental model of disease, affects, cell or molecular dysfunction
+neoplastic process, manifestation of, physiologic function
+pathologic function, affects, experimental model of disease
+laboratory or test result, indicates, pathologic function
+pharmacologic substance, complicates, genetic function
+pathologic function, degree of, cell or molecular dysfunction
+experimental model of disease, process of, rickettsia or chlamydia
+receptor, complicates, neoplastic process
+pathologic function, process of, alga
+chemical viewed functionally, affects, neoplastic process
+body location or region, location of, neoplastic process
+professional or occupational group, manages, self help or relief organization
+neoplastic process, occurs in, patient or disabled group
+experimental model of disease, produces, receptor
+gene or genome, location of, neoplastic process
+chemical viewed structurally, interacts with, chemical
+mental or behavioral dysfunction, degree of, cell or molecular dysfunction
+steroid, causes, disease or syndrome
+research activity, measures, inorganic chemical
+experimental model of disease, co-occurs with, acquired abnormality
+receptor, causes, neoplastic process
+neoplastic process, affects, bacterium
+inorganic chemical, isa, physical object
+mental or behavioral dysfunction, affects, behavior
+genetic function, process of, mental or behavioral dysfunction
+pathologic function, process of, genetic function
+tissue, location of, bacterium
+fully formed anatomical structure, location of, bacterium
+indicator reagent or diagnostic aid, affects, pathologic function
+organophosphorus compound, affects, biologic function
+molecular function, process of, neoplastic process
+carbohydrate, issue in, occupation or discipline
+pharmacologic substance, affects, disease or syndrome
+pathologic function, result of, organism function
+biologic function, isa, phenomenon or process
+neuroreactive substance or biogenic amine, disrupts, tissue
+mental or behavioral dysfunction, process of, genetic function
+embryonic structure, location of, neoplastic process
+immunologic factor, complicates, pathologic function
+biomedical or dental material, affects, mental or behavioral dysfunction
+cell or molecular dysfunction, manifestation of, pathologic function
+pathologic function, manifestation of, disease or syndrome
+immunologic factor, causes, pathologic function
+pathologic function, result of, individual behavior
+neoplastic process, affects, virus
+mental or behavioral dysfunction, manifestation of, disease or syndrome
+immunologic factor, indicates, pathologic function
+experimental model of disease, process of, genetic function
+manufactured object, causes, experimental model of disease
+tissue, location of, virus
+genetic function, process of, fish
+steroid, interacts with, enzyme
+cell or molecular dysfunction, occurs in, neoplastic process
+diagnostic procedure, affects, experimental model of disease
+antibiotic, prevents, experimental model of disease
+manufactured object, causes, anatomical abnormality
+cell function, result of, neoplastic process
+tissue, isa, physical object
+vitamin, disrupts, fully formed anatomical structure
+biomedical or dental material, causes, pathologic function
+molecular biology research technique, measures, experimental model of disease
+tissue, location of, pathologic function
+pathologic function, occurs in, population group
+fully formed anatomical structure, location of, pathologic function
+antibiotic, isa, pharmacologic substance
+disease or syndrome, precedes, pathologic function
+population group, produces, manufactured object
+experimental model of disease, manifestation of, disease or syndrome
+indicator reagent or diagnostic aid, causes, neoplastic process
+individual behavior, associated with, pathologic function
+sign or symptom, associated with, pathologic function
+steroid, causes, injury or poisoning
+biologic function, produces, immunologic factor
+neoplastic process, co-occurs with, pathologic function
+food, affects, organism function
+injury or poisoning, result of, pathologic function
+element ion or isotope, causes, congenital abnormality
+mental or behavioral dysfunction, result of, pathologic function
+human caused phenomenon or process, result of, experimental model of disease
+pathologic function, result of, physiologic function
+molecular biology research technique, measures, pharmacologic substance
+antibiotic, complicates, experimental model of disease
+bacterium, interacts with, organism
+drug delivery device, prevents, pathologic function
+antibiotic, causes, experimental model of disease
+steroid, causes, neoplastic process
+neoplastic process, process of, archaeon
+laboratory procedure, assesses effect of, chemical viewed structurally
+rickettsia or chlamydia, interacts with, organism
+cell or molecular dysfunction, precedes, experimental model of disease
+biologically active substance, interacts with, neuroreactive substance or biogenic amine
+biologic function, process of, reptile
+disease or syndrome, co-occurs with, neoplastic process
+diagnostic procedure, assesses effect of, element ion or isotope
+sign or symptom, evaluation of, experimental model of disease
+tissue, part of, mammal
+experimental model of disease, result of, mental process
+research activity, measures, neuroreactive substance or biogenic amine
+diagnostic procedure, measures, neoplastic process
+antibiotic, diagnoses, mental or behavioral dysfunction
+fully formed anatomical structure, produces, body substance
+gene or genome, isa, anatomical structure
+organism attribute, result of, mental or behavioral dysfunction
+substance, isa, physical object
+laboratory or test result, associated with, experimental model of disease
+experimental model of disease, result of, physiologic function
+biologic function, process of, organism function
+therapeutic or preventive procedure, prevents, pathologic function
+mental or behavioral dysfunction, manifestation of, injury or poisoning
+biologically active substance, disrupts, genetic function
+physiologic function, affects, biologic function
+therapeutic or preventive procedure, affects, mental or behavioral dysfunction
+laboratory procedure, analyzes, carbohydrate
+organ or tissue function, result of, mental or behavioral dysfunction
+fully formed anatomical structure, produces, organic chemical
+neoplastic process, process of, fungus
+pathologic function, process of, animal
+individual behavior, manifestation of, mental or behavioral dysfunction
+cell, part of, fish
+nucleic acid nucleoside or nucleotide, isa, physical object
+medical device, prevents, pathologic function
+pathologic function, manifestation of, neoplastic process
+experimental model of disease, result of, health care activity
+mental or behavioral dysfunction, process of, animal
+element ion or isotope, isa, chemical
+food, affects, physiologic function
+embryonic structure, isa, anatomical structure
+tissue, produces, vitamin
+organism function, process of, mental or behavioral dysfunction
+age group, uses, manufactured object
+rickettsia or chlamydia, isa, organism
+experimental model of disease, complicates, anatomical abnormality
+experimental model of disease, manifestation of, injury or poisoning
+biologic function, result of, human caused phenomenon or process
+research activity, measures, molecular function
+anatomical structure, location of, virus
+biomedical or dental material, isa, physical object
+neoplastic process, affects, invertebrate
+lipid, interacts with, chemical
+mental or behavioral dysfunction, manifestation of, neoplastic process
+laboratory or test result, measurement of, chemical viewed structurally
+neoplastic process, result of, experimental model of disease
+research activity, measures, biologic function
+food, causes, cell or molecular dysfunction
+neoplastic process, affects, fish
+congenital abnormality, part of, fish
+neoplastic process, result of, anatomical abnormality
+fully formed anatomical structure, produces, amino acid peptide or protein
+neoplastic process, produces, enzyme
+neoplastic process, result of, behavior
+experimental model of disease, process of, animal
+neoplastic process, complicates, cell or molecular dysfunction
+finding, evaluation of, biologic function
+manufactured object, issue in, biomedical occupation or discipline
+chemical, causes, congenital abnormality
+clinical attribute, result of, mental or behavioral dysfunction
+finding, manifestation of, biologic function
+cell function, affects, organism
+experimental model of disease, manifestation of, neoplastic process
+drug delivery device, treats, neoplastic process
+carbohydrate, affects, molecular function
+neoplastic process, process of, natural phenomenon or process
+carbohydrate, affects, biologic function
+laboratory procedure, measures, steroid
+research activity, measures, body substance
+biologic function, process of, physiologic function
+chemical, ingredient of, clinical drug
+biologic function, result of, acquired abnormality
+biologically active substance, isa, physical object
+inorganic chemical, affects, natural phenomenon or process
+chemical viewed structurally, interacts with, enzyme
+laboratory or test result, measurement of, food
+laboratory or test result, evaluation of, mental or behavioral dysfunction
+pharmacologic substance, affects, natural phenomenon or process
+research activity, measures, organic chemical
+therapeutic or preventive procedure, treats, neoplastic process
+research activity, measures, indicator reagent or diagnostic aid
+antibiotic, interacts with, chemical
+disease or syndrome, degree of, pathologic function
+pharmacologic substance, isa, entity
+mammal, interacts with, organism
+pharmacologic substance, diagnoses, cell or molecular dysfunction
+receptor, affects, mental or behavioral dysfunction
+acquired abnormality, part of, fish
+chemical viewed structurally, isa, physical object
+self help or relief organization, location of, diagnostic procedure
+biologic function, isa, natural phenomenon or process
+invertebrate, interacts with, fish
+professional or occupational group, diagnoses, pathologic function
+injury or poisoning, complicates, mental or behavioral dysfunction
+acquired abnormality, manifestation of, biologic function
+chemical, causes, acquired abnormality
+genetic function, process of, neoplastic process
+research activity, measures, amino acid peptide or protein
+hazardous or poisonous substance, affects, mental or behavioral dysfunction
+fungus, location of, biologically active substance
+biologic function, affects, organism
+pharmacologic substance, prevents, pathologic function
+cell or molecular dysfunction, degree of, experimental model of disease
+self help or relief organization, issue in, biomedical occupation or discipline
+neoplastic process, process of, cell function
+group, produces, manufactured object
+fully formed anatomical structure, part of, bird
+therapeutic or preventive procedure, complicates, mental or behavioral dysfunction
+steroid, interacts with, immunologic factor
+research activity, measures, organ or tissue function
+fungus, causes, experimental model of disease
+tissue, produces, receptor
+disease or syndrome, process of, mental or behavioral dysfunction
+inorganic chemical, affects, cell function
+research activity, measures, clinical attribute
+mental or behavioral dysfunction, co-occurs with, pathologic function
+hazardous or poisonous substance, complicates, pathologic function
+cell or molecular dysfunction, process of, fish
+carbohydrate, isa, substance
+disease or syndrome, affects, fish
+mental process, affects, biologic function
+body substance, derivative of, tissue
+phenomenon or process, result of, experimental model of disease
+hazardous or poisonous substance, causes, pathologic function
+pathologic function, process of, archaeon
+pathologic function, produces, neuroreactive substance or biogenic amine
+element ion or isotope, interacts with, vitamin
+medical device, causes, mental or behavioral dysfunction
+laboratory or test result, measurement of, element ion or isotope
+carbohydrate, affects, organ or tissue function
+experimental model of disease, co-occurs with, pathologic function
+mental or behavioral dysfunction, process of, archaeon
+natural phenomenon or process, result of, mental or behavioral dysfunction
+tissue, part of, bacterium
+molecular biology research technique, measures, inorganic chemical
+amino acid peptide or protein, causes, neoplastic process
+laboratory procedure, measures, experimental model of disease
+laboratory procedure, analyzes, chemical
+element ion or isotope, affects, pathologic function
+pharmacologic substance, treats, experimental model of disease
+diagnostic procedure, analyzes, inorganic chemical
+pathologic function, process of, fungus
+pharmacologic substance, treats, anatomical abnormality
+disease or syndrome, process of, fish
+laboratory procedure, measures, pharmacologic substance
+pathologic function, associated with, clinical attribute
+genetic function, result of, mental or behavioral dysfunction
+manufactured object, causes, congenital abnormality
+mental process, process of, organism
+experimental model of disease, produces, hormone
+receptor, complicates, experimental model of disease
+lipid, interacts with, biologically active substance
+chemical viewed functionally, affects, experimental model of disease
+body location or region, location of, experimental model of disease
+steroid, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, associated with, clinical attribute
+self help or relief organization, location of, occupational activity
+neoplastic process, occurs in, injury or poisoning
+gene or genome, location of, experimental model of disease
+receptor, causes, experimental model of disease
+tissue, part of, virus
+experimental model of disease, process of, fungus
+neuroreactive substance or biogenic amine, disrupts, embryonic structure
+neoplastic process, issue in, biomedical occupation or discipline
+molecular function, process of, experimental model of disease
+antibiotic, diagnoses, neoplastic process
+experimental model of disease, associated with, clinical attribute
+pharmacologic substance, disrupts, cell function
+biologic function, affects, cell or molecular dysfunction
+pathologic function, affects, mammal
+physiologic function, affects, pathologic function
+pathologic function, affects, molecular function
+embryonic structure, location of, experimental model of disease
+pharmacologic substance, interacts with, vitamin
+neoplastic process, produces, immunologic factor
+therapeutic or preventive procedure, affects, neoplastic process
+pathologic function, affects, biologic function
+immunologic factor, affects, mental or behavioral dysfunction
+steroid, interacts with, pharmacologic substance
+mental or behavioral dysfunction, affects, mammal
+element ion or isotope, affects, genetic function
+mental or behavioral dysfunction, process of, natural phenomenon or process
+embryonic structure, part of, virus
+fish, exhibits, social behavior
+antibiotic, interacts with, biologically active substance
+manufactured object, causes, acquired abnormality
+nucleic acid nucleoside or nucleotide, affects, mental or behavioral dysfunction
+pathologic function, result of, laboratory procedure
+body part organ or organ component, produces, carbohydrate
+chemical viewed structurally, interacts with, steroid
+embryonic structure, location of, mental process
+lipid, isa, physical object
+element ion or isotope, interacts with, receptor
+organic chemical, interacts with, carbohydrate
+cell function, process of, mental or behavioral dysfunction
+pharmacologic substance, complicates, cell function
+experimental model of disease, affects, mammal
+chemical viewed structurally, interacts with, immunologic factor
+experimental model of disease, process of, natural phenomenon or process
+tissue, part of, alga
+cell function, result of, experimental model of disease
+finding, evaluation of, pathologic function
+experimental model of disease, complicates, congenital abnormality
+steroid, isa, substance
+finding, manifestation of, pathologic function
+neoplastic process, process of, organism function
+neuroreactive substance or biogenic amine, causes, mental or behavioral dysfunction
+biologic function, process of, amphibian
+indicator reagent or diagnostic aid, causes, experimental model of disease
+pathologic function, process of, organism
+congenital abnormality, manifestation of, pathologic function
+organ or tissue function, isa, biologic function
+vitamin, interacts with, chemical
+clinical attribute, result of, neoplastic process
+nucleic acid nucleoside or nucleotide, causes, pathologic function
+experimental model of disease, result of, laboratory procedure
+vitamin, complicates, mental or behavioral dysfunction
+neoplastic process, result of, congenital abnormality
+pathologic function, process of, cell function
+congenital abnormality, location of, mental or behavioral dysfunction
+neoplastic process, manifestation of, organ or tissue function
+organophosphorus compound, interacts with, element ion or isotope
+vitamin, causes, mental or behavioral dysfunction
+neuroreactive substance or biogenic amine, isa, chemical
+anatomical structure, part of, virus
+molecular function, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, process of, cell function
+organophosphorus compound, causes, mental or behavioral dysfunction
+amino acid peptide or protein, interacts with, steroid
+laboratory or test result, evaluation of, neoplastic process
+neoplastic process, result of, human caused phenomenon or process
+steroid, causes, experimental model of disease
+health care activity, associated with, pathologic function
+diagnostic procedure, affects, biologic function
+disease or syndrome, co-occurs with, experimental model of disease
+tissue, part of, invertebrate
+cell or molecular dysfunction, process of, neoplastic process
+steroid, causes, anatomical abnormality
+diagnostic procedure, measures, experimental model of disease
+steroid, affects, disease or syndrome
+receptor, affects, neoplastic process
+molecular biology research technique, measures, biologic function
+disease or syndrome, affects, neoplastic process
+vitamin, isa, chemical
+pharmacologic substance, affects, experimental model of disease
+experimental model of disease, process of, cell function
+steroid, isa, organic chemical
+laboratory procedure, analyzes, biologically active substance
+chemical, affects, genetic function
+chemical viewed structurally, affects, mental or behavioral dysfunction
+human caused phenomenon or process, result of, biologic function
+experimental model of disease, complicates, acquired abnormality
+gene or genome, produces, steroid
+acquired abnormality, manifestation of, pathologic function
+experimental model of disease, result of, therapeutic or preventive procedure
+biologically active substance, causes, pathologic function
+pharmacologic substance, interacts with, receptor
+injury or poisoning, complicates, neoplastic process
+inorganic chemical, affects, mental process
+antibiotic, complicates, biologic function
+neoplastic process, process of, physiologic function
+pathologic function, manifestation of, experimental model of disease
+neoplastic process, result of, acquired abnormality
+inorganic chemical, affects, physiologic function
+pharmacologic substance, affects, mental process
+biologic function, result of, pathologic function
+embryonic structure, part of, fish
+mental or behavioral dysfunction, manifestation of, experimental model of disease
+disease or syndrome, process of, neoplastic process
+sign or symptom, evaluation of, biologic function
+inorganic chemical, causes, cell or molecular dysfunction
+anatomical abnormality, result of, mental or behavioral dysfunction
+mental process, affects, pathologic function
+chemical viewed structurally, causes, pathologic function
+neuroreactive substance or biogenic amine, affects, neoplastic process
+pathologic function, manifestation of, mental process
+fish, exhibits, individual behavior
+pharmacologic substance, causes, cell or molecular dysfunction
+chemical viewed structurally, interacts with, pharmacologic substance
+carbohydrate, interacts with, receptor
+mental or behavioral dysfunction, occurs in, injury or poisoning
+experimental model of disease, isa, phenomenon or process
+biologic function, produces, neuroreactive substance or biogenic amine
+neoplastic process, isa, natural phenomenon or process
+mental or behavioral dysfunction, manifestation of, mental process
+inorganic chemical, interacts with, biomedical or dental material
+drug delivery device, treats, experimental model of disease
+laboratory procedure, measures, inorganic chemical
+pathologic function, process of, cell or molecular dysfunction
+organophosphorus compound, isa, chemical viewed structurally
+antibiotic, treats, mental or behavioral dysfunction
+neoplastic process, associated with, experimental model of disease
+natural phenomenon or process, result of, neoplastic process
+biologically active substance, complicates, genetic function
+neoplastic process, affects, organism
+chemical, causes, pathologic function
+qualitative concept, evaluation of, research activity
+biologically active substance, disrupts, cell function
+pathologic function, affects, bacterium
+food, isa, physical object
+mental or behavioral dysfunction, result of, diagnostic procedure
+neoplastic process, process of, bird
+neoplastic process, result of, biologic function
+therapeutic or preventive procedure, treats, experimental model of disease
+neoplastic process, precedes, cell or molecular dysfunction
+organization, location of, research activity
+mental or behavioral dysfunction, produces, immunologic factor
+receptor, isa, biologically active substance
+lipid, interacts with, steroid
+cell component, isa, fully formed anatomical structure
+genetic function, result of, neoplastic process
+anatomical structure, part of, fish
+chemical viewed structurally, interacts with, organophosphorus compound
+pharmacologic substance, complicates, organism function
+fish, interacts with, human
+amino acid peptide or protein, interacts with, pharmacologic substance
+diagnostic procedure, measures, element ion or isotope
+steroid, affects, neoplastic process
+organic chemical, interacts with, chemical
+pharmacologic substance, treats, congenital abnormality
+steroid, issue in, biomedical occupation or discipline
+neoplastic process, degree of, mental or behavioral dysfunction
+experimental model of disease, result of, organ or tissue function
+element ion or isotope, interacts with, chemical viewed functionally
+pharmacologic substance, disrupts, mental process
+chemical viewed functionally, isa, physical object
+diagnostic procedure, diagnoses, mental or behavioral dysfunction
+steroid, interacts with, inorganic chemical
+plant, interacts with, organism
+genetic function, process of, experimental model of disease
+mental or behavioral dysfunction, process of, reptile
+pathologic function, process of, organism function
+embryonic structure, isa, entity
+biologic function, isa, event
+tissue, produces, hormone
+medical device, isa, manufactured object
+research activity, isa, occupational activity
+body part organ or organ component, isa, anatomical structure
+mental or behavioral dysfunction, process of, organism function
+neoplastic process, occurs in, population group
+chemical viewed structurally, affects, disease or syndrome
+biologic function, produces, body substance
+neuroreactive substance or biogenic amine, isa, biologically active substance
+immunologic factor, affects, neoplastic process
+experimental model of disease, process of, reptile
+carbohydrate, interacts with, element ion or isotope
+vertebrate, interacts with, organism
+mental or behavioral dysfunction, affects, pathologic function
+fully formed anatomical structure, part of, vertebrate
+anatomical abnormality, isa, physical object
+carbohydrate, causes, mental or behavioral dysfunction
+mental or behavioral dysfunction, affects, rickettsia or chlamydia
+nucleic acid nucleoside or nucleotide, affects, neoplastic process
+chemical, isa, physical object
+element ion or isotope, interacts with, hazardous or poisonous substance
+mental or behavioral dysfunction, result of, social behavior
+pharmacologic substance, complicates, physiologic function
+experimental model of disease, process of, organism function
+vitamin, isa, biologically active substance
+mental process, result of, mental or behavioral dysfunction
+diagnostic procedure, assesses effect of, carbohydrate
+pharmacologic substance, treats, acquired abnormality
+lipid, affects, mental or behavioral dysfunction
+amino acid peptide or protein, causes, experimental model of disease
+self help or relief organization, manages, patient or disabled group
+carbohydrate, isa, chemical
+experimental model of disease, affects, pathologic function
+eicosanoid, interacts with, chemical
+enzyme, interacts with, chemical
+fish, interacts with, reptile
+behavior, manifestation of, mental or behavioral dysfunction
+experimental model of disease, precedes, mental or behavioral dysfunction
+experimental model of disease, affects, rickettsia or chlamydia
+enzyme, complicates, mental or behavioral dysfunction
+neoplastic process, affects, cell or molecular dysfunction
+pathologic function, affects, alga
+neuroreactive substance or biogenic amine, causes, neoplastic process
+research activity, affects, mental process
+pathologic function, process of, physiologic function
+anatomical abnormality, manifestation of, mental or behavioral dysfunction
+tissue, location of, cell or molecular dysfunction
+eicosanoid, causes, mental or behavioral dysfunction
+enzyme, causes, mental or behavioral dysfunction
+mental or behavioral dysfunction, affects, alga
+organ or tissue function, affects, mental or behavioral dysfunction
+fully formed anatomical structure, location of, cell or molecular dysfunction
+disease or syndrome, associated with, pathologic function
+inorganic chemical, issue in, occupation or discipline
+virus, isa, organism
+mental or behavioral dysfunction, process of, physiologic function
+phenomenon or process, result of, biologic function
+neoplastic process, co-occurs with, cell or molecular dysfunction
+research activity, measures, organism attribute
+mental or behavioral dysfunction, result of, cell or molecular dysfunction
+lipid, causes, pathologic function
+molecular function, affects, neoplastic process
+organophosphorus compound, causes, neoplastic process
+anatomical abnormality, part of, organism
+pharmacologic substance, disrupts, cell component
+manufactured object, causes, pathologic function
+body system, conceptual part of, fully formed anatomical structure
+eicosanoid, isa, chemical
+enzyme, isa, chemical
+mental or behavioral dysfunction, affects, genetic function
+laboratory procedure, measures, biologic function
+experimental model of disease, affects, alga
+antibiotic, affects, mental or behavioral dysfunction
+experimental model of disease, process of, physiologic function
+antibiotic, diagnoses, experimental model of disease
+tissue, part of, archaeon
+pathologic function, affects, invertebrate
+steroid, interacts with, neuroreactive substance or biogenic amine
+element ion or isotope, causes, injury or poisoning
+organ or tissue function, process of, mental or behavioral dysfunction
+embryonic structure, developmental form of, cell
+pharmacologic substance, isa, chemical viewed functionally
+neoplastic process, degree of, disease or syndrome
+neoplastic process, process of, amphibian
+biologically active substance, disrupts, organism function
+laboratory or test result, manifestation of, pathologic function
+therapeutic or preventive procedure, affects, experimental model of disease
+laboratory procedure, diagnoses, mental or behavioral dysfunction
+pharmacologic substance, interacts with, hazardous or poisonous substance
+chemical viewed structurally, affects, neoplastic process
+mental or behavioral dysfunction, isa, natural phenomenon or process
+health care activity, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, affects, invertebrate
+organism function, affects, pathologic function
+steroid, causes, congenital abnormality
+antibiotic, complicates, pathologic function
+experimental model of disease, affects, genetic function
+receptor, complicates, biologic function
+chemical viewed functionally, affects, biologic function
+body location or region, location of, biologic function
+tissue, location of, organism function
+fully formed anatomical structure, location of, organism function
+pathologic function, process of, bird
+pathologic function, result of, mental or behavioral dysfunction
+pathologic function, associated with, organism attribute
+gene or genome, location of, biologic function
+body part organ or organ component, produces, biologically active substance
+neoplastic process, occurs in, family group
+chemical viewed structurally, interacts with, inorganic chemical
+manufactured object, issue in, occupation or discipline
+antibiotic, causes, pathologic function
+disease or syndrome, manifestation of, mental or behavioral dysfunction
+element ion or isotope, interacts with, hormone
+mental or behavioral dysfunction, result of, organism function
+fully formed anatomical structure, part of, rickettsia or chlamydia
+pharmacologic substance, disrupts, cell
+biologically active substance, ingredient of, clinical drug
+mental or behavioral dysfunction, associated with, organism attribute
+sign or symptom, evaluation of, pathologic function
+experimental model of disease, isa, natural phenomenon or process
+research activity, uses, research device
+body substance, causes, mental or behavioral dysfunction
+anatomical abnormality, result of, neoplastic process
+carbohydrate, causes, disease or syndrome
+neoplastic process, manifestation of, disease or syndrome
+molecular function, process of, biologic function
+neuroreactive substance or biogenic amine, disrupts, fully formed anatomical structure
+embryonic structure, location of, molecular function
+pathologic function, degree of, mental or behavioral dysfunction
+carbohydrate, interacts with, hazardous or poisonous substance
+embryonic structure, location of, biologic function
+amino acid peptide or protein, affects, neoplastic process
+laboratory procedure, assesses effect of, carbohydrate
+clinical attribute, result of, experimental model of disease
+mental or behavioral dysfunction, result of, individual behavior
+experimental model of disease, associated with, organism attribute
+manufactured object, isa, physical object
+antibiotic, treats, neoplastic process
+body space or junction, location of, pathologic function
+physiologic function, process of, pathologic function
+fully formed anatomical structure, isa, physical object
+biologically active substance, disrupts, physiologic function
+amino acid peptide or protein, interacts with, inorganic chemical
+fully formed anatomical structure, part of, alga
+experimental model of disease, precedes, disease or syndrome
+steroid, causes, acquired abnormality
+neoplastic process, result of, pathologic function
+laboratory or test result, evaluation of, experimental model of disease
+biologic function, affects, mammal
+mental or behavioral dysfunction, occurs in, population group
+food, affects, mental or behavioral dysfunction
+experimental model of disease, degree of, mental or behavioral dysfunction
+element ion or isotope, affects, cell function
+fully formed anatomical structure, location of, physiologic function
+self help or relief organization, location of, laboratory procedure
+steroid, isa, physical object
+acquired abnormality, result of, mental or behavioral dysfunction
+steroid, interacts with, indicator reagent or diagnostic aid
+cell or molecular dysfunction, process of, experimental model of disease
+cell function, result of, biologic function
+element ion or isotope, interacts with, antibiotic
+receptor, affects, experimental model of disease
+anatomical abnormality, location of, pathologic function
+mental or behavioral dysfunction, result of, physiologic function
+disease or syndrome, affects, experimental model of disease
+diagnostic procedure, assesses effect of, chemical
+self help or relief organization, issue in, occupation or discipline
+laboratory or test result, measurement of, carbohydrate
+pharmacologic substance, interacts with, hormone
+mental or behavioral dysfunction, affects, animal
+neoplastic process, produces, neuroreactive substance or biogenic amine
+environmental effect of humans, result of, mental or behavioral dysfunction
+disease or syndrome, result of, neoplastic process
+laboratory procedure, affects, neoplastic process
+antibiotic, isa, physical object
+diagnostic procedure, associated with, neoplastic process
+injury or poisoning, complicates, experimental model of disease
+hazardous or poisonous substance, affects, experimental model of disease
+chemical, affects, natural phenomenon or process
+carbohydrate, causes, injury or poisoning
+neoplastic process, manifestation of, injury or poisoning
+natural phenomenon or process, affects, mental or behavioral dysfunction
+pathologic function, result of, phenomenon or process
+experimental model of disease, issue in, occupation or discipline
+archaeon, interacts with, organism
+biologic function, process of, mental or behavioral dysfunction
+tissue, part of, organism
+human, isa, organism
+self help or relief organization, carries out, diagnostic procedure
+invertebrate, isa, organism
+experimental model of disease, affects, animal
+physiologic function, affects, organism
+disease or syndrome, process of, experimental model of disease
+cell or molecular dysfunction, result of, pathologic function
+diagnostic procedure, measures, biologic function
+pharmacologic substance, affects, molecular function
+clinical drug, isa, physical object
+pathologic function, isa, phenomenon or process
+pathologic function, result of, disease or syndrome
+neuroreactive substance or biogenic amine, affects, experimental model of disease
+receptor, disrupts, tissue
+embryonic structure, location of, organ or tissue function
+pharmacologic substance, affects, biologic function
+carbohydrate, interacts with, hormone
+enzyme, isa, biologically active substance
+laboratory procedure, assesses effect of, mental or behavioral dysfunction
+carbohydrate, causes, neoplastic process
+mental or behavioral dysfunction, co-occurs with, cell or molecular dysfunction
+social behavior, manifestation of, mental or behavioral dysfunction
+biologically active substance, disrupts, cell component
+tissue, produces, lipid
+embryonic structure, part of, plant
+natural phenomenon or process, process of, mental or behavioral dysfunction
+experimental model of disease, result of, phenomenon or process
+cell or molecular dysfunction, isa, pathologic function
+pathologic function, manifestation of, molecular function
+tissue, produces, carbohydrate
+cell or molecular dysfunction, degree of, pathologic function
+natural phenomenon or process, result of, experimental model of disease
+hazardous or poisonous substance, disrupts, tissue
+geographic area, associated with, mental or behavioral dysfunction
+pathologic function, process of, amphibian
+neoplastic process, isa, event
+invertebrate, causes, mental or behavioral dysfunction
+cell or molecular dysfunction, affects, mental or behavioral dysfunction
+tissue, produces, nucleic acid nucleoside or nucleotide
+fungus, causes, pathologic function
+pharmacologic substance, interacts with, antibiotic
+mental or behavioral dysfunction, manifestation of, molecular function
+biologic function, process of, fish
+pharmacologic substance, diagnoses, pathologic function
+experimental model of disease, precedes, neoplastic process
+chemical, affects, cell function
+enzyme, complicates, neoplastic process
+neoplastic process, produces, body substance
+mental or behavioral dysfunction, degree of, disease or syndrome
+indicator reagent or diagnostic aid, interacts with, chemical
+experimental model of disease, result of, disease or syndrome
+lipid, interacts with, inorganic chemical
+mental or behavioral dysfunction, process of, amphibian
+element ion or isotope, affects, cell or molecular dysfunction
+fungus, interacts with, fish
+cell, produces, biologically active substance
+genetic function, result of, experimental model of disease
+eicosanoid, causes, neoplastic process
+enzyme, causes, neoplastic process
+organ or tissue function, affects, neoplastic process
+genetic function, affects, fish
+reptile, isa, organism
+tissue, part of, body part organ or organ component
+research device, isa, physical object
+steroid, affects, experimental model of disease
+experimental model of disease, manifestation of, molecular function
+pharmacologic substance, disrupts, fully formed anatomical structure
+hormone, disrupts, tissue
+mental or behavioral dysfunction, occurs in, family group
+biologic function, affects, vertebrate
+food, affects, disease or syndrome
+experimental model of disease, degree of, disease or syndrome
+experimental model of disease, process of, amphibian
+biologically active substance, interacts with, vitamin
+drug delivery device, isa, manufactured object
+carbohydrate, interacts with, antibiotic
+fully formed anatomical structure, part of, animal
+body part organ or organ component, surrounds, tissue
+laboratory procedure, assesses effect of, chemical
+anatomical structure, part of, plant
+embryonic structure, location of, bacterium
+cell or molecular dysfunction, affects, fish
+steroid, affects, mental process
+chemical viewed structurally, interacts with, organic chemical
+biologically active substance, affects, pathologic function
+chemical viewed structurally, interacts with, indicator reagent or diagnostic aid
+experimental model of disease, occurs in, mental or behavioral dysfunction
+body part organ or organ component, location of, mental or behavioral dysfunction
+neoplastic process, complicates, mental or behavioral dysfunction
+inorganic chemical, affects, organ or tissue function
+experimental model of disease, produces, biologically active substance
+pathologic function, affects, archaeon
+laboratory procedure, diagnoses, neoplastic process
+health care activity, affects, neoplastic process
+receptor, complicates, pathologic function
+element ion or isotope, affects, organism function
+immunologic factor, affects, experimental model of disease
+disease or syndrome, complicates, pathologic function
+pharmacologic substance, affects, organ or tissue function
+biologically active substance, complicates, cell function
+anatomical structure, part of, human
+body part organ or organ component, produces, steroid
+gene or genome, location of, pathologic function
+mental or behavioral dysfunction, affects, archaeon
+cell component, isa, physical object
+biologic function, process of, disease or syndrome
+pathologic function, result of, neoplastic process
+nucleic acid nucleoside or nucleotide, affects, experimental model of disease
+receptor, causes, pathologic function
+organic chemical, interacts with, steroid
+disease or syndrome, manifestation of, neoplastic process
+fungus, isa, physical object
+experimental model of disease, result of, injury or poisoning
+diagnostic procedure, assesses effect of, biologically active substance
+chemical viewed structurally, interacts with, amino acid peptide or protein
+pathologic function, manifestation of, organ or tissue function
+genetic function, process of, biologic function
+embryonic structure, location of, virus
+molecular function, process of, pathologic function
+laboratory or test result, measurement of, chemical
+biologic function, result of, cell function
+body substance, causes, neoplastic process
+mental or behavioral dysfunction, affects, fungus
+experimental model of disease, affects, archaeon
+mental or behavioral dysfunction, manifestation of, organ or tissue function
+mental process, affects, organism
+pathologic function, complicates, injury or poisoning
+neuroreactive substance or biogenic amine, causes, experimental model of disease
+fish, isa, entity
+occupational activity, associated with, mental or behavioral dysfunction
+mental or behavioral dysfunction, produces, neuroreactive substance or biogenic amine
+mental or behavioral dysfunction, degree of, neoplastic process
+experimental model of disease, result of, neoplastic process
+vitamin, complicates, experimental model of disease
+neuroreactive substance or biogenic amine, complicates, pathologic function
+immunologic factor, disrupts, tissue
+cell, location of, pathologic function
+cell or molecular dysfunction, complicates, mental or behavioral dysfunction
+biologically active substance, affects, genetic function
+experimental model of disease, affects, fungus
+carbohydrate, affects, cell or molecular dysfunction
+molecular function, affects, experimental model of disease
+element ion or isotope, affects, physiologic function
+organophosphorus compound, causes, experimental model of disease
+pathologic function, complicates, neoplastic process
+laboratory procedure, associated with, pathologic function
+bacterium, isa, organism
+biologic function, affects, pathologic function
+food, affects, neoplastic process
+experimental model of disease, degree of, neoplastic process
+experimental model of disease, complicates, injury or poisoning
+neoplastic process, associated with, clinical attribute
+food, issue in, biomedical occupation or discipline
+biologic function, affects, rickettsia or chlamydia
+acquired abnormality, result of, neoplastic process
+biologically active substance, interacts with, receptor
+element ion or isotope, isa, substance
+indicator reagent or diagnostic aid, causes, pathologic function
+pharmacologic substance, disrupts, organ or tissue function
+research activity, measures, receptor
+pathologic function, result of, natural phenomenon or process
+diagnostic procedure, uses, pharmacologic substance
+organic chemical, affects, mental or behavioral dysfunction
+mental or behavioral dysfunction, associated with, cell or molecular dysfunction
+chemical viewed structurally, affects, experimental model of disease
+inorganic chemical, interacts with, immunologic factor
+mental or behavioral dysfunction, isa, event
+natural phenomenon or process, affects, neoplastic process
+pathologic function, isa, natural phenomenon or process
+experimental model of disease, occurs in, disease or syndrome
+bacterium, causes, mental or behavioral dysfunction
+biologic function, process of, neoplastic process
+fully formed anatomical structure, part of, archaeon
+organism function, result of, neoplastic process
+neoplastic process, affects, mammal
+biologic function, affects, alga
+research activity, method of, occupation or discipline
+steroid, causes, pathologic function
+mental or behavioral dysfunction, produces, body substance
+disease or syndrome, co-occurs with, pathologic function
+chemical viewed structurally, affects, mental process
+molecular function, isa, biologic function
+rickettsia or chlamydia, causes, mental or behavioral dysfunction
+pathologic function, affects, organism
+pathologic function, process of, vertebrate
+diagnostic procedure, measures, pathologic function
+biologic function, result of, cell or molecular dysfunction
+acquired abnormality, isa, physical object
+physiologic function, result of, pathologic function
+organic chemical, causes, pathologic function
+tissue, isa, anatomical structure
+anatomical abnormality, result of, experimental model of disease
+genetic function, affects, neoplastic process
+organic chemical, interacts with, pharmacologic substance
+anatomical abnormality, affects, fish
+mental or behavioral dysfunction, affects, organism
+experimental model of disease, isa, event
+biologically active substance, disrupts, fully formed anatomical structure
+fully formed anatomical structure, part of, fungus
+pathologic function, produces, vitamin
+biologic function, affects, genetic function
+amino acid peptide or protein, affects, experimental model of disease
+therapeutic or preventive procedure, affects, biologic function
+tissue, issue in, occupation or discipline
+body location or region, conceptual part of, fully formed anatomical structure
+mental or behavioral dysfunction, affects, cell function
+chemical, affects, mental process
+natural phenomenon or process, process of, neoplastic process
+research device, causes, neoplastic process
+antibiotic, treats, experimental model of disease
+cell or molecular dysfunction, co-occurs with, experimental model of disease
+self help or relief organization, carries out, health care activity
+biologically active substance, complicates, organism function
+geographic area, associated with, neoplastic process
+chemical, affects, physiologic function
+amino acid peptide or protein, isa, chemical viewed structurally
+cell or molecular dysfunction, affects, neoplastic process
+pathologic function, occurs in, age group
+mental or behavioral dysfunction, manifestation of, pathologic function
+neoplastic process, process of, mental or behavioral dysfunction
+steroid, issue in, occupation or discipline
+enzyme, affects, mental or behavioral dysfunction
+chemical viewed structurally, interacts with, biomedical or dental material
+daily or recreational activity, associated with, mental or behavioral dysfunction
+eicosanoid, affects, mental or behavioral dysfunction
+carbohydrate, interacts with, lipid
+indicator reagent or diagnostic aid, isa, physical object
+chemical, causes, cell or molecular dysfunction
+experimental model of disease, affects, cell function
+fish, isa, organism
+clinical drug, causes, pathologic function
+research activity, measures, element ion or isotope
+experimental model of disease, produces, vitamin
+tissue, part of, bird
+biologic function, result of, organism function
+cell component, location of, pathologic function
+experimental model of disease, manifestation of, pathologic function
+laboratory or test result, measurement of, biologically active substance
+drug delivery device, treats, pathologic function
+clinical attribute, result of, biologic function
+organization, carries out, research activity
+disease or syndrome, result of, experimental model of disease
+neoplastic process, degree of, experimental model of disease
+laboratory procedure, affects, experimental model of disease
+diagnostic procedure, associated with, experimental model of disease
+experimental model of disease, occurs in, age group
+mental or behavioral dysfunction, affects, social behavior
+pathologic function, occurs in, professional or occupational group
+gene or genome, part of, fish
+eicosanoid, interacts with, pharmacologic substance
+laboratory or test result, evaluation of, biologic function
+inorganic chemical, interacts with, pharmacologic substance
+therapeutic or preventive procedure, treats, pathologic function
+neoplastic process, process of, fish
+governmental or regulatory activity, associated with, neoplastic process
+family group, performs, research activity
+element ion or isotope, interacts with, chemical
+biologically active substance, complicates, physiologic function
+receptor, disrupts, embryonic structure
+cell or molecular dysfunction, process of, biologic function
+pharmacologic substance, treats, injury or poisoning
+medical device, treats, pathologic function
+receptor, affects, biologic function
+disease or syndrome, affects, biologic function
+pathologic function, affects, cell or molecular dysfunction
+carbohydrate, causes, experimental model of disease
+neoplastic process, manifestation of, experimental model of disease
+mental process, process of, mental or behavioral dysfunction
+hazardous or poisonous substance, disrupts, embryonic structure
+carbohydrate, causes, anatomical abnormality
+mental or behavioral dysfunction, affects, cell or molecular dysfunction
+pathologic function, produces, receptor
+biologic function, result of, physiologic function
+hazardous or poisonous substance, affects, biologic function
+tissue, produces, biologically active substance
+biologic function, affects, animal
+research activity, isa, activity
+enzyme, complicates, experimental model of disease
+disease or syndrome, process of, biologic function
+occupational activity, associated with, neoplastic process
+diagnostic procedure, assesses effect of, chemical viewed structurally
+hormone, disrupts, embryonic structure
+eicosanoid, causes, experimental model of disease
+enzyme, causes, experimental model of disease
+organ or tissue function, affects, experimental model of disease
+neuroreactive substance or biogenic amine, affects, biologic function
+molecular biology research technique, isa, research activity
+neoplastic process, result of, diagnostic procedure
+physiologic function, process of, organism
+neoplastic process, process of, disease or syndrome
+tissue, produces, enzyme
+pathologic function, affects, organism function
+gene or genome, isa, fully formed anatomical structure
+sign or symptom, diagnoses, neoplastic process
+biologic function, process of, plant
+inorganic chemical, affects, disease or syndrome
+pharmacologic substance, interacts with, chemical
+cell function, produces, biologically active substance
+tissue, adjacent to, body space or junction
+amino acid peptide or protein, causes, pathologic function
+body location or region, location of, tissue
+molecular biology research technique, associated with, mental or behavioral dysfunction
+chemical viewed structurally, issue in, occupation or discipline
+mental or behavioral dysfunction, affects, organism function
+biologically active substance, interacts with, hazardous or poisonous substance
+natural phenomenon or process, result of, biologic function
+pharmacologic substance, complicates, mental or behavioral dysfunction
+manufactured object, causes, cell or molecular dysfunction
+population group, associated with, pathologic function
+neoplastic process, result of, cell function
+inorganic chemical, causes, mental or behavioral dysfunction
+research activity, measures, quantitative concept
+research activity, measures, hazardous or poisonous substance
+research activity, associated with, disease or syndrome
+pharmacologic substance, causes, mental or behavioral dysfunction
+biologic function, process of, human
+experimental model of disease, occurs in, group
+organic chemical, affects, neoplastic process
+genetic function, result of, biologic function
+laboratory procedure, diagnoses, experimental model of disease
+substance, causes, pathologic function
+health care activity, affects, experimental model of disease
+hormone, complicates, mental or behavioral dysfunction
+experimental model of disease, affects, organism function
+steroid, affects, molecular function
+organophosphorus compound, interacts with, biologically active substance
+mental or behavioral dysfunction, affects, individual behavior
+inorganic chemical, isa, chemical
+pathologic function, process of, mental or behavioral dysfunction
+fully formed anatomical structure, produces, neuroreactive substance or biogenic amine
+steroid, affects, biologic function
+organic chemical, interacts with, inorganic chemical
+carbohydrate, interacts with, chemical
+cell, isa, fully formed anatomical structure
+pathologic function, result of, experimental model of disease
+hormone, causes, mental or behavioral dysfunction
+pharmacologic substance, isa, chemical
+bacterium, causes, neoplastic process
+disease or syndrome, manifestation of, experimental model of disease
+genetic function, isa, biologic function
+pathologic function, result of, anatomical abnormality
+neoplastic process, affects, pathologic function
+neoplastic process, precedes, mental or behavioral dysfunction
+rickettsia or chlamydia, causes, neoplastic process
+congenital abnormality, affects, fish
+neoplastic process, affects, rickettsia or chlamydia
+body substance, causes, experimental model of disease
+tissue, produces, eicosanoid
+neoplastic process, result of, social behavior
+hormone, isa, chemical
+laboratory procedure, assesses effect of, steroid
+age group, performs, research activity
+pathologic function, result of, mental process
+tissue, location of, rickettsia or chlamydia
+therapeutic or preventive procedure, affects, pathologic function
+mental or behavioral dysfunction, affects, physiologic function
+fully formed anatomical structure, location of, rickettsia or chlamydia
+immunologic factor, disrupts, embryonic structure
+experimental model of disease, process of, mental or behavioral dysfunction
+biologic function, produces, vitamin
+immunologic factor, affects, biologic function
+mental or behavioral dysfunction, degree of, experimental model of disease
+molecular function, produces, biologically active substance
+element ion or isotope, interacts with, biologically active substance
+organophosphorus compound, isa, chemical
+experimental model of disease, result of, anatomical abnormality
+diagnostic procedure, analyzes, pharmacologic substance
+nucleic acid nucleoside or nucleotide, affects, biologic function
+element ion or isotope, ingredient of, clinical drug
+cell component, part of, fish
+research activity, associated with, injury or poisoning
+mental or behavioral dysfunction, process of, fish
+experimental model of disease, complicates, cell or molecular dysfunction
+experimental model of disease, affects, physiologic function
+disease or syndrome, occurs in, neoplastic process
+pathologic function, complicates, experimental model of disease
+eicosanoid, affects, neoplastic process
+fully formed anatomical structure, part of, reptile
+alga, interacts with, organism
+anatomical structure, location of, bacterium
+pathologic function, result of, health care activity
+neoplastic process, affects, alga
+biologically active substance, interacts with, hormone
+food, affects, experimental model of disease
+inorganic chemical, affects, neoplastic process
+pathologic function, complicates, anatomical abnormality
+pathologic function, manifestation of, injury or poisoning
+indicator reagent or diagnostic aid, affects, mental or behavioral dysfunction
+biologic function, affects, archaeon
+inorganic chemical, issue in, biomedical occupation or discipline
+neoplastic process, result of, cell or molecular dysfunction
+acquired abnormality, result of, experimental model of disease
+research activity, measures, hormone
+eicosanoid, interacts with, inorganic chemical
+laboratory or test result, measurement of, steroid
+acquired abnormality, affects, fish
+pharmacologic substance, affects, neoplastic process
+immunologic factor, complicates, mental or behavioral dysfunction
+research activity, associated with, neoplastic process
+element ion or isotope, interacts with, enzyme
+experimental model of disease, process of, fish
+pathologic function, affects, bird
+neoplastic process, affects, genetic function
+amphibian, interacts with, fish
+cell or molecular dysfunction, manifestation of, mental or behavioral dysfunction
+self help or relief organization, carries out, laboratory procedure
+vitamin, complicates, biologic function
+sign or symptom, manifestation of, mental or behavioral dysfunction
+food, affects, mental process
+biologic function, affects, fungus
+pharmacologic substance, complicates, disease or syndrome
+steroid, affects, organ or tissue function
+tissue, location of, genetic function
+immunologic factor, causes, mental or behavioral dysfunction
+mental or behavioral dysfunction, affects, bird
+fully formed anatomical structure, location of, genetic function
+element ion or isotope, causes, acquired abnormality
+molecular function, result of, neoplastic process
+hormone, affects, neoplastic process
+embryonic structure, part of, mammal
+alga, isa, organism
+laboratory or test result, evaluation of, pathologic function
+immunologic factor, indicates, mental or behavioral dysfunction
+natural phenomenon or process, affects, experimental model of disease
+molecular function, affects, biologic function
+pharmacologic substance, causes, disease or syndrome
+mental or behavioral dysfunction, result of, genetic function
+biologic function, process of, experimental model of disease
+organism function, result of, experimental model of disease
+element ion or isotope, isa, physical object
+educational activity, associated with, mental or behavioral dysfunction
+cell or molecular dysfunction, process of, pathologic function
+immunologic factor, isa, chemical
+pathologic function, isa, event
+pathologic function, process of, disease or syndrome
+biomedical or dental material, causes, mental or behavioral dysfunction
+disease or syndrome, affects, pathologic function
+diagnostic procedure, measures, biologically active substance
+experimental model of disease, affects, bird
+biologically active substance, affects, cell function
+tissue, location of, mental or behavioral dysfunction
+anatomical structure, location of, rickettsia or chlamydia
+fully formed anatomical structure, location of, mental or behavioral dysfunction
+disease or syndrome, precedes, mental or behavioral dysfunction
+genetic function, affects, experimental model of disease
+pharmacologic substance, interacts with, biologically active substance
+individual behavior, associated with, mental or behavioral dysfunction
+neoplastic process, result of, organism function
+molecular biology research technique, measures, element ion or isotope
+neoplastic process, associated with, organism attribute
+chemical viewed structurally, affects, molecular function
+mental or behavioral dysfunction, process of, disease or syndrome
+injury or poisoning, result of, mental or behavioral dysfunction
+biologic function, process of, mental process
+chemical viewed structurally, affects, biologic function
+diagnostic procedure, analyzes, element ion or isotope
+self help or relief organization, carries out, therapeutic or preventive procedure
+research activity, measures, antibiotic
+natural phenomenon or process, process of, experimental model of disease
+neoplastic process, precedes, disease or syndrome
+research device, causes, experimental model of disease
+biologic function, produces, receptor
+biologic function, affects, natural phenomenon or process
+laboratory procedure, assesses effect of, pharmacologic substance
+geographic area, associated with, experimental model of disease
+embryonic structure, developmental form of, tissue
+organism attribute, property of, organism
+organism function, isa, biologic function
+fish, issue in, occupation or discipline
+organism function, process of, fish
+drug delivery device, prevents, mental or behavioral dysfunction
+molecular function, process of, organism
+cell or molecular dysfunction, affects, experimental model of disease
+neoplastic process, result of, individual behavior
+inorganic chemical, isa, entity
+carbohydrate, causes, congenital abnormality
+experimental model of disease, process of, disease or syndrome
+disease or syndrome, process of, pathologic function
+amphibian, isa, physical object
+anatomical structure, part of, mammal
+therapeutic or preventive procedure, associated with, neoplastic process
+pharmacologic substance, interacts with, enzyme
+carbohydrate, interacts with, biologically active substance
+physiologic function, isa, biologic function
+anatomical abnormality, result of, biologic function
+carbohydrate, ingredient of, clinical drug
+neuroreactive substance or biogenic amine, affects, pathologic function
+therapeutic or preventive procedure, prevents, mental or behavioral dysfunction
+amino acid peptide or protein, affects, biologic function
+self help or relief organization, carries out, governmental or regulatory activity
+hormone, isa, biologically active substance
+pathologic function, issue in, biomedical occupation or discipline
+medical device, prevents, mental or behavioral dysfunction
+tissue, part of, vertebrate
+pharmacologic substance, prevents, disease or syndrome
+neoplastic process, result of, physiologic function
+drug delivery device, causes, mental or behavioral dysfunction
+organophosphorus compound, affects, pathologic function
+bird, isa, organism
+inorganic chemical, interacts with, neuroreactive substance or biogenic amine
+pharmacologic substance, complicates, neoplastic process
+neoplastic process, affects, animal
+biologic function, affects, cell function
+clinical attribute, property of, organism
+governmental or regulatory activity, associated with, experimental model of disease
+pharmacologic substance, treats, cell or molecular dysfunction
+pharmacologic substance, causes, neoplastic process
+genetic function, result of, pathologic function
+biomedical or dental material, affects, neoplastic process
+carbohydrate, causes, acquired abnormality
+tissue, isa, entity
+biologically active substance, affects, cell or molecular dysfunction
+hormone, complicates, neoplastic process
+laboratory procedure, measures, chemical viewed structurally
+pathologic function, process of, neoplastic process
+experimental model of disease, issue in, biomedical occupation or discipline
+chemical viewed structurally, affects, organ or tissue function
+pathologic function, produces, hormone
+pathologic function, result of, environmental effect of humans
+health care related organization, location of, research activity
+hormone, causes, neoplastic process
+pathologic function, affects, amphibian
+disease or syndrome, result of, biologic function
+neoplastic process, process of, plant
+mental or behavioral dysfunction, process of, neoplastic process
+laboratory procedure, affects, biologic function
+mental or behavioral dysfunction, affects, amphibian
+neoplastic process, isa, phenomenon or process
+organ or tissue function, produces, biologically active substance
+pathologic function, result of, congenital abnormality
+neoplastic process, process of, human
+fully formed anatomical structure, produces, lipid
+disease or syndrome, degree of, mental or behavioral dysfunction
+experimental model of disease, process of, neoplastic process
+immunologic factor, affects, pathologic function
+occupational activity, associated with, experimental model of disease
+embryonic structure, location of, cell or molecular dysfunction
+food, issue in, occupation or discipline
+experimental model of disease, result of, environmental effect of humans
+neoplastic process, manifestation of, molecular function
+experimental model of disease, affects, amphibian
+carbohydrate, interacts with, eicosanoid
+carbohydrate, isa, organic chemical
+embryonic structure, part of, bacterium
+neoplastic process, isa, disease or syndrome
+biologically active substance, affects, organism function
+nucleic acid nucleoside or nucleotide, interacts with, carbohydrate
+mental or behavioral dysfunction, produces, tissue
+immunologic factor, isa, biologically active substance
+self help or relief organization, location of, molecular biology research technique
+inorganic chemical, interacts with, indicator reagent or diagnostic aid
+professional or occupational group, diagnoses, mental or behavioral dysfunction
+virus, causes, mental or behavioral dysfunction
+sign or symptom, diagnoses, experimental model of disease
+cell, part of, tissue
+experimental model of disease, result of, congenital abnormality
+pharmacologic substance, prevents, mental or behavioral dysfunction
+tissue, produces, organophosphorus compound
+indicator reagent or diagnostic aid, affects, neoplastic process
+organism attribute, result of, neoplastic process
+tissue, part of, rickettsia or chlamydia
+pathologic function, process of, natural phenomenon or process
+enzyme, complicates, biologic function
+congenital abnormality, result of, mental or behavioral dysfunction
+immunologic factor, complicates, neoplastic process
+hazardous or poisonous substance, complicates, mental or behavioral dysfunction
+organ or tissue function, result of, neoplastic process
+cell or molecular dysfunction, manifestation of, neoplastic process
+experimental model of disease, result of, human caused phenomenon or process
+pathologic function, complicates, congenital abnormality
+mental or behavioral dysfunction, complicates, disease or syndrome
+steroid, interacts with, receptor
+organic chemical, affects, experimental model of disease
+sign or symptom, manifestation of, neoplastic process
+organ or tissue function, affects, biologic function
+hormone, disrupts, fully formed anatomical structure
+hazardous or poisonous substance, causes, mental or behavioral dysfunction
+receptor, isa, chemical
+organism function, process of, neoplastic process
+research activity, measures, lipid
+immunologic factor, indicates, neoplastic process
+organic chemical, isa, chemical viewed structurally
+body part organ or organ component, part of, fish
+bacterium, causes, experimental model of disease
+research activity, measures, pathologic function
+anatomical structure, part of, bacterium
+embryonic structure, part of, rickettsia or chlamydia
+neoplastic process, process of, reptile
+educational activity, associated with, neoplastic process
+biologically active substance, isa, entity
+biologically active substance, affects, physiologic function
+element ion or isotope, affects, mental or behavioral dysfunction
+neoplastic process, affects, archaeon
+gene or genome, isa, physical object
+rickettsia or chlamydia, causes, experimental model of disease
+hazardous or poisonous substance, isa, chemical
+steroid, causes, cell or molecular dysfunction
+laboratory procedure, assesses effect of, inorganic chemical
+carbohydrate, interacts with, vitamin
+laboratory procedure, measures, element ion or isotope
+fully formed anatomical structure, part of, amphibian
+experimental model of disease, result of, acquired abnormality
+biologic function, affects, organism function
+injury or poisoning, result of, neoplastic process
+carbohydrate, affects, pathologic function
+health care activity, affects, biologic function
+neoplastic process, affects, fungus
+genetic function, process of, organism
+pathologic function, result of, molecular function
+pathologic function, complicates, acquired abnormality
+chemical viewed structurally, isa, entity
+diagnostic procedure, measures, chemical viewed structurally
+embryonic structure, part of, alga
+pathologic function, result of, therapeutic or preventive procedure
+pathologic function, result of, biologic function
+tissue, location of, fungus
+therapeutic or preventive procedure, uses, pharmacologic substance
+embryonic structure, developmental form of, body part organ or organ component
+fully formed anatomical structure, location of, fungus
+neoplastic process, occurs in, professional or occupational group
+element ion or isotope, causes, pathologic function
+pathologic function, manifestation of, cell or molecular dysfunction
+neoplastic process, process of, experimental model of disease
+element ion or isotope, interacts with, pharmacologic substance
+eicosanoid, affects, experimental model of disease
+enzyme, affects, experimental model of disease
+cell function, isa, biologic function
+cell function, process of, fish
+neuroreactive substance or biogenic amine, isa, physical object
+cell, isa, physical object
+inorganic chemical, affects, experimental model of disease
+mental or behavioral dysfunction, associated with, pathologic function
+mental or behavioral dysfunction, manifestation of, cell or molecular dysfunction
+animal, isa, physical object
+pathologic function, isa, biologic function
+disease or syndrome, conceptually related to, experimental model of disease
+steroid, interacts with, element ion or isotope
+research activity, measures, genetic function
+therapeutic or preventive procedure, prevents, neoplastic process
+amino acid peptide or protein, affects, pathologic function
+research activity, associated with, experimental model of disease
+experimental model of disease, result of, molecular function
+cell component, part of, organism
+neoplastic process, process of, mental process
+vitamin, isa, physical object
+inorganic chemical, isa, chemical viewed structurally
+experimental model of disease, result of, biologic function
+research activity, associated with, anatomical abnormality
+cell or molecular dysfunction, co-occurs with, pathologic function
+body part organ or organ component, isa, fully formed anatomical structure
+mental or behavioral dysfunction, complicates, neoplastic process
+hazardous or poisonous substance, affects, neoplastic process
+medical device, prevents, neoplastic process
+organism, issue in, occupation or discipline
+neoplastic process, produces, receptor
+experimental model of disease, associated with, pathologic function
+experimental model of disease, manifestation of, cell or molecular dysfunction
+drug delivery device, causes, neoplastic process
+acquired abnormality, location of, mental or behavioral dysfunction
+self help or relief organization, isa, organization
+molecular function, result of, experimental model of disease
+embryonic structure, part of, invertebrate
+hormone, affects, experimental model of disease
+biologic function, affects, physiologic function
+pathologic function, process of, human
+chemical viewed functionally, causes, pathologic function
+molecular function, affects, fish
+pathologic function, affects, vertebrate
+neoplastic process, associated with, cell or molecular dysfunction
+therapeutic or preventive procedure, complicates, neoplastic process
+mental or behavioral dysfunction, isa, phenomenon or process
+food, affects, molecular function
+carbohydrate, affects, genetic function
+chemical, affects, mental or behavioral dysfunction
+anatomical structure, part of, alga
+mental or behavioral dysfunction, process of, human
+food, affects, biologic function
+mental or behavioral dysfunction, affects, vertebrate
+experimental model of disease, process of, plant
+nucleic acid nucleoside or nucleotide, interacts with, chemical
+mental or behavioral dysfunction, result of, natural phenomenon or process
+acquired abnormality, result of, biologic function
+finding, evaluation of, mental or behavioral dysfunction
+self help or relief organization, location of, health care activity
+cell, part of, organism
+chemical viewed structurally, interacts with, receptor
+finding, manifestation of, mental or behavioral dysfunction
+mental or behavioral dysfunction, isa, disease or syndrome
+congenital abnormality, manifestation of, mental or behavioral dysfunction
+mammal, isa, physical object
+research activity, method of, biomedical occupation or discipline
+disease or syndrome, result of, pathologic function
+nucleic acid nucleoside or nucleotide, causes, mental or behavioral dysfunction
+medical device, causes, neoplastic process
+laboratory procedure, affects, pathologic function
+diagnostic procedure, associated with, pathologic function
+biologic function, produces, hormone
+experimental model of disease, process of, human
+experimental model of disease, affects, vertebrate
+element ion or isotope, affects, disease or syndrome
+tissue, location of, diagnostic procedure
+bird, interacts with, fish
+pathologic function, result of, organ or tissue function
+biologic function, process of, mammal
+congenital abnormality, part of, organism
+biologic function, process of, molecular function
+fish, isa, vertebrate
+natural phenomenon or process, affects, biologic function
+experimental model of disease, manifestation of, organism function
+neoplastic process, result of, laboratory procedure
+vertebrate, isa, physical object
+neoplastic process, affects, cell function
+organism function, result of, biologic function
+anatomical structure, part of, invertebrate
+tissue, issue in, biomedical occupation or discipline
+therapeutic or preventive procedure, associated with, experimental model of disease
+health care activity, associated with, mental or behavioral dysfunction
+tissue, part of, animal
+cell, produces, carbohydrate
+biologic function, affects, bird
+tissue, location of, cell function
+mental or behavioral dysfunction, produces, vitamin
+fully formed anatomical structure, location of, cell function
+biologically active substance, interacts with, chemical
+genetic function, affects, biologic function
+biologic function, result of, genetic function
+biologically active substance, complicates, mental or behavioral dysfunction
+carbohydrate, causes, pathologic function
+neoplastic process, manifestation of, pathologic function
+mental or behavioral dysfunction, result of, cell function
+pathologic function, process of, reptile
+acquired abnormality, manifestation of, mental or behavioral dysfunction
+virus, causes, neoplastic process
+biologically active substance, causes, mental or behavioral dysfunction
+natural phenomenon or process, process of, biologic function
+embryonic structure, part of, animal
+pharmacologic substance, prevents, neoplastic process
+pharmacologic substance, complicates, experimental model of disease
+biologic function, result of, mental or behavioral dysfunction
+cell or molecular dysfunction, affects, biologic function
+acquired abnormality, part of, organism

@@ -1,0 +1,35 @@
+acquired abnormality
+age group
+anatomical abnormality
+archaeon
+biologic function
+biomedical or dental material
+carbohydrate
+cell component
+clinical drug
+conceptual entity
+disease or syndrome
+element ion or isotope
+entity
+food
+fully formed anatomical structure
+geographic area
+group attribute
+human caused phenomenon or process
+immunologic factor
+laboratory or test result
+mammal
+nucleic acid nucleoside or nucleotide
+nucleotide sequence
+occupational activity
+organism
+organophosphorus compound
+population group
+professional or occupational group
+professional society
+qualitative concept
+quantitative concept
+reptile
+self help or relief organization
+spatial concept
+substance

@@ -1,0 +1,181 @@
+acquired abnormality
+activity
+adjacent to
+affects
+age group
+alga
+amino acid peptide or protein
+amino acid sequence
+amphibian
+analyzes
+anatomical abnormality
+anatomical structure
+animal
+antibiotic
+archaeon
+assesses effect of
+associated with
+bacterium
+behavior
+biologic function
+biologically active substance
+biomedical occupation or discipline
+biomedical or dental material
+bird
+body location or region
+body part organ or organ component
+body space or junction
+body substance
+body system
+carbohydrate
+carbohydrate sequence
+carries out
+causes
+cell
+cell component
+cell function
+cell or molecular dysfunction
+chemical
+chemical viewed functionally
+chemical viewed structurally
+classification
+clinical attribute
+clinical drug
+co-occurs with
+complicates
+conceptual entity
+conceptual part of
+conceptually related to
+congenital abnormality
+connected to
+consists of
+contains
+daily or recreational activity
+degree of
+derivative of
+developmental form of
+diagnoses
+diagnostic procedure
+disease or syndrome
+disrupts
+drug delivery device
+educational activity
+eicosanoid
+element ion or isotope
+embryonic structure
+entity
+environmental effect of humans
+enzyme
+evaluation of
+event
+exhibits
+experimental model of disease
+family group
+finding
+fish
+food
+fully formed anatomical structure
+functional concept
+fungus
+gene or genome
+genetic function
+geographic area
+governmental or regulatory activity
+group
+group attribute
+hazardous or poisonous substance
+health care activity
+health care related organization
+hormone
+human
+human caused phenomenon or process
+idea or concept
+immunologic factor
+indicates
+indicator reagent or diagnostic aid
+individual behavior
+ingredient of
+injury or poisoning
+inorganic chemical
+intellectual product
+interacts with
+interconnects
+invertebrate
+isa
+issue in
+laboratory or test result
+laboratory procedure
+language
+lipid
+location of
+machine activity
+mammal
+manages
+manifestation of
+manufactured object
+measurement of
+measures
+medical device
+mental or behavioral dysfunction
+mental process
+method of
+molecular biology research technique
+molecular function
+molecular sequence
+natural phenomenon or process
+neoplastic process
+neuroreactive substance or biogenic amine
+nucleic acid nucleoside or nucleotide
+nucleotide sequence
+occupation or discipline
+occupational activity
+occurs in
+organ or tissue function
+organic chemical
+organism
+organism attribute
+organism function
+organization
+organophosphorus compound
+part of
+pathologic function
+patient or disabled group
+performs
+pharmacologic substance
+phenomenon or process
+physical object
+physiologic function
+plant
+population group
+practices
+precedes
+prevents
+process of
+produces
+professional or occupational group
+professional society
+property of
+qualitative concept
+quantitative concept
+receptor
+regulation or law
+reptile
+research activity
+research device
+result of
+rickettsia or chlamydia
+self help or relief organization
+sign or symptom
+social behavior
+spatial concept
+steroid
+substance
+surrounds
+temporal concept
+therapeutic or preventive procedure
+tissue
+treats
+uses
+vertebrate
+virus
+vitamin

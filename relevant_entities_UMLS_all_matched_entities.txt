@@ -1,0 +1,125 @@
+qualitative concept
+inorganic chemical
+laboratory or test result
+cell component
+family group
+cell
+fully formed anatomical structure
+body substance
+health care activity
+intellectual product
+vertebrate
+occupational activity
+classification
+daily or recreational activity
+chemical viewed functionally
+sign or symptom
+acquired abnormality
+indicator reagent or diagnostic aid
+organ or tissue function
+biomedical occupation or discipline
+regulation or law
+neoplastic process
+element ion or isotope
+anatomical abnormality
+amphibian
+neuroreactive substance or biogenic amine
+disease or syndrome
+governmental or regulatory activity
+enzyme
+experimental model of disease
+gene or genome
+mental or behavioral dysfunction
+alga
+receptor
+antibiotic
+lipid
+manufactured object
+organism attribute
+patient or disabled group
+substance
+congenital abnormality
+drug delivery device
+human
+body location or region
+event
+chemical
+vitamin
+environmental effect of humans
+embryonic structure
+health care related organization
+group
+anatomical structure
+entity
+human caused phenomenon or process
+organophosphorus compound
+chemical viewed structurally
+invertebrate
+rickettsia or chlamydia
+biomedical or dental material
+organism
+bacterium
+body space or junction
+biologic function
+behavior
+professional or occupational group
+amino acid peptide or protein
+archaeon
+mental process
+hormone
+activity
+nucleic acid nucleoside or nucleotide
+fish
+pharmacologic substance
+injury or poisoning
+research device
+diagnostic procedure
+virus
+animal
+organism function
+pathologic function
+body system
+carbohydrate
+mammal
+genetic function
+clinical drug
+population group
+body part organ or organ component
+clinical attribute
+occupation or discipline
+educational activity
+therapeutic or preventive procedure
+organization
+physical object
+individual behavior
+conceptual entity
+physiologic function
+plant
+molecular function
+bird
+social behavior
+natural phenomenon or process
+self help or relief organization
+biologically active substance
+reptile
+hazardous or poisonous substance
+cell or molecular dysfunction
+molecular biology research technique
+cell function
+temporal concept
+organic chemical
+tissue
+immunologic factor
+phenomenon or process
+fungus
+steroid
+geographic area
+finding
+age group
+eicosanoid
+medical device
+professional society
+food
+laboratory procedure
+quantitative concept
+research activity

@@ -1,0 +1,31 @@
+anatomical structure
+biologic function
+biologically active substance
+carbohydrate
+chemical
+chemical viewed structurally
+element ion or isotope
+embryonic structure
+experimental model of disease
+fish
+food
+fully formed anatomical structure
+inorganic chemical
+manufactured object
+mental or behavioral dysfunction
+neoplastic process
+organism
+pathologic function
+pharmacologic substance
+physical object
+research activity
+self help or relief organization
+steroid
+tissue
+affects
+disrupts
+isa
+location of
+part of
+precedes
+result of
